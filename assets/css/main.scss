@@ -42,7 +42,7 @@
 
 /* 黑夜模式样式 */
 .dark-mode {
-    background-color: #0e1117; /* 黑色背景 */
+    background-color: #181b22; /* 黑色背景 */
     color: #eaeaea; /* 浅色字体 */
     
   a {
@@ -55,7 +55,7 @@
 
  /* 导航栏背景和字体颜色 */
     .navbar, .site-header {
-      background-color: #1f1f1f; /* 导航栏背景色 */
+      background-color: #3b3b3b; /* 导航栏背景色 */
       color: #eaeaea; /* 导航栏字体颜色 */
     }
 
@@ -65,13 +65,13 @@
     }
 
     .btn {
-      background-color: #333; /* 按钮背景色 */
+      background-color: #3b3b3b; /* 按钮背景色 */
       color: #eaeaea;
     }
 
     /* 确保任何其他顶层元素的背景色也变为黑色 */
     .top-header, .main-header, .page-header {
-      background-color: #1f1f1f !important;
+      background-color: #3b3b3b !important;
       color: #eaeaea !important;
     }
 
@@ -80,7 +80,7 @@
       color: #eaeaea !important; /* 标题或品牌文字的颜色 */
     }
   .btn {
-    background-color: #333; /* 按钮背景色 */
+    background-color: #3b3b3b; /* 按钮背景色 */
     color: #eaeaea;
   }
 
