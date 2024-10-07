@@ -43,24 +43,126 @@
 /* 黑夜模式样式 */
 .dark-mode {
     background-color: #121212; /* 黑色背景 */
-    color: #e0e0e0; /* 浅色字体 */
+    color: #eaeaea; /* 浅色字体 */
     
   a {
-    color: #bb86fc; /* 链接的颜色 */
+    color: #9bd0d4; /* 链接的颜色 */
   }
 
   h1, h2, h3, h4, h5, h6 {
-    color: #ffffff; /* 标题颜色 */
+    color: #eaeaea; /* 标题颜色 */
   }
 
-  .navbar {
-    background-color: #1f1f1f; /* 导航栏背景色 */
-  }
+ /* 导航栏背景和字体颜色 */
+    .navbar, .site-header {
+      background-color: #1f1f1f; /* 导航栏背景色 */
+      color: #eaeaea; /* 导航栏字体颜色 */
+    }
 
+    /* 导航栏中的链接颜色 */
+    .navbar a, .site-header a {
+      color: #eaeaea; /* 导航栏链接颜色 */
+    }
+
+    .btn {
+      background-color: #333; /* 按钮背景色 */
+      color: #eaeaea;
+    }
+
+    /* 确保任何其他顶层元素的背景色也变为黑色 */
+    .top-header, .main-header, .page-header {
+      background-color: #1f1f1f !important;
+      color: #eaeaea !important;
+    }
+
+    /* 如果导航栏包含品牌或Logo部分 */
+    .navbar-brand, .site-title {
+      color: #eaeaea !important; /* 标题或品牌文字的颜色 */
+    }
   .btn {
     background-color: #333; /* 按钮背景色 */
-    color: #fff;
+    color: #eaeaea;
   }
 
   /* 可根据需要定义更多元素的黑夜模式样式 */
+}
+
+/* 开关按钮的样式 */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  margin-right: 10px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #4CAF50;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.toggle-text {
+  color: #9bd0d4;
+  font-size: 18px;
+  vertical-align: middle;
+}
+
+/* 将开关容器放在页面右上角 */
+.toggle-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+/* 针对黑夜模式的图标颜色设置 */
+.dark-mode .fa-envelope {
+  color: #ffffff !important; /* 将 Email 图标的颜色变为白色 */
+}
+
+.dark-mode .fa-google-scholar, /* 针对 Google Scholar 图标 */
+.dark-mode .fa-pubmed,         /* 针对 PubMed 图标 */
+.dark-mode .fa-github,         /* 针对 Github 图标 */
+.dark-mode .fa-linkedin {
+  color: #ffffff !important; /* 将其他图标也设置为白色 */
 }
