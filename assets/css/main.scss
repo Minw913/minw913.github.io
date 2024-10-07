@@ -91,9 +91,6 @@
 .dark-mode .fa-envelope {
   color: #ffffff !important; /* 将 Email 图标的颜色变为白色 */
 }
-
-.dark-mode .fa-google-scholar, /* 针对 Google Scholar 图标 */
-.dark-mode .fa-pubmed,         /* 针对 PubMed 图标 */
 .dark-mode .fa-github,         /* 针对 Github 图标 */
 .dark-mode .fa-linkedin {
   color: #ffffff !important; /* 将其他图标也设置为白色 */
@@ -108,8 +105,8 @@
 .switch {
   position: relative;
   display: inline-block;
-  width: 60px;
-  height: 34px;
+  width: 40px;
+  height: 24px;
   margin-right: 10px;
 }
 
@@ -133,8 +130,8 @@
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
+  height: 16px;
+  width: 16px;
   left: 4px;
   bottom: 4px;
   background-color: white;
@@ -142,7 +139,7 @@
 }
 
 input:checked + .slider {
-  background-color: #4CAF50; /* 开启时的背景色 */
+  background-color: #9bd0d4; /* 开启时的背景色 */
 }
 
 input:checked + .slider:before {
@@ -160,8 +157,15 @@ input:checked + .slider:before {
 /* Dark Mode 切换按钮的文本样式 */
 .toggle-text {
   color: #9bd0d4;
-  font-size: 18px;
+  font-size: 14px;
   vertical-align: middle;
+}
+
+/* 使按钮和文字更紧凑地放在一起 */
+.toggle-container {
+  display: flex;
+  align-items: center;
+  gap: 5px; /* 控制开关按钮与文字之间的间距 */
 }
 
 /* 将开关容器放在页面右上角 */
