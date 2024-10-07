@@ -55,7 +55,7 @@ a:hover {
 /* 黑夜模式样式 */
 .dark-mode {
     background-color: #0e1117; /* 黑色背景 */
-    color: #eaeaea; /* 浅色字体 */
+    color: #bcb7b0; /* 浅色字体 */
     
   a {
     color: #9bd0d4 !important; /* 链接的颜色 */
@@ -68,38 +68,38 @@ a:hover {
   }
 
   h1, h2, h3, h4, h5, h6 {
-    color: #eaeaea; /* 标题颜色 */
+    color: #bcb7b0; /* 标题颜色 */
   }
 
  /* 导航栏背景和字体颜色 */
     .navbar, .site-header {
       background-color: #3b3b3b; /* 导航栏背景色 */
-      color: #eaeaea; /* 导航栏字体颜色 */
+      color: #bcb7b0; /* 导航栏字体颜色 */
     }
 
     /* 导航栏中的链接颜色 */
     .navbar a, .site-header a {
-      color: #eaeaea; /* 导航栏链接颜色 */
+      color: #bcb7b0; /* 导航栏链接颜色 */
     }
 
     .btn {
       background-color: #3b3b3b; /* 按钮背景色 */
-      color: #eaeaea;
+      color: #bcb7b0;
     }
 
     /* 确保任何其他顶层元素的背景色也变为黑色 */
     .top-header, .main-header, .page-header {
       background-color: #3b3b3b !important;
-      color: #eaeaea !important;
+      color: #bcb7b0 !important;
     }
 
     /* 如果导航栏包含品牌或Logo部分 */
     .navbar-brand, .site-title {
-      color: #eaeaea !important; /* 标题或品牌文字的颜色 */
+      color: #bcb7b0 !important; /* 标题或品牌文字的颜色 */
     }
   .btn {
     background-color: #3b3b3b; /* 按钮背景色 */
-    color: #eaeaea;
+    color: #bcb7b0;
   }
 
   /* 可根据需要定义更多元素的黑夜模式样式 */
@@ -107,11 +107,11 @@ a:hover {
 
 /* 针对黑夜模式的图标颜色设置 */
 .dark-mode .fa-envelope {
-  color: #ffffff !important; /* 将 Email 图标的颜色变为白色 */
+  color: #eaeaea !important; /* 将 Email 图标的颜色变为白色 */
 }
 .dark-mode .fa-github,         /* 针对 Github 图标 */
 .dark-mode .fa-linkedin {
-  color: #ffffff !important; /* 将其他图标也设置为白色 */
+  color: #eaeaea !important; /* 将其他图标也设置为白色 */
 }
 
 /* 或者你可以统一将所有 Font Awesome 图标设置为白色 */
@@ -176,6 +176,7 @@ input:checked + .slider:before {
 .toggle-text {
   color: #9bd0d4;
   font-size: 14px;
+  line-height: 24px;
   vertical-align: middle;
 }
 
