@@ -87,6 +87,11 @@
   /* 可根据需要定义更多元素的黑夜模式样式 */
 }
 
+/* 或者你可以统一将所有 Font Awesome 图标设置为白色 */
+.dark-mode .fas {
+  color: #eaeaea !important;
+}
+
 /* 开关按钮的样式 */
 .switch {
   position: relative;
