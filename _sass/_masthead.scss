@@ -2,9 +2,10 @@
    MASTHEAD
    ========================================================================== */
 
+  // #020409 深蓝色系  #3b3b3b 灰色系
 .masthead {
   position: fixed;
-  background: #3b3b3b;
+  background: #020409;  
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
@@ -50,6 +51,11 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background-color: #3b3b3b; /* 修改背景颜色为 #3b3b3b */
+
+  &:hover {
+    background-color: #555555; /* 悬停时的背景颜色 */
+  }
 
   &--lg {
     padding-right: 2em;
