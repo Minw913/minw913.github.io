@@ -87,6 +87,18 @@
   /* 可根据需要定义更多元素的黑夜模式样式 */
 }
 
+/* 针对黑夜模式的图标颜色设置 */
+.dark-mode .fa-envelope {
+  color: #ffffff !important; /* 将 Email 图标的颜色变为白色 */
+}
+
+.dark-mode .fa-google-scholar, /* 针对 Google Scholar 图标 */
+.dark-mode .fa-pubmed,         /* 针对 PubMed 图标 */
+.dark-mode .fa-github,         /* 针对 Github 图标 */
+.dark-mode .fa-linkedin {
+  color: #ffffff !important; /* 将其他图标也设置为白色 */
+}
+
 /* 或者你可以统一将所有 Font Awesome 图标设置为白色 */
 .dark-mode .fas {
   color: #eaeaea !important;
@@ -159,4 +171,5 @@ input:checked + .slider:before {
   right: 10px;
   display: flex;
   align-items: center;
+  z-index: 100;
 }
