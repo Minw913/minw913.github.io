@@ -43,21 +43,21 @@ Example: editing a markdown file for a talk
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="ENFP.png" class="d-block w-100" alt="Art 1">
+      <img src="/images/ENFP.png" class="d-block w-100" alt="Art 1">
       <div class="carousel-caption d-none d-md-block">
         <h5>Art Title 1</h5>
         <p>Happiness: 30.45 | Smile value: 25.99</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="INFJ.png" class="d-block w-100" alt="Art 2">
+      <img src="/images/INFJ.png" class="d-block w-100" alt="Art 2">
       <div class="carousel-caption d-none d-md-block">
         <h5>Art Title 2</h5>
         <p>Happiness: 69.20 | Smile value: 62.83</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="ENTP.png" class="d-block w-100" alt="Art 3">
+      <img src="/images/ENTP.png" class="d-block w-100" alt="Art 3">
       <div class="carousel-caption d-none d-md-block">
         <h5>Art Title 3</h5>
         <p>Happiness: 99.59 | Smile value: 92.33</p>
@@ -73,6 +73,9 @@ Example: editing a markdown file for a talk
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+Try to insert interactive plots
+<iframe src="images/mesh_data_with_legend_jenks.html" width="100%" height="600px" frameborder="0"></iframe>
 
 For more info
 ------

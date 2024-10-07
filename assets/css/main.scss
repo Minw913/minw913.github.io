@@ -40,6 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* 明亮模式下的超链接颜色 */
+a {
+  color: #476c89; /* 绿色 */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #273d5f; /* 深绿色 */
+  text-decoration: underline;
+}
+
+
 /* 黑夜模式样式 */
 .dark-mode {
     background-color: #0e1117; /* 黑色背景 */
