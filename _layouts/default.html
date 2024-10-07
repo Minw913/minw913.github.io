@@ -15,6 +15,9 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    <!-- 黑夜模式切换按钮放在页脚之前 -->
+    <button id="dark-mode-toggle">Toggle Dark Mode</button>
+
 
     {{ content }}
 
@@ -26,6 +29,9 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <!-- 在这里添加引入 JavaScript 文件 -->
+    <script src="/assets/js/scripts.js"></script>
 
   </body>
 </html>
