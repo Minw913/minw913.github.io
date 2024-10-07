@@ -42,12 +42,12 @@
 
 /* 明亮模式下的超链接颜色 */
 a {
-  color: #476c89; /* 绿色 */
+  color: #476c89 !important; /* 蓝色 */
   text-decoration: none;
 }
 
 a:hover {
-  color: #273d5f; /* 深绿色 */
+  color: #273d5f !important; /* 深蓝色 */
   text-decoration: underline;
 }
 
@@ -188,4 +188,13 @@ input:checked + .slider:before {
   display: flex;
   align-items: center;
   z-index: 100;
+}
+
+.carousel-item {
+  height: 400px; /* 设置轮播图的高度 */
+}
+
+.carousel-item img {
+  height: 100%; /* 图片高度跟随容器 */
+  width: auto; /* 图片宽度按比例调整 */
 }

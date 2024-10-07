@@ -75,7 +75,7 @@ Example: editing a markdown file for a talk
 </div>
 
 Try to insert interactive plots
-<iframe src="images/mesh_data_with_legend_jenks.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="images/recreation_data.html" width="100%" height="600px" frameborder="0"></iframe>
 
 For more info
 ------
