@@ -125,7 +125,7 @@
 }
 
 input:checked + .slider {
-  background-color: #4CAF50;
+  background-color: #4CAF50; /* 开启时的背景色 */
 }
 
 input:checked + .slider:before {
@@ -140,6 +140,7 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 
+/* Dark Mode 切换按钮的文本样式 */
 .toggle-text {
   color: #9bd0d4;
   font-size: 18px;
@@ -153,16 +154,4 @@ input:checked + .slider:before {
   right: 10px;
   display: flex;
   align-items: center;
-}
-
-/* 针对黑夜模式的图标颜色设置 */
-.dark-mode .fa-envelope {
-  color: #ffffff !important; /* 将 Email 图标的颜色变为白色 */
-}
-
-.dark-mode .fa-google-scholar, /* 针对 Google Scholar 图标 */
-.dark-mode .fa-pubmed,         /* 针对 PubMed 图标 */
-.dark-mode .fa-github,         /* 针对 Github 图标 */
-.dark-mode .fa-linkedin {
-  color: #ffffff !important; /* 将其他图标也设置为白色 */
 }
