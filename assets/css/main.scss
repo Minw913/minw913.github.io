@@ -43,7 +43,7 @@
 /* 明亮模式下的超链接颜色 */
 a {
   color: #476c89 !important; /* 蓝色 */
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 a:hover {
@@ -59,11 +59,12 @@ a:hover {
     
   a {
     color: #9bd0d4 !important; /* 链接的颜色 */
+    text-decoration: none !important;
   }
 
   a:hover {
     color: #227B94 !important; /* 深蓝色 */
-    text-decoration: underline;
+    text-decoration: underline !important;
   }
 
   h1, h2, h3, h4, h5, h6 {
