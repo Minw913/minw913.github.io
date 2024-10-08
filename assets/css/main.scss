@@ -123,6 +123,7 @@ a:hover {
 .switch {
   position: relative;
   display: inline-block;
+  top: 10px;
   width: 40px;
   height: 24px;
   margin-right: 10px;
@@ -137,10 +138,10 @@ a:hover {
 .slider {
   position: absolute;
   cursor: pointer;
-  top: -5px !important; /* 调整此处来控制滑块向下移动的距离 */
+  top: 0; /* 调整此处来控制滑块向下移动的距离 */
   left: 0;
   right: 0;
-  bottom: -5px;
+  bottom: 0px;
   background-color: #ccc;
   transition: 0.4s;
 }
@@ -151,7 +152,7 @@ a:hover {
   height: 16px;
   width: 16px;
   left: 4px;
-  bottom: 4px;
+  bottom: 9px;
   background-color: white;
   transition: 0.4s;
 }
