@@ -137,7 +137,7 @@ a:hover {
 .slider {
   position: absolute;
   cursor: pointer;
-  top: 0;
+  top: 3px; /* 调整此处来控制滑块向下移动的距离 */
   left: 0;
   right: 0;
   bottom: 0;
@@ -178,6 +178,7 @@ input:checked + .slider:before {
   font-size: 14px;
   //line-height: 24px;
   vertical-align: middle;
+  //top: -3px; /* 这里调整为负数来向上移动文本 */
 }
 
 /* 将开关容器放在页面右上角 */
