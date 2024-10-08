@@ -137,10 +137,10 @@ a:hover {
 .slider {
   position: absolute;
   cursor: pointer;
-  top: 3px; /* 调整此处来控制滑块向下移动的距离 */
+  top: 0; /* 调整此处来控制滑块向下移动的距离 */
   left: 0;
   right: 0;
-  bottom: 0;
+  bottom: 10px;
   background-color: #ccc;
   transition: 0.4s;
 }
