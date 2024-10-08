@@ -177,24 +177,19 @@ input:checked + .slider:before {
   color: #9bd0d4;
   font-size: 14px;
   //line-height: 24px;
-  //vertical-align: middle;
-}
-
-/* 使按钮和文字更紧凑地放在一起 */
-.toggle-container {
-  display: flex;
-  align-items: center;
-  gap: 5px; /* 控制开关按钮与文字之间的间距 */
+  vertical-align: middle;
 }
 
 /* 将开关容器放在页面右上角 */
+/* 使按钮和文字更紧凑地放在一起 */
 .toggle-container {
   position: absolute;
   top: 10px;
   right: 10px;
-  display: flex;
-  align-items: center;
+  // display: flex;
+  // align-items: center;
   z-index: 100;
+  gap: 5px; /* 控制开关按钮与文字之间的间距 */
 }
 
 .carousel-item {
