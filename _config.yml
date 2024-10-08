@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Minwei Kong"
   pronouns         : # example: "she/her"  
-  bio              : "Science of Where | GEOAI | Neophile"
+  bio              : "Science of Where | GISphere & GEOAI | Neophile"
   location         : "Nanjing, China"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Minw913"
+  github           : "Minw913" # https://github.com/
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/minwei-kong-520346268/"
+  linkedin         : "minwei-kong-520346268/" # https://www.linkedin.com/in/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
