@@ -140,7 +140,7 @@ a:hover {
   top: -5px !important; /* 调整此处来控制滑块向下移动的距离 */
   left: 0;
   right: 0;
-  bottom: 0;
+  bottom: -5px;
   background-color: #ccc;
   transition: 0.4s;
 }
