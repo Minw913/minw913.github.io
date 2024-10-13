@@ -14,18 +14,18 @@ In order to gain insight into real-world problems and industry needs，shortly a
 I have had some academic research experience in the past and am eager to continue deepening my expertise in the field I am passionate about. I also enjoy the atmosphere and life in a university campus. Therefore, I am actively seeking potential PhD opportunities, aiming to continuously challenge myself and explore the frontiers of research. My current research interests mainly lie in **transportation optimization and behavior modeling**; **spatially-explicit GEOAI and urban computing**.
 
 
-
+------
 **Hobbies**
 In my spare time, I enjoy following various mystery, fantasy and science fiction novels, TV shows, and podcasts. It would be great if I could become an amateur illustrator of sci-fi novels in the future! I relate somewhat to the word Neophile, as I am a person who holds a positive attitude toward new things, innovation, and change. I have a strong enthusiasm for new technologies and emerging ideas, which might be the underlying motivation driving me to continuously study in data science field.
 
 
-**Markdown generator**
-------
+<!-- **Markdown generator**
+------ -->
 
 <!-- Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
-<div id="artCarousel" class="carousel slide" data-ride="carousel">
+<!-- <div id="artCarousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#artCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#artCarousel" data-slide-to="1"></li>
@@ -65,4 +65,4 @@ In my spare time, I enjoy following various mystery, fantasy and science fiction
 </div>
 
 Try to insert interactive plots
-<iframe src="images/recreation_data.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="images/recreation_data.html" width="100%" height="600px" frameborder="0"></iframe> -->
