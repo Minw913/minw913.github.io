@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template]
+My past experiences combine the interdisciplinary field of urban planning, GISphere, and data science. Benefiting from Nanjing University's Urban and Rural Planning program with its emphasis on geography and geographic information systems, I developed a strong interest in the intersection of urban studies and data science. After completing my undergraduate studies, I sought to a transition towards a more data-driven and programming-oriented research paradigm. The program [MSc Geographic Data Science](https://www.lse.ac.uk/study-at-lse/graduate/msc-geographic-data-science) at LSE is a program driven by spatial econometrics and data science, with courses related to machine learning offered under the Department of Statistics. During my time there, I received further training in mathematical statistics and programming. The diversity and international environment at LSE also allowed me to meet many enthusiastic and friendly classmates with rich data science work experience. Shortly after completing my master’s thesis, I start remote work in September at Spatial Pleasure, a Tokyo-based company primarily focused on re-optimizing the city through decarbonization of the transportation domain.
+
+I have had some academic research experience in the past and am eager to continue deepening my expertise in the field I am passionate about. I also enjoy the atmosphere and life in a university campus. Therefore, I am actively seeking potential PhD opportunities, aiming to continuously challenge myself and explore the frontiers of research. My current research interests mainly lie in **transportation optimization and behavior modeling**, as well as **spatially-explicit GEOAI and urban computing**.
+
+In my spare time, I enjoy following various mystery, fantasy and science fiction novels, TV shows, and podcasts. It would be great if I could become an amateur illustrator of sci-fi novels in the future! I relate somewhat to the word Neophile, as I am a person who holds a positive attitude toward new things, innovation, and change. I have a strong enthusiasm for new technologies and emerging ideas, which might be the underlying motivation driving me to continuously study in data science field.
 
 Create content & metadata
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 <!-- Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
