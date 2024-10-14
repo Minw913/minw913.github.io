@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My past experiences combine the interdisciplinary field of urban planning, GISphere, and data science:
+My background combines urban planning, GIS, and data science:
 <br>
 **Spatial Pleasure Inc.**  
 <span>Data Scientist</span><span style="float: right;">_2024/09 - Present_</span>  
@@ -19,7 +19,7 @@ My past experiences combine the interdisciplinary field of urban planning, GISph
 <br>
 <span>B.E. Urban and Rural Planning</span><span style="float: right;">_2018/09 – 2023/06_</span>
 
-I developed a strong interest in the intersection of urban studies and data science early on while pursuing a degree in [Urban and Rural Planning](https://arch.nju.edu.cn/) at Nanjing University, where the program emphasized geographic information systems (GIS). After my undergraduate degree, I sought to transition towards a more data-driven and programming-oriented research paradigm and the Master program [Geographic Data Science](https://www.lse.ac.uk/study-at-lse/graduate/msc-geographic-data-science) at LSE perfectly aligned with these goals. The program focuses on spatial econometrics and data science, with machine learning courses offered by the Department of Statistics. During this time, I further developed my skills in mathematical statistics and programming while benefiting from the diverse, international environment and learning from classmates with extensive data science experience.
+I developed a strong interest in the intersection of urban studies and data science during my studies in [Urban and Rural Planning](https://arch.nju.edu.cn/) at Nanjing University, where I where the program emphasized geographic information systems (GIS). After my undergraduate degree, I pursued a Master’s in [Geographic Data Science](https://www.lse.ac.uk/study-at-lse/graduate/msc-geographic-data-science) at LSE to focus more on data-driven research. The program, emphasizing spatial econometrics and machine learning, allowed me to hone my skills in statistics and programming, while also benefiting from a diverse, international environment.
 
 Upon completing my master’s thesis, In order to gain insight into real-world problems and industry needs, I have started remote work at [Spatial Pleasure](https://spatial-pleasure.xyz/en/page/2/) since September. It is a Tokyo-based company primarily focused on re-optimizing the city through decarbonization of the transportation domain.
 
@@ -28,7 +28,7 @@ Currently, I am actively seeking potential PhD opportunities, aiming to continuo
 <!-- ------ -->
 <!-- **Hobbies** -->
 <!-- In my spare time, I enjoy following various mystery, fantasy and science fiction novels, TV shows, and podcasts. It would be great if I could become an amateur illustrator of sci-fi novels in the future!  -->
-<!-- I relate somewhat to the word Neophile, as I am a person who holds a positive attitude toward new things, innovation, and change. I have a strong enthusiasm for new technologies and emerging ideas, which might be the underlying motivation driving me to continuously study in data science field. 放侧边栏吧--> 
+<!-- I relate somewhat to the word Neophile, as I am a person who holds a positive attitude toward new things, innovation, and change. I have a strong enthusiasm for new technologies and emerging ideas, which might be the underlying motivation driving me to continuously study in data science field. --> 
 
 
 <!-- **Markdown generator**
