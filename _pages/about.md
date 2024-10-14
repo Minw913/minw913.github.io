@@ -8,17 +8,15 @@ redirect_from:
 ---
 
 My past experiences combine the interdisciplinary field of urban planning, GISphere, and data science:
-**Spatial Pleasure Inc.**  
 
+**Spatial Pleasure Inc.**  
 <span>Data Scientist</span><span style="float: right;">_2024/09 - Present_</span>  
 
 **The London School of Economics and Political Science**  
-
-<span>MSc Geographic Data Science</span><span style="float: right;">_2023/09 – 2024/11 (Expected)_</span>  
+<span>M.S. Geographic Data Science</span><span style="float: right;">_2023/09 – 2024/11 (Expected)_</span>  
 
 **Nanjing University**
-
-<span>BEng Urban and Rural Planning</span><span style="float: right;">_2018/09 – 2023/06_</span>
+<span>B.E. Urban and Rural Planning</span><span style="float: right;">_2018/09 – 2023/06_</span>
 
 I developed a strong interest in the intersection of urban studies and data science early on while pursuing a degree in [Urban and Rural Planning](https://arch.nju.edu.cn/) at Nanjing University, where the program emphasized geographic information systems (GIS). After my undergraduate degree, I sought to transition towards a more data-driven and programming-oriented research paradigm and the Master program [Geographic Data Science](https://www.lse.ac.uk/study-at-lse/graduate/msc-geographic-data-science) at LSE perfectly aligned with these goals. The program focuses on spatial econometrics and data science, with machine learning courses offered by the Department of Statistics. During this time, I further developed my skills in mathematical statistics and programming while benefiting from the diverse, international environment and learning from classmates with extensive data science experience.
 

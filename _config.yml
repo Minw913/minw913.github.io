@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Minwei Kong"
   pronouns         : # example: "she/her"  
-  bio              : "|
+  bio              : |
     Science of Where | GISphere & GEOAI | Neophile
-    
-    I relate somewhat to the word Neophile, as I am a person who holds a positive attitude toward new things, innovation, and change, which might be the underlying motivation driving me to continuously study in the data science field."
+
+    I relate somewhat to the word Neophile, as I am a person who holds a positive attitude toward new things, innovation, and change, which might be the underlying motivation driving me to continuously study in the data science field.
   location         : "Nanjing, China"
   employer         : #"Red Brick University"
   uri              : # URL
