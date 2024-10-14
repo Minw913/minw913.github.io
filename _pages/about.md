@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 My background combines urban planning, GIS, and data science:
-<br>
+
 **Spatial Pleasure Inc.**  
 <span>Data Scientist</span><span style="float: right;">_2024/09 - Present_</span>  
 
@@ -19,20 +19,11 @@ My background combines urban planning, GIS, and data science:
 <br>
 <span>B.E. Urban and Rural Planning</span><span style="float: right;">_2018/09 – 2023/06_</span>
 
-I developed a strong interest in the intersection of urban studies and data science during my studies in [Urban and Rural Planning](https://arch.nju.edu.cn/) at Nanjing University, where I where the program emphasized geographic information systems (GIS). After my undergraduate degree, I pursued a Master’s in [Geographic Data Science](https://www.lse.ac.uk/study-at-lse/graduate/msc-geographic-data-science) at LSE to focus more on data-driven research. The program, emphasizing spatial econometrics and machine learning, allowed me to hone my skills in statistics and programming, while also benefiting from a diverse, international environment.
+I developed a strong interest in the intersection of urban studies and data science during my studies in [Urban and Rural Planning](https://arch.nju.edu.cn/) at Nanjing University, where the program emphasized geographic information systems (GIS). After my undergraduate degree, I pursued a Master’s in [Geographic Data Science](https://www.lse.ac.uk/study-at-lse/graduate/msc-geographic-data-science) at LSE to focus more on data-driven research. The program, emphasizing spatial econometrics and machine learning, allowed me to hone my skills in statistics and programming, while also benefiting from a diverse, international environment.
 
 Upon completing my master’s thesis, In order to gain insight into real-world problems and industry needs, I have started remote work at [Spatial Pleasure](https://spatial-pleasure.xyz/en/page/2/) since September. It is a Tokyo-based company primarily focused on re-optimizing the city through decarbonization of the transportation domain.
 
 Currently, I am actively seeking potential PhD opportunities, aiming to continuously challenge myself and explore the frontiers of research. My research interests mainly lie in transportation optimization and behavior modeling; spatially-explicit GEOAI and urban computing.
-
-<!-- ------ -->
-<!-- **Hobbies** -->
-<!-- In my spare time, I enjoy following various mystery, fantasy and science fiction novels, TV shows, and podcasts. It would be great if I could become an amateur illustrator of sci-fi novels in the future!  -->
-<!-- I relate somewhat to the word Neophile, as I am a person who holds a positive attitude toward new things, innovation, and change. I have a strong enthusiasm for new technologies and emerging ideas, which might be the underlying motivation driving me to continuously study in data science field. --> 
-
-
-<!-- **Markdown generator**
------- -->
 
 <!-- Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
