@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 My past experiences combine the interdisciplinary field of urban planning, GISphere, and data science:
-
+<br>
 **Spatial Pleasure Inc.**  
 <span>Data Scientist</span><span style="float: right;">_2024/09 - Present_</span>  
 
