@@ -18,6 +18,18 @@ The London School of Economics and Political Science
 Nanjing University
     BEng Urban and Rural Planning  2018/09 – 2023/06
 
+Spatial Pleasure Inc.  
+Data Scientist  
+2024/09 - Present
+
+The London School of Economics and Political Science  
+MSc Geographic Data Science  
+2023/09 – 2024/11 (Expected)
+
+Nanjing University  
+BEng Urban and Rural Planning  
+2018/09 – 2023/06
+
 I developed a strong interest in the intersection of urban studies and data science early on while pursuing a degree in [Urban and Rural Planning](https://arch.nju.edu.cn/) at Nanjing University, where the program emphasized geographic information systems (GIS). After my undergraduate degree, I sought to transition towards a more data-driven and programming-oriented research paradigm and the Master program [Geographic Data Science](https://www.lse.ac.uk/study-at-lse/graduate/msc-geographic-data-science) at LSE perfectly aligned with these goals. The program focuses on spatial econometrics and data science, with machine learning courses offered by the Department of Statistics. During this time, I further developed my skills in mathematical statistics and programming while benefiting from the diverse, international environment and learning from classmates with extensive data science experience.
 
 Upon completing my master’s thesis, In order to gain insight into real-world problems and industry needs, I have started remote work at [Spatial Pleasure](https://spatial-pleasure.xyz/en/page/2/) since September. It is a Tokyo-based company primarily focused on re-optimizing the city through decarbonization of the transportation domain.
