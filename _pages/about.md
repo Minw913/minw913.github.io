@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-My past experiences combine the interdisciplinary field of urban planning, GISphere, and data science. 
+My past experiences combine the interdisciplinary field of urban planning, GISphere, and data science:
 
-Spatial Pleasure Inc.
+**Spatial Pleasure Inc.**
     Data Scientist                 2024/09 - Present
 
-The London School of Economics and Political Science
+**The London School of Economics and Political Science***
     MSc Geographic Data Science    2023/09 – 2024/11 (Expected)
 
-Nanjing University
+**Nanjing University**
     BEng Urban and Rural Planning  2018/09 – 2023/06
 
 Spatial Pleasure Inc.  
