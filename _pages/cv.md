@@ -9,7 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<h2>CV</h2>
+<p>If the embedded PDF below does not load, you can download it <a href="/files/CV_minwei.pdf">here</a>.</p>
+
+<embed src="/files/CV_minwei.pdf" width="100%" height="600px" type="application/pdf">
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
