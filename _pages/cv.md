@@ -12,7 +12,7 @@ redirect_from:
 <!-- <h2>CV</h2> -->
 <!-- <p>If the embedded PDF below does not load, you can download it <a href="/files/CV_minwei.pdf">here</a>.</p> -->
 <!-- download directly -->
-<p>If the embedded PDF below does not load, you can download it <a href="/files/CV_minwei.pdf" download="CV_minwei.pdf">here</a>.</p>
+<p>Here is my up-to-date CV. If the embedded PDF below does not load, you can download it <a href="/files/CV_minwei.pdf" download="CV_minwei.pdf">here</a>.</p>
 
 <embed src="/files/CV_minwei.pdf" width="100%" height="1200px" type="application/pdf">
 
