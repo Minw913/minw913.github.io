@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Minwei Kong"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Minwei Kong"
 description              : &description "personal description"

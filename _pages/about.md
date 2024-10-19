@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My background combines urban planning, GIS, and data science:
+My background combines urban planning, GIScience and data science:
 
-**Spatial Pleasure Inc.**  
+**Spatial Pleasure Co., Ltd.**  
 <span>Data Scientist</span><span style="float: right;">_2024/09 - Present_</span>  
 
 **The London School of Economics and Political Science**  
