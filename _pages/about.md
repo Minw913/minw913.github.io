@@ -19,6 +19,8 @@ My background combines urban planning, GIScience and data science:
 <br>
 <span>B.E. Urban and Rural Planning</span><span style="float: right;">_2018/09 – 2023/06_</span>
 
+## My journey
+
 I developed a strong interest in the intersection of urban studies and data science during my studies in [Urban and Rural Planning](https://arch.nju.edu.cn/) at Nanjing University, where the program emphasized practice with geographic information systems (GIS). After my undergraduate degree, I pursued a Master’s in [Geographic Data Science](https://www.lse.ac.uk/study-at-lse/graduate/msc-geographic-data-science) at LSE to focus more on data-driven research. The program, concentrating on spatial econometrics and machine learning, allowed me to hone my skills in statistics and programming, while also benefiting from a diverse, international environment.
 
 Upon completing my master’s thesis, in order to gain insight into real-world problems and industry needs, I have started remote work at [Spatial Pleasure](https://spatial-pleasure.xyz/en/page/2/) since September. It is a Tokyo-based company oriented towards re-optimizing the city through decarbonization of the transportation domain.
