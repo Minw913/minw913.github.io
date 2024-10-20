@@ -37,7 +37,7 @@ redirect_from:
           <h5>The time series of NO2 concentration at stations during study period</h5>
         </div>
       </div>
-      <div class="carousel-item" style="display: flex; justify-content: center; align-items: center;">
+      <div class="carousel-item" style="display: flex">
         <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" >
         <!--  style="object-fit: contain; width: 100%; height: auto;" -->
         <div class="carousel-caption d-none d-md-block">
@@ -72,7 +72,7 @@ redirect_from:
 <!-- 相关链接部分 -->
 <!-- 引入 Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 50px;">5Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<p style="margin-top: 50px;">6Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- <p style="margin-top: 30px; background-color: #0f1117; color: #757575;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
 <!-- 分隔线 -->
-<hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 30px; margin-bottom: 0px;">
+<hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 0px;">
