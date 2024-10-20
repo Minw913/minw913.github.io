@@ -202,7 +202,7 @@ input:checked + .slider:before {
 }
 .carousel-item img {
   max-width: 100%; /* 限制图片宽度不超过容器 */
-  height: auto; /* 保证图片等比例缩放 */
+  max-height: 100%; /* 保证图片等比例缩放 */
   object-fit: contain; /* 确保图片完全适应容器，不会被拉伸 */
   margin: 0 auto; /* 确保图片居中 */
   display: block;
@@ -266,13 +266,18 @@ input:checked + .slider:before {
   background-color: rgba(0, 0, 0, 0.5); /* 黑色半透明背景 */
   border: none;
   border-radius: 10px; /* 圆角方形背景 */
-  padding: 10px;
+  padding: 8px; /* 调整内边距，缩小按钮尺寸 */
   cursor: pointer;
+  transition: background-color 0.3s ease; /* 增加平滑过渡效果 */
+}
+
+.carousel-control-pause:hover {
+  background-color: rgba(255, 255, 255, 0.5); /* 鼠标悬停时背景变浅 */
 }
 
 .carousel-control-pause i {
   color: white; /* 图标颜色为白色 */
-  font-size: 24px; /* 图标尺寸 */
+  font-size: 20px; /* 调整图标尺寸 */
 }
 
 /* 在全局 CSS 文件中添加 */
