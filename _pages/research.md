@@ -54,8 +54,10 @@ redirect_from:
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
-    <!-- Pause Button -->
-    <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
+    <!-- Pause/Play Button -->
+    <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">
+      <i id="carouselIcon" class="fas fa-pause"></i>
+    </button>
     <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 
   </div>

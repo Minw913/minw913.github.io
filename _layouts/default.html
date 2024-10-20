@@ -63,13 +63,28 @@ layout: compress
     let isPaused = false;
     const carouselElement = document.querySelector('#researchCarousel');
 
+    // function toggleCarouselPause() {
+    //   if (isPaused) {
+    //     $('#researchCarousel').carousel('cycle');
+    //     document.getElementById("carouselPauseButton").innerText = 'Pause';
+    //   } else {
+    //     $('#researchCarousel').carousel('pause');
+    //     document.getElementById("carouselPauseButton").innerText = 'Play';
+    //   }
+    //   isPaused = !isPaused;
+    // }
+
     function toggleCarouselPause() {
+      const carouselIcon = document.getElementById('carouselIcon');
+  
       if (isPaused) {
         $('#researchCarousel').carousel('cycle');
-        document.getElementById("carouselPauseButton").innerText = 'Pause';
+        carouselIcon.classList.remove('fa-play');
+        carouselIcon.classList.add('fa-pause');
       } else {
         $('#researchCarousel').carousel('pause');
-        document.getElementById("carouselPauseButton").innerText = 'Play';
+        carouselIcon.classList.remove('fa-pause');
+        carouselIcon.classList.add('fa-play');
       }
       isPaused = !isPaused;
     }

@@ -261,11 +261,16 @@ input:checked + .slider:before {
   position: absolute;
   top: 10px;
   right: 10px;
-  z-index: 10;
-  background-color: rgba(255, 255, 255, 0.7); /* 暂停按钮样式 */
+  background-color: rgba(0, 0, 0, 0.5); /* 黑色半透明背景 */
   border: none;
+  border-radius: 10px; /* 圆角方形背景 */
+  padding: 10px;
   cursor: pointer;
-  padding: 5px 10px;
+}
+
+.carousel-control-pause i {
+  color: white; /* 图标颜色为白色 */
+  font-size: 24px; /* 图标尺寸 */
 }
 
 /* 在全局 CSS 文件中添加 */
