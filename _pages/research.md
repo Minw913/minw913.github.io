@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "8Research"
+title: "9Research"
 permalink: /research/
 author_profile: true
 sidebar: false  # 关闭侧边栏
@@ -74,7 +74,7 @@ redirect_from:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <p style="margin-top: 30px; margin-bottom: 0">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- 分隔线 -->
-<hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 0px;">
+<hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
 
 
@@ -82,7 +82,7 @@ redirect_from:
 
 
 <!-- 研究项目标题 -->
-## **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
+## **Investigating the impact of London's Ultra Low Emission Zone on electric vehicle adoption**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 <!-- 关键词部分 -->
 <p><strong>Key words:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
