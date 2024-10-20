@@ -17,57 +17,49 @@ redirect_from:
 <p><strong>Key words:</strong> Air quality forecasting, spatiotemporal data modeling, Graph attention network</p>
 
 <!-- 父容器 -->
-<div class="content-wrapper" style="display: flex; align-items: flex-start; width: 500px;">
-  <!-- 轮播图及相关链接容器（上下排布） -->
-  <div id="carouselContainer" style="flex-basis: 50%; display: flex; flex-direction: column; background-color: black;">
-    <!-- 轮播图 -->
-    <div id="researchCarousel" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#researchCarousel" data-slide-to="1"></li>
-        <li data-target="#researchCarousel" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>The distribution of Monitoring stations in London</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>The time series of NO2 concentration at stations during study period</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Station Graphs with different 𝜆</h5>
-          </div>
+<div class="content-wrapper" style="display: flex; align-items: flex-start;">
+  <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; background-color: black;">
+    <ol class="carousel-indicators">
+      <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#researchCarousel" data-slide-to="1"></li>
+      <li data-target="#researchCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>The distribution of Monitoring stations in London</h5>
         </div>
       </div>
-      <!-- Controls -->
-      <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
+      <div class="carousel-item">
+        <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>The time series of NO2 concentration at stations during study period</h5>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3">
+        <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Station Graphs with different 𝜆</h5>
+        </div>
+      </div>
     </div>
+    <!-- Controls -->
+    <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+    <!-- Pause Button -->
+    <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
+    <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
   </div>
-
-  <!-- 相关链接部分，放置在轮播图的下方 -->
-  <p>Preprint forthcoming on arXiv. Code available on 
-    <a href="https://github.com/your-repo-link" target="_blank">
-      <i class="fab fa-github"></i> GitHub
-    </a>.
-  </p>
-
-  <!-- 摘要部分，右侧文字部分 -->
-  <div class="research-summary" style="flex-basis: 50%; max-height: 500px; overflow-y: auto; padding: 10px;">
+  <!-- 摘要部分 -->
+  <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px;">
     <p>As one of the world's largest cities, London experiences heavy traffic with road emissions being a key factor affecting air quality, where predicting the spatiotemporal distribution of road emissions is crucial. This study aims to forecast future NO<sub>2</sub> concentrations over a given interval based on spatiotemporal factors collected from monitoring stations across the city. The main contributions are:</p>
 
     <ul>
@@ -80,9 +72,9 @@ redirect_from:
   </div>
 </div>
 
-
+<!-- 相关链接部分 -->
 <!-- 引入 Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<!-- <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
+<p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 0px; margin-bottom: 0px;">
