@@ -8,7 +8,7 @@ redirect_from:
 ---
 <!-- {% include base_path %} -->
 <!-- 研究项目标题 -->
-## **PJ0 Current Work**
+## **PJ0 Current Work at Spatial Pleasure**
 <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
 <p>Driven by curiosity about the real-world challenges related to transportation, environmental issues, and the specific technical and operational needs of businesses, I successfully secured the position and began my work at Spatial Pleasure.  As a data scientist, my main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems. I work remotely at 0.6 FTE per month up until this year, with plans to transition to full-time next year before pursuing my PhD.
 
@@ -34,7 +34,7 @@ Currently, I am primarily responsible for two projects:
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="/images/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+        <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
         <div class="carousel-caption d-none d-md-block">
           <h5>The air pollutant monitoring stations in London</h5>
         </div>
