@@ -57,7 +57,7 @@ redirect_from:
   </div>
   <!-- 摘要部分 -->
   <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-    <p>As one of the world's largest cities, London experiences heavy traffic with road emissions being a key factor affecting air quality, where predicting the spatiotemporal distribution of road emissions is crucial. This study aims to forecast future NO<sub>2</sub> concentrations over a given interval based on spatiotemporal factors collected from monitoring stations across the city. The main contributions are:</p>
+    <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations. Key contributions include:</p>
 
     <ul>
       <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics (e.g., road conditions, network structure, traffic volume), providing valuable insights for transportation policy.</li>
@@ -65,14 +65,14 @@ redirect_from:
       <li>Developed a hybrid model combining Graph Neural Networks and LSTM, capturing complex spatiotemporal dependencies of road emissions.</li>
     </ul>
 
-    <p>To validate the model's applicability, experiments used a spatiotemporal dataset of hourly air pollutants from roadside stations in London, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>. Results show that the proposed model outperforms existing baselines in prediction accuracy. Specifically, the graph attention mechanism improves accuracy by 12.5% and the encoder-decoder architecture in LSTM extends the forecast horizon to 12 hours, with superior performance in long-term (9-12h) predictions over short-term (1-4h).</p>
+    <p>Experiments on hourly air pollutant data from London's roadside stations, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>, validate the model. Results show a 12.5% accuracy improvement with the graph attention mechanism and extended forecast horizon to 12 hours using the LSTM encoder-decoder, outperforming baselines, especially in long-term (9-12h) predictions.</p>
   </div>
 </div>
 
 <!-- 相关链接部分 -->
 <!-- 引入 Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 30px;">3Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<p style="margin-top: 30px;">4Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- <p style="margin-top: 30px; background-color: #0f1117; color: #757575;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 1px; margin-bottom: 0px;">
