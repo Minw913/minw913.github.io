@@ -246,10 +246,10 @@ input:checked + .slider:before {
 }
 
 .carousel-caption h5 {
-  font-size: 14px; /* 缩小标题字体 */
+  font-size: 16px; /* 缩小标题字体 */
   // margin-bottom: 50px; /* 向上移动，减少底部的外边距 */
   position: relative;
-  top: -10px; /* 向上移动 10px，值越大移动幅度越大 */
+  top: -30px; /* 向上移动 10px，值越大移动幅度越大 */
 }
 
 // .pause-btn {
