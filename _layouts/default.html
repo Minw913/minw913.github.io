@@ -58,28 +58,6 @@ layout: compress
         });
       });
     </script>
-
-  鼠标点击停播按钮停播 -->
-  <script>
-    let isPaused = false;
-    const carouselElement = document.querySelector('#researchCarousel');
-    function toggleCarouselPause() {
-      const carouselIcon = document.getElementById('carouselIcon');
-  
-      if (isPaused) {
-        $('#researchCarousel').carousel('cycle');
-        carouselIcon.classList.remove('fa-play');
-        carouselIcon.classList.add('fa-pause');
-      } else {
-        $('#researchCarousel').carousel('pause');
-        carouselIcon.classList.remove('fa-pause');
-        carouselIcon.classList.add('fa-play');
-      }
-      isPaused = !isPaused;
-    }
-  </script>
-
-
     <script type="text/javascript" src="//counter.websiteout.net/js/45.js"></script>
   </body>
 </html>
