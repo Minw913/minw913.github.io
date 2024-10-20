@@ -10,7 +10,8 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-
+    <!-- 引入编译好的 CSS 文件 -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <!-- 自定义的轮播图 CSS，设置圆形指示器等 -->
     <style>
       .carousel-indicators li {

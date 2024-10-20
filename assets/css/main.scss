@@ -237,3 +237,20 @@ input:checked + .slider:before {
   cursor: pointer;
   padding: 5px 10px;
 }
+
+/* 在全局 CSS 文件中添加 */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
+  background-size: 100%, 100%;
+  border-radius: 50%; /* 圆形背景 */
+}
+
+.carousel-control-prev-icon {
+  background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="%23fff" viewBox="0 0 8 8"%3E%3Cpath d="M4.03 0L0 4l4.03 4L4.83 7.12 1.71 4 4.83.88 4.03 0z"/%3E%3C/svg%3E');
+}
+
+.carousel-control-next-icon {
+  background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="%23fff" viewBox="0 0 8 8"%3E%3Cpath d="M3.97 0L8 4 3.97 8l-.8-.88L6.29 4 3.17.88 3.97 0z"/%3E%3C/svg%3E');
+}
+
