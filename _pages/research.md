@@ -58,7 +58,7 @@ redirect_from:
       </a>
     </div>
 
-    <!-- 相关链接部分，放置在轮播图的下方 -->
+  <!-- 相关链接部分，放置在轮播图的下方 -->
   <p>Preprint forthcoming on arXiv. Code available on 
     <a href="https://github.com/your-repo-link" target="_blank">
       <i class="fab fa-github"></i> GitHub
