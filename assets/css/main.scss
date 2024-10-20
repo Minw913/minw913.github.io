@@ -228,15 +228,17 @@ input:checked + .slider:before {
 }
 
 .carousel-indicators .active {
-  background-color: #bbb7b1; /* 激活的圆点颜色 */
+  background-color: #cfcecd; /* 激活的圆点颜色 */
 }
 
 .carousel-caption {
   position: absolute;
-  bottom: 5%; /* 根据需要调整标题离底部的距离 */
   padding: 5px 20px; /* 缩小背景的 padding，使得背景不显得太高 */
+  left: 0;
+  right: 0;
+  bottom: 0; /* 根据需要调整标题离底部的距离 */
   background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
-  color: #bbb7b1;
+  color: #cfcecd;
   width: 100%;  /* 设置背景宽度为 100%，使其与图片容器等宽 */
   height: 10%; /* 高度设置为原来的 50%，即减少一半 */
   margin: 0 auto; /* 居中对齐 */
