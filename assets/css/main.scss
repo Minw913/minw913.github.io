@@ -254,3 +254,26 @@ input:checked + .slider:before {
   background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="%23fff" viewBox="0 0 8 8"%3E%3Cpath d="M3.97 0L8 4 3.97 8l-.8-.88L6.29 4 3.17.88 3.97 0z"/%3E%3C/svg%3E');
 }
 
+.carousel-item img {
+  width: 100%;
+  height: auto; /* 保证图片等比例缩放 */
+  object-fit: contain; /* 确保图片完全适应容器，不会被拉伸 */
+  margin: 0 auto; /* 确保图片居中 */
+  display: block;
+  background-color: black; /* 如果有空余部分，填充黑色背景 */
+}
+
+.carousel-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  width: 50%; /* 根据需要调整宽度，确保标题不会太长 */
+  background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
+  text-align: center; /* 文字居中 */
+  font-size: 14px; /* 缩小字体大小 */
+  margin: 0 auto; /* 居中 */
+}
+
+
