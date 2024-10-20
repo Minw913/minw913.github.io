@@ -59,7 +59,7 @@ redirect_from:
       <i id="carouselIcon" class="fas fa-pause"></i>
     </button>
     <!-- <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
-    <p style="margin-top: 30px; background-color: #0f1117;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+    <p style="margin-top: 30px; background-color: #0f1117; color: #757575;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
   </div>
   <!-- 摘要部分 -->
   <div class="research-summary" style="flex-basis: 50%; max-height: 500px; overflow-y: auto; padding: 10px;">
