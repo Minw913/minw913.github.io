@@ -197,7 +197,7 @@ input:checked + .slider:before {
 
 // 轮播图样式配置
 .carousel-item {
-  height: 500px; /* 设置轮播图的高度 */
+  height: 400px; /* 设置轮播图的高度 */
   background-color: #0f1117; /* 如果有空余部分，填充黑色背景 */
 }
 .carousel-item img {
@@ -259,26 +259,26 @@ input:checked + .slider:before {
   z-index: 1000;
 }
 
-.carousel-control-pause {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  background-color: rgba(0, 0, 0, 0.5); /* 黑色半透明背景 */
-  border: none;
-  border-radius: 10px; /* 圆角方形背景 */
-  padding: 8px; /* 调整内边距，缩小按钮尺寸 */
-  cursor: pointer;
-  transition: background-color 0.3s ease; /* 增加平滑过渡效果 */
-}
+// .carousel-control-pause {
+//   position: absolute;
+//   top: 10px;
+//   right: 10px;
+//   background-color: rgba(0, 0, 0, 0.5); /* 黑色半透明背景 */
+//   border: none;
+//   border-radius: 10px; /* 圆角方形背景 */
+//   padding: 8px; /* 调整内边距，缩小按钮尺寸 */
+//   cursor: pointer;
+//   transition: background-color 0.3s ease; /* 增加平滑过渡效果 */
+// }
 
-.carousel-control-pause:hover {
-  background-color: rgba(255, 255, 255, 0.5); /* 鼠标悬停时背景变浅 */
-}
+// .carousel-control-pause:hover {
+//   background-color: rgba(255, 255, 255, 0.5); /* 鼠标悬停时背景变浅 */
+// }
 
-.carousel-control-pause i {
-  color: white; /* 图标颜色为白色 */
-  font-size: 20px; /* 调整图标尺寸 */
-}
+// .carousel-control-pause i {
+//   color: white; /* 图标颜色为白色 */
+//   font-size: 20px; /* 调整图标尺寸 */
+// }
 
 /* 在全局 CSS 文件中添加 */
 .carousel-control-prev-icon,

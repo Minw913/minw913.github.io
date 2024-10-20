@@ -21,19 +21,19 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   
 
-$(document).ready(function() {
-  let isPaused = false;
+// $(document).ready(function() {
+//   let isPaused = false;
 
-  $('#carouselPauseButton').click(function() {
-    const carouselIcon = $('#carouselIcon');
+//   $('#carouselPauseButton').click(function() {
+//     const carouselIcon = $('#carouselIcon');
 
-    if (isPaused) {
-      $('#researchCarousel').carousel('cycle');
-      carouselIcon.removeClass('fa-play').addClass('fa-pause');
-    } else {
-      $('#researchCarousel').carousel('pause');
-      carouselIcon.removeClass('fa-pause').addClass('fa-play');
-    }
-    isPaused = !isPaused;
-  });
-});
+//     if (isPaused) {
+//       $('#researchCarousel').carousel('cycle');
+//       carouselIcon.removeClass('fa-play').addClass('fa-pause');
+//     } else {
+//       $('#researchCarousel').carousel('pause');
+//       carouselIcon.removeClass('fa-pause').addClass('fa-play');
+//     }
+//     isPaused = !isPaused;
+//   });
+// });
