@@ -58,7 +58,8 @@ redirect_from:
     <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">
       <i id="carouselIcon" class="fas fa-pause"></i>
     </button>
-    <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+    <!-- <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
+    <p style="margin-top: 30px; background-color: #0f1117; color: white;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank" style="color: #757575;"><i class="fab fa-github"></i> GitHub</a>.</p>
 
   </div>
   <!-- 摘要部分 -->
