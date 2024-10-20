@@ -198,7 +198,7 @@ input:checked + .slider:before {
 // 轮播图样式配置
 .carousel-item {
   height: 400px; /* 设置轮播图的高度 */
-  background-color: rgba(0, 0, 0, 0.5); /* 50% 透明度的黑色背景 */
+  background-color: rgba(0, 0, 0, 0); /* 50% 透明度的黑色背景 */
 }
 .carousel-item img {
   max-width: 100%; /* 限制图片宽度不超过容器 */
@@ -247,7 +247,9 @@ input:checked + .slider:before {
 
 .carousel-caption h5 {
   font-size: 14px; /* 缩小标题字体 */
-  margin-bottom: 50px; /* 向上移动，减少底部的外边距 */
+  // margin-bottom: 50px; /* 向上移动，减少底部的外边距 */
+  position: relative;
+  top: -10px; /* 向上移动 10px，值越大移动幅度越大 */
 }
 
 // .pause-btn {
