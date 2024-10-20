@@ -17,8 +17,8 @@ redirect_from:
 <p><strong>Key words:</strong> Air quality forecasting, spatiotemporal data modeling, Graph attention network</p>
 
 <!-- 父容器 -->
-<div class="content-wrapper" style="display: flex; align-items: flex-start;">
-  <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; background-color: #0f1117;">
+<div class="content-wrapper" style="display: flex; max-height: 500px; align-items: flex-start;">
+  <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; background-color: #0f1117; max-height: 500px;">
     <ol class="carousel-indicators">
       <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#researchCarousel" data-slide-to="1"></li>
@@ -59,7 +59,7 @@ redirect_from:
       <i id="carouselIcon" class="fas fa-pause"></i>
     </button>
     <!-- <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
-    <p style="margin-top: 30px; background-color: #0f1117; color: #757575;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+    <!-- <p style="margin-top: 30px; background-color: #0f1117; color: #757575;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
     <!-- #0f1117 -->
   </div>
   <!-- 摘要部分 -->
@@ -79,6 +79,7 @@ redirect_from:
 <!-- 相关链接部分 -->
 <!-- 引入 Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<!-- <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
+<p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<!-- <p style="margin-top: 30px; background-color: #0f1117; color: #757575;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 30px; margin-bottom: 0px;">
