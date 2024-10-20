@@ -13,7 +13,6 @@ redirect_from:
 ### **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 
-<!-- <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="width: 50%; margin: 0 auto;"> -->
 <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="width: 50%; background-color: black;">
    <ol class="carousel-indicators">
     <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
@@ -22,7 +21,7 @@ redirect_from:
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1" style="object-fit: contain; width: 100%; height: auto;">
+      <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
       <div class="carousel-caption d-none d-md-block">
         <h5>With low lively score (Qlively <= 2)</h5>
       </div>
