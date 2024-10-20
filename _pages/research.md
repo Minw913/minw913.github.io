@@ -57,9 +57,10 @@ redirect_from:
     <!-- Pause Button -->
     <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
     <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+
   </div>
   <!-- 摘要部分 -->
-  <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px;">
+  <div class="research-summary" style="flex-basis: 50%; max-height: 500px; overflow-y: auto; padding: 10px;">
     <p>As one of the world's largest cities, London experiences heavy traffic with road emissions being a key factor affecting air quality, where predicting the spatiotemporal distribution of road emissions is crucial. This study aims to forecast future NO<sub>2</sub> concentrations over a given interval based on spatiotemporal factors collected from monitoring stations across the city. The main contributions are:</p>
 
     <ul>
@@ -75,6 +76,6 @@ redirect_from:
 <!-- 相关链接部分 -->
 <!-- 引入 Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<!-- <p style="margin-top: 30px;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 0px; margin-bottom: 0px;">

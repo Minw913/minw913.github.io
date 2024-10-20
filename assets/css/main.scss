@@ -205,7 +205,7 @@ input:checked + .slider:before {
   object-fit: contain; /* 确保图片完全适应容器，不会被拉伸 */
   margin: 0 auto; /* 确保图片居中 */
   display: block;
-  background-color: black; /* 如果有空余部分，填充黑色背景 */
+  background-color: #0f1117; /* 如果有空余部分，填充黑色背景 */
 }
 // 导引圆点
 .carousel-indicators {
