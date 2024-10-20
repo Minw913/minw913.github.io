@@ -23,20 +23,20 @@ redirect_from:
     <div class="carousel-item active">
       <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
       <div class="carousel-caption d-none d-md-block">
-        <h5>With low lively score (Qlively <= 2)</h5>
+        <h5>The distribution of Monitoring stations in London</h5>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
       <div class="carousel-caption d-none d-md-block">
-        <h5>With medium lively score (2 < Qlively <= 7)</h5>
+        <h5>The time series of NO2 concentration at stations during study period</h5>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3">
       <!--  style="object-fit: contain; width: 100%; height: auto;" -->
       <div class="carousel-caption d-none d-md-block">
-        <h5>With high lively score (Qlively >= 7)</h5>
+        <h5>Station Graphs with different 𝜆</h5>
       </div>
     </div>
   </div>
