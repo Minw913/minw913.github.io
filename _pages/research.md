@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 <!-- 研究项目标题 -->
-## **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
+# **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 
 <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="width: 50%; background-color: black;">
@@ -27,13 +27,14 @@ redirect_from:
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2" style="object-fit: contain; width: 100%; height: auto;">
+      <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
       <div class="carousel-caption d-none d-md-block">
         <h5>With medium lively score (2 < Qlively <= 7)</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="object-fit: contain; width: 100%; height: auto;">
+      <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3">
+      <!--  style="object-fit: contain; width: 100%; height: auto;" -->
       <div class="carousel-caption d-none d-md-block">
         <h5>With high lively score (Qlively >= 7)</h5>
       </div>
