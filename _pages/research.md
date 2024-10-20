@@ -10,7 +10,8 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 <!-- 研究项目标题 -->
-<h2>Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London</h2>
+<h3>**Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**</h3>
+<p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 
 <!-- 轮播图部分 -->
 <div id="researchCarousel" class="carousel slide" data-ride="carousel">
@@ -21,13 +22,13 @@ redirect_from:
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/research_1/img_1.png" class="d-block w-100" alt="Research Image 1">
+      <img src="images/research_1/img_1.png" class="d-block w-100" alt="Research Image 1">
     </div>
     <div class="carousel-item">
-      <img src="/research_1/img_2.png" class="d-block w-100" alt="Research Image 2">
+      <img src="images/research_1/img_2.png" class="d-block w-100" alt="Research Image 2">
     </div>
     <div class="carousel-item">
-      <img src="/research_1/img_3.png" class="d-block w-100" alt="Research Image 3">
+      <img src="images/research_1/img_3.png" class="d-block w-100" alt="Research Image 3">
     </div>
   </div>
   <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
@@ -50,13 +51,17 @@ redirect_from:
     <li>Developed a hybrid model combining Graph Neural Networks and LSTM, capturing complex spatiotemporal dependencies of road emissions.</li>
   </ul>
 
-  <p>To validate the model's applicability, experiments used a spatiotemporal dataset of hourly air pollutants from roadside stations in London, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank">London Air Quality Network (LAQN)</a>. Results show that the proposed model outperforms existing baselines in prediction accuracy. Specifically, the graph attention mechanism improves accuracy by 12.5% and the encoder-decoder architecture in LSTM extends the forecast horizon to 12 hours, with superior performance in long-term (9-12h) predictions over short-term (1-4h).</p>
+  <p>To validate the model's applicability, experiments used a spatiotemporal dataset of hourly air pollutants from roadside stations in London, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>. Results show that the proposed model outperforms existing baselines in prediction accuracy. Specifically, the graph attention mechanism improves accuracy by 12.5% and the encoder-decoder architecture in LSTM extends the forecast horizon to 12 hours, with superior performance in long-term (9-12h) predictions over short-term (1-4h).</p>
 
   <!-- 关键词部分 -->
   <p><strong>Key words:</strong> Air quality forecasting, spatiotemporal data modeling, Graph attention network</p>
 
   <!-- 相关链接部分 -->
-  <p><strong>Related links:</strong> Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank">GitHub</a>.</p>
+  <!-- 引入 Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+  <p><strong>Related links:</strong> Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+
 </div>
 
 
