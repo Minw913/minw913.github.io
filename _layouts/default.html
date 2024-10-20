@@ -10,19 +10,32 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+    <!-- 自定义的轮播图 CSS，设置圆形指示器等 -->
+    <style>
+      .carousel-indicators li {
+        background-color: #888;
+        border-radius: 50%; /* 圆形指示器 */
+      }
+      .carousel-caption {
+        background-color: rgba(0, 0, 0, 0.5); /* 黑色半透明背景 */
+        color: white;
+      }
+      .pause-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 1000;
+      }
+    </style>
   </head>
 
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    
+
     <!-- 黑夜模式切换按钮放在页脚之前 -->
-    <!-- <button id="dark-mode-toggle">Toggle Dark Mode</button> -->
     <div class="toggle-container">
       <label class="switch">
         <input type="checkbox" id="dark-mode-toggle">
@@ -45,7 +58,39 @@ layout: compress
     <!-- 在这里添加引入 JavaScript 文件 -->
     <script src="/assets/js/scripts.js"></script>
 
-    <script type="text/javascript" src="//counter.websiteout.net/js/45.js"></script>
+    <!-- 轮播图所需的 Bootstrap JS 和依赖 -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+    <!-- 鼠标选题暂停轮播 -->
+    <script>
+      $(document).ready(function(){
+        $('#researchCarousel').carousel({
+          interval: 2000,  // 轮播时间间隔
+          pause: "hover"   // 鼠标悬停时暂停轮播
+        });
+      });
+    </script>
+
+  <!--鼠标点击停播按钮停播 --> -->
+  <script>
+    let isPaused = false;
+    const carouselElement = document.querySelector('#researchCarousel');
+
+    function toggleCarouselPause() {
+      if (isPaused) {
+        $('#researchCarousel').carousel('cycle');
+        document.getElementById("carouselPauseButton").innerText = 'Pause';
+      } else {
+        $('#researchCarousel').carousel('pause');
+        document.getElementById("carouselPauseButton").innerText = 'Play';
+      }
+      isPaused = !isPaused;
+    }
+  </script>
+
+
+    <script type="text/javascript" src="//counter.websiteout.net/js/45.js"></script>
   </body>
 </html>

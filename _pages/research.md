@@ -13,7 +13,7 @@ redirect_from:
 ### **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 
-<!-- 轮播图部分 -->
+<!-- 轮播图部分，图片资源 -->
 <div id="researchCarousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
@@ -23,14 +23,24 @@ redirect_from:
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="/images/research_1/img_1.png" class="d-block w-100" alt="Research Image 1">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>With low lively score (Qlively <= 2)</h5>
+      </div>
     </div>
     <div class="carousel-item">
       <img src="/images/research_1/img_2.png" class="d-block w-100" alt="Research Image 2">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>With medium lively score (2 < Qlively <= 7)</h5>
+      </div>
     </div>
     <div class="carousel-item">
       <img src="/images/research_1/img_3.png" class="d-block w-100" alt="Research Image 3">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>With high lively score (Qlively >= 7)</h5>
+      </div>
     </div>
   </div>
+  <!-- Controls -->
   <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -40,6 +50,12 @@ redirect_from:
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+  <!-- Pause Button
+  <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
+</div> -->
+
+
 
 <!-- 摘要部分 -->
 <div class="research-summary">
