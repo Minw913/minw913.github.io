@@ -211,10 +211,8 @@ input:checked + .slider:before {
 .carousel-indicators {
   position: absolute;
   bottom: -55px; /* 将圆点移出图片框，下移至图片外 */
-  // left: 0;
-  // transform: translateX(-50%); /* 使圆点居中 */  
-  width: 100%; /* 确保圆点容器宽度与父容器一致 */
-  text-align: center; /* 使圆点居中对齐 */
+  left: 25%; /* 因为轮播图宽度设置为50%，所以left设置为25% */
+  transform: translateX(-50%); /* 确保元素基于自己的宽度水平居中，保持居中效果 */
 }
 
 .carousel-indicators li {
