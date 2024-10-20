@@ -214,11 +214,17 @@ input:checked + .slider:before {
 
 .carousel-caption {
   position: absolute;
-  bottom: 0;
+  bottom: 10%; /* 根据需要调整标题离底部的距离 */
   left: 0;
   right: 0;
-  padding: 10px;
+  padding: 5px 20px; /* 缩小背景的 padding，使得背景不显得太高 */
   background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
+  width: 50%; /* 背景的宽度设置为 50% */
+  margin: 0 auto; /* 居中对齐 */
+}
+
+.carousel-caption h5 {
+  font-size: 14px; /* 缩小标题字体 */
 }
 
 .carousel-control-pause {

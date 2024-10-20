@@ -14,32 +14,33 @@ redirect_from:
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 
 <!-- <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="width: 50%; margin: 0 auto;"> -->
-<div id="researchCarousel" class="carousel slide" data-ride="carousel" style="width: 50%">
-  <ol class="carousel-indicators">
+<div id="researchCarousel" class="carousel slide" data-ride="carousel" style="width: 50%; background-color: black;">
+   <ol class="carousel-indicators">
     <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#researchCarousel" data-slide-to="1"></li>
     <li data-target="#researchCarousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/research_1/img_1.png" class="d-block w-100" alt="Research Image 1">
+      <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1" style="object-fit: contain; width: 100%; height: auto;">
       <div class="carousel-caption d-none d-md-block">
         <h5>With low lively score (Qlively <= 2)</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/research_1/img_2.png" class="d-block w-100" alt="Research Image 2">
+      <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2" style="object-fit: contain; width: 100%; height: auto;">
       <div class="carousel-caption d-none d-md-block">
         <h5>With medium lively score (2 < Qlively <= 7)</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/research_1/img_3.png" class="d-block w-100" alt="Research Image 3">
+      <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="object-fit: contain; width: 100%; height: auto;">
       <div class="carousel-caption d-none d-md-block">
         <h5>With high lively score (Qlively >= 7)</h5>
       </div>
     </div>
   </div>
+  <!-- Controls -->
   <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
