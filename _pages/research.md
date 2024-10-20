@@ -14,7 +14,7 @@ redirect_from:
 ## **RE1 Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 <!-- 关键词部分 -->
-<p><strong>Key words:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
+<p><strong>Key words:</strong> road emission prediction, spatiotemporal modeling, graph attention network</p>
 
 <!-- 父容器 -->
 <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -28,7 +28,7 @@ redirect_from:
       <div class="carousel-item active">
         <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
         <div class="carousel-caption d-none d-md-block">
-          <h5>The distribution of Monitoring stations in London</h5>
+          <h5>The air pollutant monitoring stations in London</h5>
         </div>
       </div>
       <div class="carousel-item">
@@ -42,6 +42,20 @@ redirect_from:
         <!--  style="object-fit: contain; width: 100%; height: auto;" -->
         <div class="carousel-caption d-none d-md-block">
           <h5>Monitoring station graphs with different distance thresholds</h5>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="/images/research_1/img_4.png" class="d-block mx-auto" alt="Research Image 4" style="margin-top: 50px;">
+        <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Performance metrics in terms of time granularities</h5>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="/images/research_1/img_5.png" class="d-block mx-auto" alt="Research Image 5" style="margin-top: 50px;">
+        <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Emission prediction fit curves and the actual time series</h5>
         </div>
       </div>
     </div>
