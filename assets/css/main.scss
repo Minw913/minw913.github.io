@@ -206,10 +206,23 @@ input:checked + .slider:before {
 
 
 // 轮播图样式配置
+// 导引圆点
+.carousel-indicators {
+  position: absolute;
+  bottom: -30px; /* 将圆点移出图片框，下移至图片外 */
+  left: 50%;
+  transform: translateX(-50%); /* 使圆点居中 */
+}
+
 .carousel-indicators li {
-  border-radius: 50%; /* 将导航点改为圆形 */
-  width: 10px;
-  height: 10px;
+  background-color: #888; /* 圆点颜色 */
+  border-radius: 50%; /* 圆形 */
+  width: 10px;  /* 圆点大小 */
+  height: 10px; /* 圆点大小 */
+}
+
+.carousel-indicators .active {
+  background-color: #fff; /* 激活的圆点颜色 */
 }
 
 .carousel-caption {
@@ -242,8 +255,10 @@ input:checked + .slider:before {
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
-  background-size: 100%, 100%;
-  border-radius: 50%; /* 圆形背景 */
+  background-size: 50%, 50%; /* 调整图标大小，50% 是相对于按钮本身的大小 */
+  border-radius: 10%; /* 圆角方形，10px 可根据需要调整 */
+  width: 40px; /* 按钮宽度 */
+  height: 40px; /* 按钮高度 */
 }
 
 .carousel-control-prev-icon {
