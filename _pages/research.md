@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+sidebar: false  # 关闭侧边栏
 redirect_from:
   - /research
 ---
@@ -15,7 +16,7 @@ redirect_from:
 
 <!-- 父容器 -->
 <div class="content-wrapper" style="display: flex; align-items: flex-start;">
-  <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="width: 50%; background-color: black;">
+  <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; background-color: black;">
     <ol class="carousel-indicators">
       <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#researchCarousel" data-slide-to="1"></li>
@@ -57,7 +58,7 @@ redirect_from:
   <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
 
   <!-- 摘要部分 -->
-  <div class="research-summary">
+  <div class="research-summary" style="flex-basis: 50%; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
     <p>As one of the world's largest cities, London experiences heavy traffic with road emissions being a key factor affecting air quality, where predicting the spatiotemporal distribution of road emissions is crucial. This study aims to forecast future NO<sub>2</sub> concentrations over a given interval based on spatiotemporal factors collected from monitoring stations across the city. The main contributions are:</p>
 
     <ul>
