@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 <!-- 研究项目标题 -->
-<h3>**Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**</h3>
+### **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 
 <!-- 轮播图部分 -->
@@ -22,13 +22,13 @@ redirect_from:
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/research_1/img_1.png" class="d-block w-100" alt="Research Image 1">
+      <img src="/images/research_1/img_1.png" class="d-block w-100" alt="Research Image 1">
     </div>
     <div class="carousel-item">
-      <img src="images/research_1/img_2.png" class="d-block w-100" alt="Research Image 2">
+      <img src="/images/research_1/img_2.png" class="d-block w-100" alt="Research Image 2">
     </div>
     <div class="carousel-item">
-      <img src="images/research_1/img_3.png" class="d-block w-100" alt="Research Image 3">
+      <img src="/images/research_1/img_3.png" class="d-block w-100" alt="Research Image 3">
     </div>
   </div>
   <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
