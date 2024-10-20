@@ -218,8 +218,8 @@ input:checked + .slider:before {
 .carousel-indicators li {
   background-color: #888; /* 圆点颜色 */
   border-radius: 50%; /* 圆形 */
-  width: 12px;  /* 圆点大小 */
-  height: 12px; /* 圆点大小 */
+  width: 11px;  /* 圆点大小 */
+  height: 11px; /* 圆点大小 */
   display: inline-block; /* 将每个圆点设置为内联块 */
   margin: 0 5px; /* 圆点之间的间距 */
 }
@@ -230,7 +230,7 @@ input:checked + .slider:before {
 
 .carousel-caption {
   position: absolute;
-  bottom: 100%; /* 根据需要调整标题离底部的距离 */
+  bottom: 10%; /* 根据需要调整标题离底部的距离 */
   left: 0;
   right: 0;
   padding: 5px 20px; /* 缩小背景的 padding，使得背景不显得太高 */
