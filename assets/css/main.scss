@@ -201,8 +201,8 @@ input:checked + .slider:before {
   background-color: rgba(0, 0, 0, 0); /* 50% 透明度的黑色背景 */
 }
 .carousel-item img {
-  max-width: 100%; /* 限制图片宽度不超过容器 */
-  max-height: 100%; /* 保证图片等比例缩放 */
+  max-width: 90%; /* 限制图片宽度不超过容器 */
+  max-height: 90%; /* 保证图片等比例缩放 */
   object-fit: contain; /* 确保图片完全适应容器，不会被拉伸 */
   margin: 0 auto; /* 确保图片居中 */
   display: block;
