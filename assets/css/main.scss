@@ -199,9 +199,9 @@ input:checked + .slider:before {
 .carousel-item {
   height: 500px; /* 设置轮播图的高度 */
   background-color: #0f1117; /* 如果有空余部分，填充黑色背景 */
-  display: flex; /* 使用flex布局 */
-  justify-content: center; /* 水平居中 */
-  align-items: center; /* 垂直居中 */
+  // display: flex; /* 使用flex布局 */
+  // justify-content: center; /* 水平居中 */
+  // align-items: center; /* 垂直居中 */
 }
 .carousel-item img {
   max-width: 100%; /* 限制图片宽度不超过容器 */
@@ -210,6 +210,8 @@ input:checked + .slider:before {
   margin: 0 auto; /* 确保图片居中 */
   display: block;
   background-color: #0f1117; /* 如果有空余部分，填充黑色背景 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
 }
 // 导引圆点
 .carousel-indicators {
