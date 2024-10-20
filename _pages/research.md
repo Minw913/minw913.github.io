@@ -13,6 +13,8 @@ redirect_from:
 <!-- 研究项目标题 -->
 ## **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
+<!-- 关键词部分 -->
+<p><strong>Key words:</strong> Air quality forecasting, spatiotemporal data modeling, Graph attention network</p>
 
 <!-- 父容器 -->
 <div class="content-wrapper" style="display: flex; align-items: flex-start;">
@@ -58,7 +60,7 @@ redirect_from:
   <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
 
   <!-- 摘要部分 -->
-  <div class="research-summary" style="flex-basis: 50%; max-height: 300px; overflow-y: auto; padding: 10px;">
+  <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px;">
     <p>As one of the world's largest cities, London experiences heavy traffic with road emissions being a key factor affecting air quality, where predicting the spatiotemporal distribution of road emissions is crucial. This study aims to forecast future NO<sub>2</sub> concentrations over a given interval based on spatiotemporal factors collected from monitoring stations across the city. The main contributions are:</p>
 
     <ul>
@@ -71,49 +73,12 @@ redirect_from:
   </div>
 </div>
 
-<div class="research-info">
-  <!-- 关键词部分 -->
-  <p><strong>Key words:</strong> Air quality forecasting, spatiotemporal data modeling, Graph attention network</p>
-
-  <!-- 相关链接部分 -->
-  <!-- 引入 Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
-  <p><strong>Related links:</strong> Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
-</div>
-
-
-<!-- Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+<!-- 相关链接部分 -->
+<!-- 引入 Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<p style="margin-top: 20px;"><strong>Related links:</strong> Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<!-- 分隔线 -->
+<hr style="border: none; height: 2px; background-color: #757575; margin-top: 20px; margin-bottom: 20px;">
 
 <!-- Publications
 ======
