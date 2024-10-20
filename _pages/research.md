@@ -34,14 +34,14 @@ redirect_from:
       <div class="carousel-item">
         <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
         <div class="carousel-caption d-none d-md-block">
-          <h5>The time series of NO2 concentration at stations during study period</h5>
+          <h5>The time series of NO2 concentration at stations</h5>
         </div>
       </div>
       <div class="carousel-item">
         <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
         <!--  style="object-fit: contain; width: 100%; height: auto;" -->
         <div class="carousel-caption d-none d-md-block">
-          <h5>Station Graphs with different 𝜆</h5>
+          <h5>Monitoring station graphs with different distance thresholds</h5>
         </div>
       </div>
     </div>
