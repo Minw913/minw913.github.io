@@ -242,9 +242,9 @@ input:checked + .slider:before {
   width: 100%;  /* 设置背景宽度为 100%，使其与图片容器等宽 */
   height: 10%; /* 高度设置为原来的 50%，即减少一半 */
   margin: 0 auto; /* 居中对齐 */
-  display: flex;
-  justify-content: center; /* 水平居中对齐 */
-  align-items: center; /* 垂直居中对齐 */
+  // display: flex;
+  // justify-content: center; /* 水平居中对齐 */
+  // align-items: center; /* 垂直居中对齐 */
   box-sizing: border-box; /* 确保 padding 和 border 不影响元素的宽度 */
 }
 
