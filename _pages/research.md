@@ -25,7 +25,7 @@ redirect_from:
       <li data-target="#researchCarousel" data-slide-to="2"></li>
     </ol>
     <div class="carousel-inner">
-      <div class="carousel-item active">
+      <div class="carousel-item active" style="display: flex; justify-content: center; align-items: center;">
         <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
         <div class="carousel-caption d-none d-md-block">
           <h5>The distribution of Monitoring stations in London</h5>
@@ -63,7 +63,7 @@ redirect_from:
     <!-- #0f1117 -->
   </div>
   <!-- 摘要部分 -->
-  <div class="research-summary" style="flex-basis: 50%; max-height: 500px; overflow-y: auto; padding: 10px;">
+  <div class="research-summary" style="flex-basis: 50%; max-height: 500px; overflow-y: auto; padding: 10px; margin-left: 20px;">
     <p>As one of the world's largest cities, London experiences heavy traffic with road emissions being a key factor affecting air quality, where predicting the spatiotemporal distribution of road emissions is crucial. This study aims to forecast future NO<sub>2</sub> concentrations over a given interval based on spatiotemporal factors collected from monitoring stations across the city. The main contributions are:</p>
 
     <ul>
@@ -79,7 +79,7 @@ redirect_from:
 <!-- 相关链接部分 -->
 <!-- 引入 Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 50px;">3Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<p style="margin-top: 50px;">4Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- <p style="margin-top: 30px; background-color: #0f1117; color: #757575;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 30px; margin-bottom: 0px;">
