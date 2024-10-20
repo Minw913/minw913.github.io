@@ -195,23 +195,24 @@ input:checked + .slider:before {
   gap: 5px; /* 控制开关按钮与文字之间的间距 */
 }
 
+// 轮播图样式配置
 .carousel-item {
   height: 400px; /* 设置轮播图的高度 */
 }
 
 .carousel-item img {
+  object-fit: contain;
   height: 100%; /* 图片高度跟随容器 */
   width: auto; /* 图片宽度按比例调整 */
 }
-
-
-// 轮播图样式配置
 // 导引圆点
 .carousel-indicators {
   position: absolute;
-  bottom: -30px; /* 将圆点移出图片框，下移至图片外 */
-  left: 50%;
-  transform: translateX(-50%); /* 使圆点居中 */
+  bottom: -50px; /* 将圆点移出图片框，下移至图片外 */
+  // left: 0;
+  // transform: translateX(-50%); /* 使圆点居中 */  
+  width: 100%; /* 确保圆点容器宽度与父容器一致 */
+  text-align: center; /* 使圆点居中对齐 */
 }
 
 .carousel-indicators li {
@@ -219,6 +220,8 @@ input:checked + .slider:before {
   border-radius: 50%; /* 圆形 */
   width: 10px;  /* 圆点大小 */
   height: 10px; /* 圆点大小 */
+  display: inline-block; /* 将每个圆点设置为内联块 */
+  margin: 0 5px; /* 圆点之间的间距 */
 }
 
 .carousel-indicators .active {
@@ -232,8 +235,16 @@ input:checked + .slider:before {
   right: 0;
   padding: 5px 20px; /* 缩小背景的 padding，使得背景不显得太高 */
   background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
+  color: White;
   width: 50%; /* 背景的宽度设置为 50% */
   margin: 0 auto; /* 居中对齐 */
+}
+
+.pause-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
 }
 
 .carousel-caption h5 {
