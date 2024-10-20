@@ -219,7 +219,7 @@ input:checked + .slider:before {
 }
 
 .carousel-indicators li {
-  background-color: #888; /* 圆点颜色 */
+  background-color: #787777; /* 圆点颜色 */
   border-radius: 50%; /* 圆形 */
   width: 11px;  /* 圆点大小 */
   height: 11px; /* 圆点大小 */
@@ -228,7 +228,7 @@ input:checked + .slider:before {
 }
 
 .carousel-indicators .active {
-  background-color: #cfcecd; /* 激活的圆点颜色 */
+  background-color: #dcdcdc; /* 激活的圆点颜色 */
 }
 
 .carousel-caption {
@@ -238,7 +238,7 @@ input:checked + .slider:before {
   right: 0;
   bottom: 0; /* 根据需要调整标题离底部的距离 */
   background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
-  color: #cfcecd;
+  color: #dcdcdc;
   width: 100%;  /* 设置背景宽度为 100%，使其与图片容器等宽 */
   height: 10%; /* 高度设置为原来的 50%，即减少一半 */
   margin: 0 auto; /* 居中对齐 */
@@ -247,7 +247,7 @@ input:checked + .slider:before {
 
 .carousel-caption h5 {
   font-size: 14px; /* 缩小标题字体 */
-  margin-bottom: 10px; /* 向上移动，减少底部的外边距 */
+  margin-bottom: 50px; /* 向上移动，减少底部的外边距 */
 }
 
 // .pause-btn {
