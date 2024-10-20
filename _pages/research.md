@@ -25,7 +25,7 @@ redirect_from:
       <li data-target="#researchCarousel" data-slide-to="2"></li>
     </ol>
     <div class="carousel-inner">
-      <div class="carousel-item active" style="justify-content: center; align-items: center;">
+      <div class="carousel-item active" style="display: block; justify-content: center; align-items: center;">
         <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
         <div class="carousel-caption d-none d-md-block">
           <h5>The distribution of Monitoring stations in London</h5>
