@@ -11,7 +11,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 <!-- 研究项目标题 -->
-# **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
+## **Predicting Roadside Emissions Using Spatiotemporal Neural Networks: A Case Study in London**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 
 <!-- 父容器 -->
@@ -58,7 +58,7 @@ redirect_from:
   <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
 
   <!-- 摘要部分 -->
-  <div class="research-summary" style="flex-basis: 50%; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
+  <div class="research-summary" style="flex-basis: 50%; max-height: 300px; overflow-y: auto; padding: 10px;">
     <p>As one of the world's largest cities, London experiences heavy traffic with road emissions being a key factor affecting air quality, where predicting the spatiotemporal distribution of road emissions is crucial. This study aims to forecast future NO<sub>2</sub> concentrations over a given interval based on spatiotemporal factors collected from monitoring stations across the city. The main contributions are:</p>
 
     <ul>
@@ -71,7 +71,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="research-info"
+<div class="research-info">
   <!-- 关键词部分 -->
   <p><strong>Key words:</strong> Air quality forecasting, spatiotemporal data modeling, Graph attention network</p>
 
