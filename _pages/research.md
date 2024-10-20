@@ -25,7 +25,7 @@ redirect_from:
       <li data-target="#researchCarousel" data-slide-to="2"></li>
     </ol>
     <div class="carousel-inner">
-      <div class="carousel-item active" style="display: flex; justify-content: center; align-items: center;">
+      <div class="carousel-item active" style="justify-content: center; align-items: center;">
         <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
         <div class="carousel-caption d-none d-md-block">
           <h5>The distribution of Monitoring stations in London</h5>
@@ -79,7 +79,7 @@ redirect_from:
 <!-- 相关链接部分 -->
 <!-- 引入 Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 50px;">7Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<p style="margin-top: 50px;">8Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- <p style="margin-top: 30px; background-color: #0f1117; color: #757575;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p> -->
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 30px; margin-bottom: 0px;">
