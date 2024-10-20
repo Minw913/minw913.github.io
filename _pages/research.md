@@ -17,7 +17,7 @@ redirect_from:
 <p><strong>Key words:</strong> Air quality forecasting, spatiotemporal data modeling, Graph attention network</p>
 
 <!-- 父容器 -->
-<div class="content-wrapper" style="display: flex; align-items: flex-start;">
+<div class="content-wrapper" style="display: flex; align-items: flex-start; width: 500px;">
   <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; background-color: black;">
     <ol class="carousel-indicators">
       <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
@@ -54,13 +54,23 @@ redirect_from:
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
-  </div>
+  <!-- </div> -->
 
   <!-- Pause Button -->
-  <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
+    <button class="carousel-control-pause" id="carouselPauseButton" onclick="toggleCarouselPause()">Pause</button>
+
+  <!-- 相关链接部分，放置在轮播图的下方 -->
+    <div class="related-links" style="margin-top: 15px;">
+      <p>Preprint forthcoming on arXiv. Code available on 
+        <a href="https://github.com/your-repo-link" target="_blank">
+          <i class="fab fa-github"></i> GitHub
+        </a>.
+      </p>
+    </div>
+  </div>
 
   <!-- 摘要部分 -->
-  <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px;">
+  <div class="research-summary" style="flex-basis: 50%; overflow-y: auto; padding: 10px;">
     <p>As one of the world's largest cities, London experiences heavy traffic with road emissions being a key factor affecting air quality, where predicting the spatiotemporal distribution of road emissions is crucial. This study aims to forecast future NO<sub>2</sub> concentrations over a given interval based on spatiotemporal factors collected from monitoring stations across the city. The main contributions are:</p>
 
     <ul>
