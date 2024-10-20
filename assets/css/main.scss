@@ -211,7 +211,7 @@ input:checked + .slider:before {
 .carousel-indicators {
   position: absolute;
   bottom: -52px; /* 将圆点移出图片框，下移至图片外 */
-  left: 32%; /* 因为轮播图宽度设置为50%，所以left设置为25% */
+  left: 32.5%; /* 因为轮播图宽度设置为50%，所以left设置为25% */
   transform: translateX(-50%); /* 确保元素基于自己的宽度水平居中，保持居中效果 */
 }
 
@@ -230,7 +230,7 @@ input:checked + .slider:before {
 
 .carousel-caption {
   position: absolute;
-  bottom: 10%; /* 根据需要调整标题离底部的距离 */
+  bottom: 50%; /* 根据需要调整标题离底部的距离 */
   left: 0;
   right: 0;
   padding: 5px 20px; /* 缩小背景的 padding，使得背景不显得太高 */
