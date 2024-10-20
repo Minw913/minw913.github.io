@@ -57,6 +57,7 @@ redirect_from:
         <span class="sr-only">Next</span>
       </a>
     </div>
+  </div>
 
   <!-- 相关链接部分，放置在轮播图的下方 -->
   <p>Preprint forthcoming on arXiv. Code available on 
@@ -64,7 +65,6 @@ redirect_from:
       <i class="fab fa-github"></i> GitHub
     </a>.
   </p>
-  </div>
 
   <!-- 摘要部分，右侧文字部分 -->
   <div class="research-summary" style="flex-basis: 50%; max-height: 500px; overflow-y: auto; padding: 10px;">
@@ -79,6 +79,7 @@ redirect_from:
     <p>To validate the model's applicability, experiments used a spatiotemporal dataset of hourly air pollutants from roadside stations in London, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>. Results show that the proposed model outperforms existing baselines in prediction accuracy. Specifically, the graph attention mechanism improves accuracy by 12.5% and the encoder-decoder architecture in LSTM extends the forecast horizon to 12 hours, with superior performance in long-term (9-12h) predictions over short-term (1-4h).</p>
   </div>
 </div>
+
 
 <!-- 引入 Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
