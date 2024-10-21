@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "4Projects"
+title: "5Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -17,7 +17,7 @@ redirect_from:
   .two-column > div {
     flex-basis: 49%; /* 每一栏占父容器的48%宽度 */
     padding: 10px;
-    background-color: #f9f9f9; /* 背景色，可根据需求调整 */
+    background-color: rgba(0, 0, 0, 0.75); /* 背景色，可根据需求调整 */
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
