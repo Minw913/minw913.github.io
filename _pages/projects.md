@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "3Projects"
+title: "4Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ redirect_from:
     margin: 20px 0px 10px 0px !important; /* 调整外边距 */
     /* padding: 20px 15px 10px 15px !important; 依次为上、右、下、左的内边距 */
     background-color: rgba(0, 0, 0, 0.75); /* 背景色，可根据需求调整 */
-    border-radius: 5px;
+    border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
 
@@ -41,7 +41,7 @@ In many ways, the work here is more akin to research, as my supervisor has a str
 Currently, I am primarily responsible for two projects:  (Micro-level)
 </p>
 <div class="two-column">
-  <div style="padding-top: 5px; padding-left: 20px; padding-right: 20px; ">
+  <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
     <h3>1 Origin-Destination Estimation in Sapporo</h3>
     <p>We follow the four-step process of trip generation, trip distribution, mode choice, and route assignment to predict regional traffic demand and interpret the key influencing factors and patterns at each stage, in order to provide insights helping city planners make more accurate decisions regarding public transit capacity allocation.</p>
 
@@ -54,7 +54,7 @@ Currently, I am primarily responsible for two projects:  (Micro-level)
     </ul>
   </div>
 
-  <div style="padding-top: 5px; padding-left: 20px; padding-right: 20px; ">
+  <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
     <h3>2 Multi-Agent Transport Simulation in Tyoko</h3>
     <p>The four-step model typically uses aggregated data, which cannot accurately reflect individual travel decisions. Agent-based models can incorporate individual behavior into demand forecasting, investigating how socio-economic characteristics affect mode choice and route assignment.</p>
 
