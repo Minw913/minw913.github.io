@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "7Projects"
+title: "8Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -16,7 +16,8 @@ redirect_from:
 
   .two-column > div {
     flex-basis: 49%; /* 每一栏占父容器的48%宽度 */
-    padding: 20px 15px 10px 15px !important; /* 依次为上、右、下、左的内边距 */
+    margin: 20px 15px 10px 15px !important; /* 调整外边距 */
+    /* padding: 20px 15px 10px 15px !important; 依次为上、右、下、左的内边距 */
     background-color: rgba(0, 0, 0, 0.75); /* 背景色，可根据需求调整 */
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -39,7 +40,7 @@ Currently, I am primarily responsible for two projects:
 </p>
 <div class="two-column">
   <div>
-    <h3>1 Origin-Destination Estimation in Sapporo (Macro-level)</h3>
+    <h3>1 Origin-Destination Estimation in Sapporo</h3>
     <p>We follow the four-step process of trip generation, trip distribution, mode choice, and route assignment to predict regional traffic demand and interpret the key influencing factors and patterns at each stage, in order to provide insights helping city planners make more accurate decisions regarding public transit capacity allocation.</p>
 
     <ul>
