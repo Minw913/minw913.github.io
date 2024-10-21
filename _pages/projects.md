@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "8Projects"
+title: "9Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ redirect_from:
 
   .two-column > div {
     flex-basis: 49%; /* 每一栏占父容器的48%宽度 */
-    margin: 20px 15px 10px 15px !important; /* 调整外边距 */
+    margin: 10px 15px 10px 15px !important; /* 调整外边距 */
     /* padding: 20px 15px 10px 15px !important; 依次为上、右、下、左的内边距 */
     background-color: rgba(0, 0, 0, 0.75); /* 背景色，可根据需求调整 */
     border-radius: 5px;
@@ -30,6 +30,8 @@ redirect_from:
 </style>
 
 <!-- {% include base_path %} -->
+## **Overview**
+
 <!-- 研究项目标题 -->
 ## **PJ0 Current Work at Spatial Pleasure**
 <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
