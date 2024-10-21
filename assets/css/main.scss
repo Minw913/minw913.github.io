@@ -199,6 +199,8 @@ input:checked + .slider:before {
 .carousel-item {
   height: 400px; /* 设置轮播图的高度 */
   background-color: rgba(0, 0, 0, 0); /* 50% 透明度的黑色背景 */
+  border: 0.5px solid #858484; /* 添加外框，颜色为 #dcdcdc */
+  border-radius: 10px; /* 可选：设置圆角，如果不需要可以去掉 */
 }
 .carousel-item img {
   max-width: 90%; /* 限制图片宽度不超过容器 */
