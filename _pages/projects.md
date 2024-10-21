@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2Projects"
+title: "3Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -15,8 +15,8 @@ redirect_from:
   }
 
   .two-column > div {
-    flex-basis: 49%; /* 每一栏占父容器的48%宽度 */
-    margin: 100px -10px 10px -10px !important; /* 调整外边距 */
+    flex-basis: 49.5%; /* 每一栏占父容器的48%宽度 */
+    margin: 20px 0px 10px 0px !important; /* 调整外边距 */
     /* padding: 20px 15px 10px 15px !important; 依次为上、右、下、左的内边距 */
     background-color: rgba(0, 0, 0, 0.75); /* 背景色，可根据需求调整 */
     border-radius: 5px;
@@ -25,7 +25,7 @@ redirect_from:
 
   ul {
     list-style-type: disc; /* 使用圆点作为列表项的标记 */
-    margin-left: 10px; /* 调整列表项的左边距 */
+    margin-left: 5px; /* 调整列表项的左边距 */
   }
 </style>
 
@@ -38,10 +38,10 @@ redirect_from:
 <p style="margin-top: 10px; margin-bottom: 0;">
 As a data scientist, my main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems. I work remotely at 0.6 FTE per month, with plans to work full-time next year before pursuing my PhD.<br>
 In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects frequently involve exploratory methods. I look forward to further growth in the coming months and, if the opportunity arises, collaborating with the company's lab to publish the outcomes of our projects.<br>
-Currently, I am primarily responsible for two projects:
+Currently, I am primarily responsible for two projects:  (Micro-level)
 </p>
 <div class="two-column">
-  <div>
+  <div style="padding-top: 5px; padding-left: 20px; padding-right: 20px; ">
     <h3>1 Origin-Destination Estimation in Sapporo</h3>
     <p>We follow the four-step process of trip generation, trip distribution, mode choice, and route assignment to predict regional traffic demand and interpret the key influencing factors and patterns at each stage, in order to provide insights helping city planners make more accurate decisions regarding public transit capacity allocation.</p>
 
@@ -54,8 +54,8 @@ Currently, I am primarily responsible for two projects:
     </ul>
   </div>
 
-  <div>
-    <h3>2 Multi-Agent Transport Simulation in Tyoko (Micro-level)</h3>
+  <div style="padding-top: 5px; padding-left: 20px; padding-right: 20px; ">
+    <h3>2 Multi-Agent Transport Simulation in Tyoko</h3>
     <p>The four-step model typically uses aggregated data, which cannot accurately reflect individual travel decisions. Agent-based models can incorporate individual behavior into demand forecasting, investigating how socio-economic characteristics affect mode choice and route assignment.</p>
 
     <ul>
