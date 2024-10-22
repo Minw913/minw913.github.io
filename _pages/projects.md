@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2Projects"
+title: "3Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -68,6 +68,7 @@ Compared to research, these projects were more comprehensive efforts completed t
   Currently, I am primarily responsible for two projects:
   </p>
   <div class="two-column">
+    <!-- 注意间距是调整padding-top: 10px -->
     <div style="padding-top: 10px; padding-left: 20px; padding-right: 20px; ">
       <h3 style="margin-top: 15px;">1 Origin-Destination Estimation in Sapporo</h3>
       <p>We use the four-step model of trip generation, trip distribution, mode choice and route assignment to predict traffic demand and identify key factors and patterns, offering insights on public transit capacity allocation.</p>
@@ -115,44 +116,19 @@ Compared to research, these projects were more comprehensive efforts completed t
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+          <img src="/files/project_1/DQN_placement_map.html" class="d-block mx-auto" alt="Research Image 1">
           <div class="carousel-caption d-none d-md-block">
-            <h5>The air pollutant monitoring stations in London</h5>
+            <h5>Iterative optimization of utility by different RL algorithms</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <iframe src="/files/project_1/mesh_data_without_legend.html" width="100%" height="100%" style="border:none;"></iframe>
+            <iframe src="/files/project_1/Rewards_Information.html" width="100%" height="100%" style="border:none;"></iframe>
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>The time series of NO2 concentration at stations</h5>
-          </div>
-           <!-- 放大按钮 -->
-          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
-        </div>
-        <div class="carousel-item">
-          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
-          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Monitoring station graphs with different distance thresholds</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img src="/images/research_1/img_4.png" class="d-block mx-auto" alt="Research Image 4" style="margin-top: 50px;">
-          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Performance metrics in terms of time granularities</h5>
-          </div>
-           <!-- 放大按钮 -->
-          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
-        </div>
-        <div class="carousel-item">
-          <img src="/images/research_1/img_5.png" class="d-block mx-auto" alt="Research Image 5" style="margin-top: 50px;">
-          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Emission prediction fit curves and the actual time series</h5>
+            <h5>The optimal charging station placement obtained by DQN algorithm</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -181,6 +157,7 @@ Compared to research, these projects were more comprehensive efforts completed t
         <li><strong>State</strong>: The current spatial layout of charging stations and charger configuration.</li>
         <li><strong>Action</strong>: Adding new charging stations, increasing the capacity of existing stations, or relocating stations.</li>
         <li><strong>Reward</strong>: The difference in total utility before and after each layout modification.</li>
+        <li><strong>Algorithms</strong>: Deep Q-learning Network (DQN), Advantage Actor-Critic (A2C) and Proximal Policy Optimization (PPO).</li>
       </ul>
 
       <p>As a result, reinforcement learning algorithms show significant improvements over traditional methods, with the DQN-based layout performing best across metrics. Each algorithm offers unique strengths: DQN minimizes travel time in high-demand areas, A2C improves overall service balance, and PPO enhances charging efficiency at existing stations.</p>
