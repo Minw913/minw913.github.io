@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "6Projects"
+title: "7Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ redirect_from:
 
   .two-column > div {
     flex-basis: 49.5%; /* 每一栏占父容器的48%宽度 */
-    margin: 20px 20px 10px 0px !important; /* 调整外边距 */
+    /* margin: 20px 20px 10px 0px !important; 调整外边距 */
     /* padding: 20px 15px 10px 15px !important; 依次为上、右、下、左的内边距 */
     background-color: rgba(0, 0, 0, 0.75); /* 背景色，可根据需求调整 */
     border-radius: 8px;
@@ -64,7 +64,7 @@ Compared to research, these projects were more comprehensive efforts completed t
   <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
   <p style="margin-top: 10px; margin-bottom: 0;">
   I work remotely at 0.6 FTE per month as a data scientist. My main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
-  In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects frequently involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
+  In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects requires strong knowledge of mathematical statistics and involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
   Currently, I am primarily responsible for two projects:
   </p>
   <div class="two-column">
@@ -188,7 +188,7 @@ Compared to research, these projects were more comprehensive efforts completed t
   </div>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-  <p style="margin-top: 30px; margin-bottom: 0;">Honor: high distinction (96/100) in course <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST455.htm"> ST455 Reinforcement Learning </a></p>
+  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> high distinction (96/100) in course <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST455.htm"> ST455 Reinforcement Learning </a></p>
   <p style="margin-top: 0px; margin-bottom: 0;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 </div>
 <!-- 分隔线 -->
