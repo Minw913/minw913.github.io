@@ -3,12 +3,11 @@ layout: archive
 title: "1Research"
 permalink: /research/
 author_profile: true
-# sidebar: false  # 关闭侧边栏(没用)
 redirect_from:
   - /research
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 <!-- 研究项目标题 -->
 ## **RE1 Predicting roadside emissions using spatiotemporal neural networks: A case study in London**
