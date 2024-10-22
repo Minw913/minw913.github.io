@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "4Projects"
+title: "5Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -54,9 +54,9 @@ redirect_from:
 <!-- {% include base_path %} -->
 ## **Overview**
 <p>
-Compared to research, these projects were more comprehensive efforts completed through team collaboration. In most of these projects, I served as the team leader, managing the overall project framework, solving technical challenges, and acting as a key motivator for the team. Below is a chronological list of these projects.
+Compared to research, these projects were more comprehensive efforts completed through team collaboration. In most of these projects, I served as the team leader, managing the overall project framework and solving technical challenges. Below is a chronological list of these projects.
 </p>
-<!-- 研究项目标题 -->
+
 <h2 id="toggle-header" style="cursor: pointer;">
   <span id="toggle-icon">▶</span><strong>PJ0 Current Work at Spatial Pleasure</strong>
 </h2>
@@ -96,83 +96,87 @@ Compared to research, these projects were more comprehensive efforts completed t
 </div>
 
 <!-- {% include base_path %} -->
-<!-- 研究项目标题 -->
-## **PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning**
-<p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
-<!-- 关键词部分 -->
-<p><strong>Key words:</strong>electric vehicle charging station, location selection, reinforcement learning, road network</p>
+<h2 id="toggle-header" style="cursor: pointer;">
+  <span id="toggle-icon">▶</span><strong>PJ1 Demand-aware optimizing electric vehicle charging station pacement using reinforcement learning</strong>
+</h2>
+<div id="toggle-content" style="display: none;">
+  <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
+  <!-- 关键词部分 -->
+  <p>This course project was completed in collaboration with two classmates from the Department of Statistics which earned high distinction (96/100).</p>
+  <p><strong>Key words:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
 
-<!-- 父容器 -->
-<div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-  <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
-    <ol class="carousel-indicators">
-      <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#researchCarousel" data-slide-to="1"></li>
-      <li data-target="#researchCarousel" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>The air pollutant monitoring stations in London</h5>
+  <!-- 父容器 -->
+  <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
+    <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+      <ol class="carousel-indicators">
+        <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#researchCarousel" data-slide-to="1"></li>
+        <li data-target="#researchCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>The air pollutant monitoring stations in London</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="d-block w-100" style="height: 500px;">
+            <iframe src="/files/project_1/mesh_data_without_legend.html" width="100%" height="100%" style="border:none;"></iframe>
+          </div>
+          <div class="carousel-caption d-none d-md-block">
+            <h5>The time series of NO2 concentration at stations</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
+          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Monitoring station graphs with different distance thresholds</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/images/research_1/img_4.png" class="d-block mx-auto" alt="Research Image 4" style="margin-top: 50px;">
+          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Performance metrics in terms of time granularities</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/images/research_1/img_5.png" class="d-block mx-auto" alt="Research Image 5" style="margin-top: 50px;">
+          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Emission prediction fit curves and the actual time series</h5>
+          </div>
         </div>
       </div>
-      <div class="carousel-item">
-        <div class="d-block w-100" style="height: 500px;">
-          <iframe src="/files/project_1/mesh_data_without_legend.html" width="100%" height="100%" style="border:none;"></iframe>
-        </div>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>The time series of NO2 concentration at stations</h5>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
-        <!--  style="object-fit: contain; width: 100%; height: auto;" -->
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Monitoring station graphs with different distance thresholds</h5>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="/images/research_1/img_4.png" class="d-block mx-auto" alt="Research Image 4" style="margin-top: 50px;">
-        <!--  style="object-fit: contain; width: 100%; height: auto;" -->
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Performance metrics in terms of time granularities</h5>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="/images/research_1/img_5.png" class="d-block mx-auto" alt="Research Image 5" style="margin-top: 50px;">
-        <!--  style="object-fit: contain; width: 100%; height: auto;" -->
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Emission prediction fit curves and the actual time series</h5>
-        </div>
-      </div>
+      <!-- Controls -->
+      <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
-    <!-- Controls -->
-    <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-  <!-- 摘要部分 -->
-  <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-    <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations. Key contributions include:</p>
+    <!-- 摘要部分 -->
+    <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
+      <p>Optimizing electric vehicle charging station placement is key to implementing zero-emission policies in central London. Using <a href="https://openchargemap.org/site" target="_blank" style="color: #757575;">open charge map data</a>, the study framed the problem as a reinforcement learning task, where the agent learns to take optimal actions by adjusting its strategy based on feedback. This results in a deployment that balances coverage benefits and time costs within budget constraints, maximizing overall utility. The components of the RL problem are as follows:</p>
 
-    <ul>
-      <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics (e.g., road conditions, network structure, traffic volume), providing valuable insights for transportation policy.</li>
-      <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
-      <li>Developed a hybrid model combining Graph Neural Networks and LSTM, capturing complex spatiotemporal dependencies of road emissions.</li>
-    </ul>
+      <ul>
+        <li>**State**: The current spatial layout of charging stations and charger configuration.</li>
+        <li>**Action**: Adding new charging stations, increasing the capacity of existing stations, or relocating stations.</li>
+        <li>**Reward**: The difference in total utility before and after each layout modification.</li>
+      </ul>
 
-    <p>Experiments on hourly air pollutant data from London's roadside stations, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>, validate the model. Results show a 12.5% accuracy improvement with the graph attention mechanism and extended forecast horizon to 12 hours using the LSTM encoder-decoder, outperforming baselines, especially in long-term (9-12h) predictions.</p>
+      <p>As a result, reinforcement learning algorithms show significant improvements over traditional methods, with the DQN-based layout performing best across metrics. Each algorithm offers unique strengths: DQN minimizes travel time in high-demand areas, A2C improves overall service balance, and PPO enhances charging efficiency at existing stations.</p>
+    </div>
   </div>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <p style="margin-top: 30px; margin-bottom: 0;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 </div>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 30px; margin-bottom: 0;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
