@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "5Projects"
+title: "6Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ redirect_from:
 
   .two-column > div {
     flex-basis: 49.5%; /* 每一栏占父容器的48%宽度 */
-    margin: 20px 0px 10px 0px !important; /* 调整外边距 */
+    margin: 20px 20px 10px 0px !important; /* 调整外边距 */
     /* padding: 20px 15px 10px 15px !important; 依次为上、右、下、左的内边距 */
     background-color: rgba(0, 0, 0, 0.75); /* 背景色，可根据需求调整 */
     border-radius: 8px;
@@ -69,11 +69,11 @@ Compared to research, these projects were more comprehensive efforts completed t
   </p>
   <div class="two-column">
     <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
-      <h3>1 Origin-Destination Estimation in Sapporo</h3>
+      <h3 style="margin-top: 10px;">1 Origin-Destination Estimation in Sapporo</h3>
       <p>We use the four-step model of trip generation, trip distribution, mode choice and route assignment to predict traffic demand and identify key factors and patterns, offering insights on public transit capacity allocation.</p>
 
       <ul>
-        <li>How can we fully leverage GTFS, IC card, and socioeconomic data to achieve spatiotemporal clustering of OD trips and provide more granular demand analysis for transportation planning?</li>
+        <li>How can we fully leverage GTFS, IC card, and socioeconomic data to achieve spatiotemporal clustering of OD trips?</li>
         <li>How can environmental factors (e.g., carbon emissions, noise pollution) be considered into the model to optimize the sustainability of public transportation?</li>
         <li>How can machine learning algorithms be utilized to perform data-driven modeling without predefined assumptions, enhancing the model's flexibility?</li>
         <li>......</li>
