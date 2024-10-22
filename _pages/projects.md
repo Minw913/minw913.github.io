@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "5Projects"
+title: "6Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
 ---
+
+<!-- 在这里添加引入 JavaScript 文件 -->
+<script src="/assets/js//scripts.js"></script>
 
 <style>
   .two-column {
@@ -33,7 +36,7 @@ redirect_from:
 <style>
   #toggle-header {
     cursor: pointer;
-    color: #007bff; /* 改成你需要的颜色 */
+    /* color: #007bff;  */
   }
   
   #toggle-header:hover {
