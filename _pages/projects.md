@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "5Projects"
+title: "6Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -57,10 +57,10 @@ redirect_from:
 Compared to research, these projects were more comprehensive efforts completed through team collaboration. In most of these projects, I served as the team leader, managing the overall project framework and solving technical challenges. Below is a chronological list of these projects.
 </p>
 
-<h2 id="toggle-header" style="cursor: pointer;">
-  <span id="toggle-icon">▶</span><strong>PJ0 Current Work at Spatial Pleasure</strong>
+<h2 id="toggle-header_1" style="cursor: pointer;">
+  <span id="toggle-icon_1">▶</span><strong>PJ0 Current Work at Spatial Pleasure</strong>
 </h2>
-<div id="toggle-content" style="display: none;">
+<div id="toggle-content_1" style="display: none;">
   <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
   <p style="margin-top: 10px; margin-bottom: 0;">
   As a data scientist, my main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems. I work remotely at 0.6 FTE per month, with plans to work full-time next year before pursuing my PhD.<br>
@@ -96,10 +96,10 @@ Compared to research, these projects were more comprehensive efforts completed t
 </div>
 
 <!-- {% include base_path %} -->
-<h2 id="toggle-header" style="cursor: pointer;">
-  <span id="toggle-icon">▶</span><strong>PJ1 Demand-aware optimizing electric vehicle charging station pacement using reinforcement learning</strong>
+<h2 id="toggle-header_2" style="cursor: pointer;">
+  <span id="toggle-icon_2">▶</span><strong>PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning</strong>
 </h2>
-<div id="toggle-content" style="display: none;">
+<div id="toggle-content_2" style="display: none;">
   <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
   <!-- 关键词部分 -->
   <p>This course project was completed in collaboration with two classmates from the Department of Statistics which earned high distinction (96/100).</p>
