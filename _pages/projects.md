@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "1Projects"
+title: "2Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -92,9 +92,9 @@ Compared to research, these projects were more comprehensive efforts completed t
       </ul>
     </div>
   </div>
-  <!-- 分隔线 -->
-  <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 </div>
+<!-- 分隔线 -->
+<hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
 <!-- {% include base_path %} -->
 <h2 class="toggle-header" style="cursor: pointer;">
