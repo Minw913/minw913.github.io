@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "8Projects"
+title: "1Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -50,7 +50,7 @@ redirect_from:
       #toggle-content {
           display: block; /* 默认展开 */
       }
-  </style>
+</style>
 
 
 <!-- {% include base_path %} -->

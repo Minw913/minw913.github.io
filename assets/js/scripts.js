@@ -22,19 +22,16 @@ document.addEventListener('DOMContentLoaded', function () {
   
 document.getElementById('toggle-header').addEventListener('click', function() {
   var content = document.getElementById('toggle-content');
-  if (content.style.display === 'none') {
-    content.style.display = 'block';
-  } else {
-    content.style.display = 'none';
-  }
-});
+  var icon = document.getElementById('toggle-icon');
   
-document.getElementById('toggle-header').addEventListener('click', function() {
-  var content = document.getElementById('toggle-content');
   if (content.style.display === 'none') {
     content.style.display = 'block';
+    icon.textContent = '▼';  // 展开时三角形向下
+    icon.style.fontSize = '10px'; // 设置三角形的大小
   } else {
     content.style.display = 'none';
+    icon.textContent = '▶';  // 收起时三角形向右
+    icon.style.fontSize = '10px'; // 设置三角形的大小
   }
 });
 // $(document).ready(function() {
