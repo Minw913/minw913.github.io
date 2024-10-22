@@ -20,7 +20,15 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
   
-
+document.getElementById('toggle-header').addEventListener('click', function() {
+  var content = document.getElementById('toggle-content');
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+  } else {
+    content.style.display = 'none';
+  }
+});
+  
 // $(document).ready(function() {
 //   let isPaused = false;
 

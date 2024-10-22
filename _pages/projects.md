@@ -29,16 +29,32 @@ redirect_from:
   }
 </style>
 
+<!-- toggle时鼠标悬停的样式 -->
+<style>
+  #toggle-header {
+    cursor: pointer;
+    color: #007bff; /* 改成你需要的颜色 */
+  }
+  
+  #toggle-header:hover {
+    text-decoration: underline;
+  }
+</style>
+
+
 <!-- {% include base_path %} -->
 ## **Overview**
-
+<p>
+Compared to research, these projects were more comprehensive efforts completed through team collaboration. In most of these projects, I served as the team leader, managing the overall project framework, solving technical challenges, and acting as a key motivator for the team. Below is a chronological list of these projects.
+</p>
 <!-- 研究项目标题 -->
-## **PJ0 Current Work at Spatial Pleasure**
+<h3 id="toggle-header" style="cursor: pointer;"><strong>PJ0 Current Work at Spatial Pleasure</strong></h3>
+<div id="toggle-content" style="display: none;">
 <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
 <p style="margin-top: 10px; margin-bottom: 0;">
 As a data scientist, my main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems. I work remotely at 0.6 FTE per month, with plans to work full-time next year before pursuing my PhD.<br>
 In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects frequently involve exploratory methods. I look forward to further growth in the coming months and, if the opportunity arises, collaborating with the company's lab to publish the outcomes of our projects.<br>
-Currently, I am primarily responsible for two projects:  (Micro-level)
+Currently, I am primarily responsible for two projects:
 </p>
 <div class="two-column">
   <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
