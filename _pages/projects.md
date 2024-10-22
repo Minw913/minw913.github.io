@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "9Projects"
+title: "1Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -74,7 +74,6 @@ Compared to research, these projects were more comprehensive efforts completed t
 
       <ul>
         <li>How can we fully leverage GTFS, IC card, and socioeconomic data to achieve spatiotemporal clustering of OD trips and provide more granular demand analysis for transportation planning?</li>
-        <li>How can we incorporate real-time data and historical trends to capture dynamic travel demand using spatiotemporal analysis?</li>
         <li>How can environmental factors (e.g., carbon emissions, noise pollution) be considered into the model to optimize the sustainability of public transportation?</li>
         <li>How can machine learning algorithms be utilized to perform data-driven modeling without predefined assumptions, enhancing the model's flexibility?</li>
         <li>......</li>
@@ -93,6 +92,8 @@ Compared to research, these projects were more comprehensive efforts completed t
       </ul>
     </div>
   </div>
+  <!-- 分隔线 -->
+  <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
 <!-- {% include base_path %} -->
@@ -119,6 +120,8 @@ Compared to research, these projects were more comprehensive efforts completed t
           <div class="carousel-caption d-none d-md-block">
             <h5>The air pollutant monitoring stations in London</h5>
           </div>
+           <!-- 放大按钮 -->
+          <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button>
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
@@ -127,6 +130,8 @@ Compared to research, these projects were more comprehensive efforts completed t
           <div class="carousel-caption d-none d-md-block">
             <h5>The time series of NO2 concentration at stations</h5>
           </div>
+           <!-- 放大按钮 -->
+          <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button>
         </div>
         <div class="carousel-item">
           <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
@@ -141,6 +146,8 @@ Compared to research, these projects were more comprehensive efforts completed t
           <div class="carousel-caption d-none d-md-block">
             <h5>Performance metrics in terms of time granularities</h5>
           </div>
+           <!-- 放大按钮 -->
+          <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button>
         </div>
         <div class="carousel-item">
           <img src="/images/research_1/img_5.png" class="d-block mx-auto" alt="Research Image 5" style="margin-top: 50px;">
@@ -148,6 +155,8 @@ Compared to research, these projects were more comprehensive efforts completed t
           <div class="carousel-caption d-none d-md-block">
             <h5>Emission prediction fit curves and the actual time series</h5>
           </div>
+           <!-- 放大按钮 -->
+          <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button>
         </div>
       </div>
       <!-- Controls -->
@@ -159,6 +168,11 @@ Compared to research, these projects were more comprehensive efforts completed t
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
+    </div>
+    <!-- 模态框 HTML -->
+    <div id="imageModal" class="modal">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <img class="modal-content" id="modalImg">
     </div>
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
