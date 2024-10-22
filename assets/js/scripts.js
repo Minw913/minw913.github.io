@@ -20,19 +20,19 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
   
-document.getElementById('toggle-header').addEventListener('click', function() {
-  var content = document.getElementById('toggle-content');
-  var icon = document.getElementById('toggle-icon');
-  
-  if (content.style.display === 'none') {
-    content.style.display = 'block';
-    icon.textContent = '▼';  // 展开时三角形向下
-    icon.style.fontSize = '10px'; // 设置三角形的大小
-  } else {
-    content.style.display = 'none';
-    icon.textContent = '▶';  // 收起时三角形向右
-    icon.style.fontSize = '10px'; // 设置三角形的大小
-  }
+document.querySelectorAll('.toggle-header').forEach(function(header, index) {
+  header.addEventListener('click', function() {
+    var content = document.querySelectorAll('.toggle-content')[index];
+    var icon = header.querySelector('.toggle-icon');
+    
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '▼';  // 展开时三角形向下
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '▶';  // 收起时三角形向右
+    }
+  });
 });
 // $(document).ready(function() {
 //   let isPaused = false;

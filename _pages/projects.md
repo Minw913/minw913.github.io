@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "7Projects"
+title: "8Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -96,10 +96,10 @@ Compared to research, these projects were more comprehensive efforts completed t
 </div>
 
 <!-- {% include base_path %} -->
-<h2 class="toggle-header_2" style="cursor: pointer;">
-  <span class="toggle-icon_2">▶</span><strong>PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning</strong>
+<h2 class="toggle-header" style="cursor: pointer;">
+  <span class="toggle-icon">▶</span><strong>PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning</strong>
 </h2>
-<div class="toggle-content_2" style="display: none;">
+<div class="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
   <!-- 关键词部分 -->
   <p>This course project was completed in collaboration with two classmates from the Department of Statistics which earned high distinction (96/100).</p>
