@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2Projects"
+title: "3Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -121,7 +121,7 @@ Compared to research, these projects were more comprehensive efforts completed t
             <h5>The air pollutant monitoring stations in London</h5>
           </div>
            <!-- 放大按钮 -->
-          <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button>
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
@@ -131,7 +131,7 @@ Compared to research, these projects were more comprehensive efforts completed t
             <h5>The time series of NO2 concentration at stations</h5>
           </div>
            <!-- 放大按钮 -->
-          <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button>
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
         <div class="carousel-item">
           <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
@@ -147,7 +147,7 @@ Compared to research, these projects were more comprehensive efforts completed t
             <h5>Performance metrics in terms of time granularities</h5>
           </div>
            <!-- 放大按钮 -->
-          <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button>
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
         <div class="carousel-item">
           <img src="/images/research_1/img_5.png" class="d-block mx-auto" alt="Research Image 5" style="margin-top: 50px;">
@@ -156,7 +156,7 @@ Compared to research, these projects were more comprehensive efforts completed t
             <h5>Emission prediction fit curves and the actual time series</h5>
           </div>
            <!-- 放大按钮 -->
-          <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button>
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
       </div>
       <!-- Controls -->
@@ -169,11 +169,11 @@ Compared to research, these projects were more comprehensive efforts completed t
         <span class="sr-only">Next</span>
       </a>
     </div>
-    <!-- 模态框 HTML -->
-    <div id="imageModal" class="modal">
+    <!-- 轮播图放大模态框 HTML -->
+    <!-- <div id="imageModal" class="modal">
       <span class="close" onclick="closeModal()">&times;</span>
       <img class="modal-content" id="modalImg">
-    </div>
+    </div> -->
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
       <p>Optimizing electric vehicle charging station placement is key to implementing zero-emission policies in central London. Using <a href="https://openchargemap.org/site" target="_blank" style="color: #757575;">open charge map data</a>, the study framed the problem as a reinforcement learning task, where the agent learns to take optimal actions by adjusting its strategy based on feedback. This results in a deployment that balances coverage benefits and time costs within budget constraints, maximizing overall utility. The components of the RL problem are as follows:</p>

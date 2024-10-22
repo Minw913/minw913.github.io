@@ -36,19 +36,19 @@ document.querySelectorAll('.toggle-header').forEach(function(header, index) {
 });
 
 // 打开模态框并显示放大的图片
-function openModal(imageSrc) {
-  var modal = document.getElementById("imageModal");
-  var modalImg = document.getElementById("modalImg");
+// function openModal(imageSrc) {
+//   var modal = document.getElementById("imageModal");
+//   var modalImg = document.getElementById("modalImg");
 
-  modal.style.display = "block";
-  modalImg.src = imageSrc;
-}
+//   modal.style.display = "block";
+//   modalImg.src = imageSrc;
+// }
 
-// 关闭模态框
-function closeModal() {
-  var modal = document.getElementById("imageModal");
-  modal.style.display = "none";
-}
+// // 关闭模态框
+// function closeModal() {
+//   var modal = document.getElementById("imageModal");
+//   modal.style.display = "none";
+// }
 
 // $(document).ready(function() {
 //   let isPaused = false;
