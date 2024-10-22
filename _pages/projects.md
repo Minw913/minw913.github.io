@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "3Projects"
+title: "4Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -58,7 +58,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 </p>
 
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong>PJ0 Current Work at Spatial Pleasure</strong>
+  <span class="toggle-icon">▶</span><strong> PJ0 Current Work at Spatial Pleasure</strong>
 </h2>
 <div class="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
@@ -98,13 +98,12 @@ Compared to research, these projects were more comprehensive efforts completed t
 
 <!-- {% include base_path %} -->
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong>PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning</strong>
+  <span class="toggle-icon">▶</span><strong> PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning</strong>
 </h2>
 <div class="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
   <!-- 关键词部分 -->
-  <p>This course project was completed in collaboration with two classmates from the Department of Statistics and earned high distinction (96/100).<br>
-  <strong>Key words:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
+  <p><strong>Key words:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -189,6 +188,7 @@ Compared to research, these projects were more comprehensive efforts completed t
   </div>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <p>Honor: high distinction (96/100) in course <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST455.htm"> ST455 Reinforcement Learning </a></p>
   <p style="margin-top: 30px; margin-bottom: 0;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 </div>
 <!-- 分隔线 -->
