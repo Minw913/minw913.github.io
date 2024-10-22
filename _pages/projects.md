@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "7Projects"
+title: "8Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ redirect_from:
 
   .two-column > div {
     flex-basis: 49.5%; /* 每一栏占父容器的48%宽度 */
-    /* margin: 20px 20px 10px 0px !important; 调整外边距 */
+    margin: 10px 20px 10px 0px !important; /* 调整上、右、下、左外边距 */
     /* padding: 20px 15px 10px 15px !important; 依次为上、右、下、左的内边距 */
     background-color: rgba(0, 0, 0, 0.75); /* 背景色，可根据需求调整 */
     border-radius: 8px;
@@ -62,7 +62,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 </h2>
 <div class="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
-  <p style="margin-top: 10px; margin-bottom: 0;">
+  <p style="margin-top: 10px; margin-bottom: 10px;">
   I work remotely at 0.6 FTE per month as a data scientist. My main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
   In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects requires strong knowledge of mathematical statistics and involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
   Currently, I am primarily responsible for two projects:
