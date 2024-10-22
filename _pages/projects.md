@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "1Projects"
+title: "2Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -80,7 +80,7 @@ Compared to research, these projects were more comprehensive efforts completed t
       </ul>
     </div>
 
-    <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
+    <div style="padding-top: 10px; padding-left: 20px; padding-right: 20px; ">
       <h3 style="margin-top: 15px;">2 Multi-Agent Transport Simulation in Tyoko</h3>
       <p>The four-step model relies on aggregated data, limiting its ability to reflect individual travel decisions while agent-based models can compensate for this.</p>
 
