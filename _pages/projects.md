@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "1Projects"
+title: "2Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
 redirect_from:
   - /projects
 ---
@@ -30,28 +30,25 @@ redirect_from:
     list-style-type: disc; /* 使用圆点作为列表项的标记 */
     margin-left: 5px; /* 调整列表项的左边距 */
   }
+
+  /* toggle时鼠标悬停的样式 */
+  #toggle-header {
+      cursor: pointer;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+  }
+
+  #toggle-icon {
+      margin-right: 8px;
+      /* 使得图标在展开/收起时有一个平滑的过渡效果 */
+      transition: transform 0.3s ease; 
+  }
+
+  #toggle-content {
+      display: block; /* 默认展开 */
+  }
 </style>
-
-<!-- toggle时鼠标悬停的样式 -->
-<style>
-      #toggle-header {
-          cursor: pointer;
-          font-weight: bold;
-          display: flex;
-          align-items: center;
-      }
-
-      #toggle-icon {
-          margin-right: 8px;
-          /* 使得图标在展开/收起时有一个平滑的过渡效果 */
-          transition: transform 0.3s ease; 
-      }
-
-      #toggle-content {
-          display: block; /* 默认展开 */
-      }
-</style>
-
 
 <!-- {% include base_path %} -->
 ## **Overview**
@@ -102,7 +99,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 ## **PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning**
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 <!-- 关键词部分 -->
-<p><strong>Key words:</strong> road emission prediction, spatiotemporal modeling, graph attention network</p>
+<p><strong>Key words:</strong>electric vehicle charging station, location selection, reinforcement learning, road network</p>
 
 <!-- 父容器 -->
 <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
