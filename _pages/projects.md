@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "9Projects"
+title: "1Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -64,24 +64,24 @@ Compared to research, these projects were more comprehensive efforts completed t
   <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
   <p style="margin-top: 10px; margin-bottom: 10px;">
   I work remotely at 0.6 FTE per month as a data scientist. My main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
-  In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects requires strong knowledge of mathematical statistics and involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
+  In many ways, the work here is more akin to research, as the projects require strong knowledge of mathematical statistics and involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
   Currently, I am primarily responsible for two projects:
   </p>
   <div class="two-column">
     <div style="padding-top: 10px; padding-left: 20px; padding-right: 20px; ">
-      <h3 style="margin-top: 10px;">1 Origin-Destination Estimation in Sapporo</h3>
+      <h3 style="margin-top: 15px;">1 Origin-Destination Estimation in Sapporo</h3>
       <p>We use the four-step model of trip generation, trip distribution, mode choice and route assignment to predict traffic demand and identify key factors and patterns, offering insights on public transit capacity allocation.</p>
 
       <ul>
         <li>How can we fully leverage GTFS, IC card, and socioeconomic data to achieve spatiotemporal clustering of OD trips?</li>
-        <li>How can environmental factors (e.g., carbon emissions, noise pollution) be considered into the model to optimize the sustainability of public transportation?</li>
+        <li>How can environmental factors (e.g., carbon emissions, noise pollution) be considered into the model for the sustainability of public transportation?</li>
         <li>How can machine learning algorithms be utilized to perform data-driven modeling without predefined assumptions, enhancing the model's flexibility?</li>
         <li>......</li>
       </ul>
     </div>
 
     <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
-      <h3>2 Multi-Agent Transport Simulation in Tyoko</h3>
+      <h3 style="margin-top: 15px;">2 Multi-Agent Transport Simulation in Tyoko</h3>
       <p>The four-step model relies on aggregated data, limiting its ability to reflect individual travel decisions while agent-based models can compensate for this.</p>
 
       <ul>
