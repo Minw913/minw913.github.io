@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "3Projects"
+title: "4Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -116,7 +116,7 @@ Compared to research, these projects were more comprehensive efforts completed t
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/files/project_1/DQN_placement_map.html" class="d-block mx-auto" alt="Research Image 1">
+          <iframe src="/files/project_1/Rewards_Information.html" width="100%" height="100%" style="border:none;"></iframe>
           <div class="carousel-caption d-none d-md-block">
             <h5>Iterative optimization of utility by different RL algorithms</h5>
           </div>
@@ -125,10 +125,10 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <iframe src="/files/project_1/Rewards_Information.html" width="100%" height="100%" style="border:none;"></iframe>
+            <iframe src="/files/project_1/DQN_placement_map.html" width="100%" height="100%" style="border:none;"></iframe>
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>The optimal charging station placement obtained by DQN algorithm</h5>
+            <h5>The optimal charging station placement by DQN algorithm</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
