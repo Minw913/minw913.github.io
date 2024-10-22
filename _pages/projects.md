@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "8Projects"
+title: "9Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -63,32 +63,32 @@ Compared to research, these projects were more comprehensive efforts completed t
 <div class="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
   <p style="margin-top: 10px; margin-bottom: 0;">
-  As a data scientist, my main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems. I work remotely at 0.6 FTE per month, with plans to work full-time next year before pursuing my PhD.<br>
-  In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects frequently involve exploratory methods. I look forward to further growth in the coming months and, if the opportunity arises, collaborating with the company's lab to publish the outcomes of our projects.<br>
+  I work remotely at 0.6 FTE per month as a data scientist. My main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
+  In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects frequently involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
   Currently, I am primarily responsible for two projects:
   </p>
   <div class="two-column">
     <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
       <h3>1 Origin-Destination Estimation in Sapporo</h3>
-      <p>We follow the four-step process of trip generation, trip distribution, mode choice, and route assignment to predict regional traffic demand and interpret the key influencing factors and patterns at each stage, in order to provide insights helping city planners make more accurate decisions regarding public transit capacity allocation.</p>
+      <p>We use the four-step model of trip generation, trip distribution, mode choice and route assignment to predict traffic demand and identify key factors and patterns, offering insights on public transit capacity allocation.</p>
 
       <ul>
         <li>How can we fully leverage GTFS, IC card, and socioeconomic data to achieve spatiotemporal clustering of OD trips and provide more granular demand analysis for transportation planning?</li>
-        <li>How can we incorporate real-time data and historical trends to capture dynamic changes in travel demand over time or during events using spatiotemporal analysis?</li>
-        <li>How can environmental factors (e.g., carbon emissions, noise pollution) be integrated into the model to optimize public transportation operations while simultaneously considering transportation efficiency, environmental protection, and sustainability?</li>
-        <li>How can machine learning algorithms be utilized to perform data-driven modeling without relying on predefined assumptions, enhancing the model's flexibility and predictive accuracy?</li>
+        <li>How can we incorporate real-time data and historical trends to capture dynamic travel demand using spatiotemporal analysis?</li>
+        <li>How can environmental factors (e.g., carbon emissions, noise pollution) be considered into the model to optimize the sustainability of public transportation?</li>
+        <li>How can machine learning algorithms be utilized to perform data-driven modeling without predefined assumptions, enhancing the model's flexibility?</li>
         <li>......</li>
       </ul>
     </div>
 
     <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
       <h3>2 Multi-Agent Transport Simulation in Tyoko</h3>
-      <p>The four-step model typically uses aggregated data, which cannot accurately reflect individual travel decisions. Agent-based models can incorporate individual behavior into demand forecasting, investigating how socio-economic characteristics affect mode choice and route assignment.</p>
+      <p>The four-step model relies on aggregated data, limiting its ability to reflect individual travel decisions while agent-based models can compensate for this.</p>
 
       <ul>
-        <li>How can we incorporate new travel modes (e.g., autonomous driving, shared mobility) into mode choice and simulate their impact on existing transportation operations?</li>
-        <li>How can we model heterogeneity in agent behavior (e.g., income, age and living area) by differentiating travel preference parameters in utility functions?</li>
-        <li>How can we integrate the influence of behavioral psychology on the rational agent, such as acceptability of autonomous vehicles and classify high, medium, and low acceptability groups?</li>
+        <li>How can we incorporate new travel modes (e.g., autonomous driving, shared mobility) into the traffic simulation?</li>
+        <li>How can we model heterogeneity in agent behavior (e.g., income and age) by differentiating parameters in utility functions?</li>
+        <li>How can we integrate the influence of behavioral psychology on the rational agent, such as acceptability of autonomous vehicles? </li>
         <li>......</li>
       </ul>
     </div>
@@ -102,8 +102,8 @@ Compared to research, these projects were more comprehensive efforts completed t
 <div class="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
   <!-- 关键词部分 -->
-  <p>This course project was completed in collaboration with two classmates from the Department of Statistics which earned high distinction (96/100).</p>
-  <p><strong>Key words:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
+  <p>This course project was completed in collaboration with two classmates from the Department of Statistics and earned high distinction (96/100).<br>
+  <strong>Key words:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -165,9 +165,9 @@ Compared to research, these projects were more comprehensive efforts completed t
       <p>Optimizing electric vehicle charging station placement is key to implementing zero-emission policies in central London. Using <a href="https://openchargemap.org/site" target="_blank" style="color: #757575;">open charge map data</a>, the study framed the problem as a reinforcement learning task, where the agent learns to take optimal actions by adjusting its strategy based on feedback. This results in a deployment that balances coverage benefits and time costs within budget constraints, maximizing overall utility. The components of the RL problem are as follows:</p>
 
       <ul>
-        <li>**State**: The current spatial layout of charging stations and charger configuration.</li>
-        <li>**Action**: Adding new charging stations, increasing the capacity of existing stations, or relocating stations.</li>
-        <li>**Reward**: The difference in total utility before and after each layout modification.</li>
+        <li><strong>State</strong>: The current spatial layout of charging stations and charger configuration.</li>
+        <li><strong>Action</strong>: Adding new charging stations, increasing the capacity of existing stations, or relocating stations.</li>
+        <li><strong>Reward</strong>: The difference in total utility before and after each layout modification.</li>
       </ul>
 
       <p>As a result, reinforcement learning algorithms show significant improvements over traditional methods, with the DQN-based layout performing best across metrics. Each algorithm offers unique strengths: DQN minimizes travel time in high-demand areas, A2C improves overall service balance, and PPO enhances charging efficiency at existing stations.</p>
@@ -184,7 +184,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 <!-- {% include base_path %} -->
 <!-- 研究项目标题 -->
 ## **PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning**
-<p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
+<p style="color: #757575; font-size: 16px;">April 01, 2024 – May 15, 2024</p>
 <!-- 关键词部分 -->
 <p><strong>Key words:</strong> road emission prediction, spatiotemporal modeling, graph attention network</p>
 
