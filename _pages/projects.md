@@ -50,36 +50,37 @@ Compared to research, these projects were more comprehensive efforts completed t
 <!-- 研究项目标题 -->
 <h3 id="toggle-header" style="cursor: pointer;"><strong>PJ0 Current Work at Spatial Pleasure</strong></h3>
 <div id="toggle-content" style="display: none;">
-<p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
-<p style="margin-top: 10px; margin-bottom: 0;">
-As a data scientist, my main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems. I work remotely at 0.6 FTE per month, with plans to work full-time next year before pursuing my PhD.<br>
-In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects frequently involve exploratory methods. I look forward to further growth in the coming months and, if the opportunity arises, collaborating with the company's lab to publish the outcomes of our projects.<br>
-Currently, I am primarily responsible for two projects:
-</p>
-<div class="two-column">
-  <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
-    <h3>1 Origin-Destination Estimation in Sapporo</h3>
-    <p>We follow the four-step process of trip generation, trip distribution, mode choice, and route assignment to predict regional traffic demand and interpret the key influencing factors and patterns at each stage, in order to provide insights helping city planners make more accurate decisions regarding public transit capacity allocation.</p>
+  <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
+  <p style="margin-top: 10px; margin-bottom: 0;">
+  As a data scientist, my main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems. I work remotely at 0.6 FTE per month, with plans to work full-time next year before pursuing my PhD.<br>
+  In many ways, the work here is more akin to research, as my supervisor has a strong background in mathematical statistics and the projects frequently involve exploratory methods. I look forward to further growth in the coming months and, if the opportunity arises, collaborating with the company's lab to publish the outcomes of our projects.<br>
+  Currently, I am primarily responsible for two projects:
+  </p>
+  <div class="two-column">
+    <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
+      <h3>1 Origin-Destination Estimation in Sapporo</h3>
+      <p>We follow the four-step process of trip generation, trip distribution, mode choice, and route assignment to predict regional traffic demand and interpret the key influencing factors and patterns at each stage, in order to provide insights helping city planners make more accurate decisions regarding public transit capacity allocation.</p>
 
-    <ul>
-      <li>How can we fully leverage GTFS, IC card, and socioeconomic data to achieve spatiotemporal clustering of OD trips and provide more granular demand analysis for transportation planning?</li>
-      <li>How can we incorporate real-time data and historical trends to capture dynamic changes in travel demand over time or during events using spatiotemporal analysis?</li>
-      <li>How can environmental factors (e.g., carbon emissions, noise pollution) be integrated into the model to optimize public transportation operations while simultaneously considering transportation efficiency, environmental protection, and sustainability?</li>
-      <li>How can machine learning algorithms be utilized to perform data-driven modeling without relying on predefined assumptions, enhancing the model's flexibility and predictive accuracy?</li>
-      <li>......</li>
-    </ul>
-  </div>
+      <ul>
+        <li>How can we fully leverage GTFS, IC card, and socioeconomic data to achieve spatiotemporal clustering of OD trips and provide more granular demand analysis for transportation planning?</li>
+        <li>How can we incorporate real-time data and historical trends to capture dynamic changes in travel demand over time or during events using spatiotemporal analysis?</li>
+        <li>How can environmental factors (e.g., carbon emissions, noise pollution) be integrated into the model to optimize public transportation operations while simultaneously considering transportation efficiency, environmental protection, and sustainability?</li>
+        <li>How can machine learning algorithms be utilized to perform data-driven modeling without relying on predefined assumptions, enhancing the model's flexibility and predictive accuracy?</li>
+        <li>......</li>
+      </ul>
+    </div>
 
-  <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
-    <h3>2 Multi-Agent Transport Simulation in Tyoko</h3>
-    <p>The four-step model typically uses aggregated data, which cannot accurately reflect individual travel decisions. Agent-based models can incorporate individual behavior into demand forecasting, investigating how socio-economic characteristics affect mode choice and route assignment.</p>
+    <div style="padding-top: 0px; padding-left: 20px; padding-right: 20px; ">
+      <h3>2 Multi-Agent Transport Simulation in Tyoko</h3>
+      <p>The four-step model typically uses aggregated data, which cannot accurately reflect individual travel decisions. Agent-based models can incorporate individual behavior into demand forecasting, investigating how socio-economic characteristics affect mode choice and route assignment.</p>
 
-    <ul>
-      <li>How can we incorporate new travel modes (e.g., autonomous driving, shared mobility) into mode choice and simulate their impact on existing transportation operations?</li>
-      <li>How can we model heterogeneity in agent behavior (e.g., income, age and living area) by differentiating travel preference parameters in utility functions?</li>
-      <li>How can we integrate the influence of behavioral psychology on the rational agent, such as acceptability of autonomous vehicles and classify high, medium, and low acceptability groups?</li>
-      <li>......</li>
-    </ul>
+      <ul>
+        <li>How can we incorporate new travel modes (e.g., autonomous driving, shared mobility) into mode choice and simulate their impact on existing transportation operations?</li>
+        <li>How can we model heterogeneity in agent behavior (e.g., income, age and living area) by differentiating travel preference parameters in utility functions?</li>
+        <li>How can we integrate the influence of behavioral psychology on the rational agent, such as acceptability of autonomous vehicles and classify high, medium, and low acceptability groups?</li>
+        <li>......</li>
+      </ul>
+    </div>
   </div>
 </div>
 
