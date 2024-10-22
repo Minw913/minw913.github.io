@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "6Projects"
+title: "8Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -34,15 +34,23 @@ redirect_from:
 
 <!-- toggle时鼠标悬停的样式 -->
 <style>
-  #toggle-header {
-    cursor: pointer;
-    /* color: #007bff;  */
-  }
-  
-  #toggle-header:hover {
-    text-decoration: underline;
-  }
-</style>
+      #toggle-header {
+          cursor: pointer;
+          font-weight: bold;
+          display: flex;
+          align-items: center;
+      }
+
+      #toggle-icon {
+          margin-right: 8px;
+          /* 使得图标在展开/收起时有一个平滑的过渡效果 */
+          transition: transform 0.3s ease; 
+      }
+
+      #toggle-content {
+          display: block; /* 默认展开 */
+      }
+  </style>
 
 
 <!-- {% include base_path %} -->
@@ -51,7 +59,9 @@ redirect_from:
 Compared to research, these projects were more comprehensive efforts completed through team collaboration. In most of these projects, I served as the team leader, managing the overall project framework, solving technical challenges, and acting as a key motivator for the team. Below is a chronological list of these projects.
 </p>
 <!-- 研究项目标题 -->
-<h3 id="toggle-header" style="cursor: pointer;"><strong>PJ0 Current Work at Spatial Pleasure</strong></h3>
+<h2 id="toggle-header" style="cursor: pointer;">
+  <span id="toggle-icon">▶</span><strong>PJ0 Current Work at Spatial Pleasure</strong>
+</h2>
 <div id="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
   <p style="margin-top: 10px; margin-bottom: 0;">
