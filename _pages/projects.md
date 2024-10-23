@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "6Projects"
+title: "8Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
