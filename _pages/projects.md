@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "5Projects"
+title: "6Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -104,7 +104,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 <div class="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
   <!-- 关键词部分 -->
-  <p><strong>Key words:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
+  <p><strong>Keywords:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">

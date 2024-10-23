@@ -96,7 +96,7 @@ redirect_from:
 ## **RE2 Investigating the impact of London's Ultra Low Emission Zone on electric vehicle adoption**
 <p style="color: #757575; font-size: 16px;">May 20, 2024 – June 15, 2024</p>
 <!-- 关键词部分 -->
-<p><strong>Key words:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
+<p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
 
 <!-- 父容器 -->
 <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -161,7 +161,7 @@ redirect_from:
 ## **RE3 Study on multi-scale spatiotemporal impact mechanism in nighttime economy based on explainable deep learning: A case in Nanjing, China**
 <p style="color: #757575; font-size: 16px;">Jan 20, 2023 – May 15, 2023</p>
 <!-- 关键词部分 -->
-<p><strong>Key words:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
+<p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
 
 <!-- 父容器 -->
 <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -226,7 +226,7 @@ redirect_from:
 ## **RE4 Spatio-temporal evolution of urban low-carbon competitiveness in the Yangtze River Delta from 2000 to 2020**
 <p style="color: #757575; font-size: 16px;">Oct 1, 2021 – Nov 15, 2022</p>
 <!-- 关键词部分 -->
-<p><strong>Key words:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
+<p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
 
 <!-- 父容器 -->
 <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
