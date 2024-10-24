@@ -345,8 +345,8 @@ Compared to research, these projects were more comprehensive efforts completed t
   </a>
   &nbsp;&nbsp; 
   <a href="/files/research_4/Sample_of_work_EN.pdf" target="_blank">
-    <i class="fas fa-file-pdf"></i> EN)
-  </a>
+    <i class="fas fa-file-pdf"></i> EN
+  </a>)
 </p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">

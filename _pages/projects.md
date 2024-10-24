@@ -316,6 +316,6 @@ Compared to research, these projects were more comprehensive efforts completed t
   <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> The Grand Prize in the 1st 'Sky Cup' National College Students Spatial Information Technology Competition </p>
 </div>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 0px; margin-bottom: 0;"><a href="http://public.dupetrc.qiyi.us:31382/app_noise_loc/home" target="_blank"><i class="fas fa-globe"></i> Our Website</a>.</p>
+<p style="margin-top: 0px; margin-bottom: 0;"><a href="http://public.dupetrc.qiyi.us:31382/app_noise_loc/home" target="_blank"><i class="fas fa-globe"></i> Our Website</a></p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
