@@ -259,7 +259,7 @@ redirect_from:
           <img src="/images/research_4/img_1.png" class="d-block mx-auto" alt="Research Image 1"
           style="margin-top: 20px;">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Research framework</h5>
+            <h5 >Research framework</h5>
           </div>
           <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -272,7 +272,7 @@ redirect_from:
             style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>Spatiotemporal evolution of urban low-carbon competitiveness</h5>
+            <h5 style="font-size: 12px;">Spatiotemporal evolution of urban low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -317,7 +317,7 @@ redirect_from:
     </div> -->
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>To achieve carbon peaking and carbon neutrality goals, it is necessary to analyze the low-carbon competitiveness of cities at a regional scale and recognize the spatiotemporal evolution patterns. This study focuses on the low-carbon competitiveness of 41 cities in the Yangtze River Delta from 2000 to 2020.</p>
+      <p>To achieve carbon peaking and carbon neutrality goals, it is necessary to recognize the spatiotemporal evolution patterns of urban low-carbon competitiveness at a regional scale. This study focuses on the low-carbon competitiveness of 41 cities in the Yangtze River Delta from 2000 to 2020.</p>
       <p><strong>Key contributions</strong></p>
       <ul>
         <li>Developed a comprehensive index system for evaluating urban low-carbon competitiveness, consisting of three dimensions: carbon emissions, socio-economic factors, and low-carbon technologies and policies.</li>
@@ -336,12 +336,12 @@ redirect_from:
 </div>
 <!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p>Sample of Work
-  <a href="/files/research_3/Sample_of_work_ZH.pdf" target="_blank">
+<p>Sample of Work 
+  <a href="/files/research_4/Sample_of_work_ZH.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> ZH
   </a>
   &nbsp;&nbsp; 
-  <a href="/files/research_3/Sample_of_work_EN.pdf" target="_blank">
+  <a href="/files/research_4/Sample_of_work_EN.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> EN
   </a>
 </p>

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "6Projects"
+title: "1Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -151,8 +151,8 @@ Compared to research, these projects were more comprehensive efforts completed t
     </div> -->
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>Optimizing electric vehicle charging station placement is key to implementing zero-emission policies in central London. Using <a href="https://openchargemap.org/site" target="_blank" style="color: #757575;">open charge map data</a>, the study framed the problem as a reinforcement learning task, where the agent learns to take optimal actions by adjusting its strategy based on feedback. This results in a deployment that balances coverage benefits and time costs within budget constraints, maximizing overall utility. The components of the RL problem are as follows:</p>
-
+      <p>Optimizing electric vehicle charging station placement is key to implementing zero-emission policies in central London. Using <a href="https://openchargemap.org/site" target="_blank" style="color: #757575;">open charge map data</a>, the study framed the problem as a reinforcement learning task, where the agent learns to take optimal actions by adjusting its strategy based on feedback. This results in a deployment that balances coverage benefits and time costs within budget constraints, maximizing overall utility.</p>
+      <p><strong>Components of the RL problem</strong></p>
       <ul>
         <li><strong>State</strong>: The current spatial layout of charging stations and charger configuration.</li>
         <li><strong>Action</strong>: Adding new charging stations, increasing the capacity of existing stations, or relocating stations.</li>
@@ -262,8 +262,8 @@ Compared to research, these projects were more comprehensive efforts completed t
     </div> -->
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>During the COVID-19 pandemic, urban residents' subjective well-being (SWB) was at risk, but few studies examined its relationship with neighborhood-level socio-economic and built-environment factors. This study bridges that gap by analyzing over one million geo-tagged social media posts from Shanghai. The main contributions are:</p>
-
+      <p>During the COVID-19 pandemic, urban residents' subjective well-being (SWB) was at risk, but few studies examined its relationship with neighborhood-level socio-economic and built-environment factors. This study bridges that gap by analyzing over one million geo-tagged social media posts from Shanghai.</p>
+      <p><strong>Key contributions</strong></p>
       <ul>
         <li>Utilized the ChatGPT API to analyze social media sentiment indices, combined with BerTopic to extract high-frequency topics, revealing the spatiotemporal dynamics of urban emotions during public disturbances.</li>
 
@@ -283,3 +283,59 @@ Compared to research, these projects were more comprehensive efforts completed t
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
 
+<h2 class="toggle-header" style="cursor: pointer;">
+  <span class="toggle-icon">▶</span><strong> PJ3 NoiseLoc: Campus Noise Monitoring and Traceability System</strong>
+</h2>
+<p style="color: #757575; font-size: 16px;">June 01, 2021 – Nov 17, 2022</p>
+<div class="toggle-content" style="display: none;">
+  <!-- 关键词部分 -->
+  <p><strong>Keywords:</strong> noise traceability; sound classification and intensity prediction; interactive web app</p>
+
+  <!-- 父容器 -->
+  <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
+    <div id="researchCarouse2" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+      <!-- <ol class="carousel-indicators">
+        <li data-target="#researchCarouse2" data-slide-to="0" class="active"></li>
+        <li data-target="#researchCarouse2" data-slide-to="1"></li>
+        <li data-target="#researchCarouse2" data-slide-to="2"></li>
+        <li data-target="#researchCarouse2" data-slide-to="3"></li>
+        <li data-target="#researchCarouse2" data-slide-to="4"></li>
+      </ol> -->
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+            <!-- 添加MP4视频 -->
+          <video class="d-block mx-auto" controls style="margin-top: 70px;">
+            <source src="/files/project_3/video_1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Project framework and workflow</h5>
+          </div>
+          <!-- 放大按钮 -->
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
+        </div>
+    </div>
+    <!-- 轮播图放大模态框 HTML -->
+    <!-- <div id="imageModal" class="modal">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <img class="modal-content" id="modalImg">
+    </div> -->
+    <!-- 摘要部分 -->
+    <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
+      <p>Campus noise affects students and staff, and the noise tracing system provides precise analysis and decision-making support. This project uses GIS technology to create a multi-dimensional noise map, incorporating user feedback to identify noise sources. The interactive website features noise info, scenario distribution, event simulation, and source tracking. Outdoor experiments validated the model's accuracy.</p>
+      <p><strong>Key technologies</strong></p>
+      <ul>
+        <li>Employ a geometric acoustic ray tracing method to simulate noise propagation, accounting for reflection, diffraction, and atmospheric absorption, enabling accurate noise propagation and attenuation calculations across different frequency sources.</li>
+
+        <li>Used Regression Discontinuity Design (RDD) to divide the COVID-19 outbreak in Shanghai into six SWB stages, analyzing key events' impact on public sentiment before, during, and after the pandemic.</li>
+
+        <li>Applied a Fully Connected Neural Network (FCNN) model to examine the relationship between sentiment scores and socio-economic as well as built-environment factors at the neighborhood level, with the SHAP framework used to explain the model.</li>
+      </ul>
+    </div>
+  </div>
+<!-- </div> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type\=vote">The First Prize in the 7th Chengyuan Cup</a>; <a href="https://www.isocui.org/icui2023/">Best Presentation Award in GSCS & ICUI 2023</a>; Submitted to the journal <i>Computers, Environment and Urban Systems</i>.</p>
+</div>
+<!-- 分隔线 -->
+<hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
