@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "6Research"
+title: "7Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -27,11 +27,11 @@ Compared to research, these projects were more comprehensive efforts completed t
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
     <div id="researchCarousel_1" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
       <ol class="carousel-indicators">
-        <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#researchCarousel" data-slide-to="1"></li>
-        <li data-target="#researchCarousel" data-slide-to="2"></li>
-        <li data-target="#researchCarousel" data-slide-to="3"></li>
-        <li data-target="#researchCarousel" data-slide-to="4"></li>
+        <li data-target="#researchCarousel_1" data-slide-to="0" class="active"></li>
+        <li data-target="#researchCarousel_1" data-slide-to="1"></li>
+        <li data-target="#researchCarousel_1" data-slide-to="2"></li>
+        <li data-target="#researchCarousel_1" data-slide-to="3"></li>
+        <li data-target="#researchCarousel_1" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -69,11 +69,11 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
       </div>
       <!-- Controls -->
-      <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
+      <a class="carousel-control-prev" href="#researchCarousel_1" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
       </a>
-      <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
+      <a class="carousel-control-next" href="#researchCarousel_1" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
@@ -113,25 +113,27 @@ Compared to research, these projects were more comprehensive efforts completed t
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
     <div id="researchCarousel_2" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
       <ol class="carousel-indicators">
-        <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#researchCarousel" data-slide-to="1"></li>
-        <li data-target="#researchCarousel" data-slide-to="2"></li>
+        <li data-target="#researchCarousel_2" data-slide-to="0" class="active"></li>
+        <li data-target="#researchCarousel_2" data-slide-to="1"></li>
+        <li data-target="#researchCarousel_2" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/images/research_2/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+          <img src="/images/research_2/img_1.png" class="d-block mx-auto" alt="Research Image 1"
+          style="margin-top: 50px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>The distribution of Monitoring stations in London</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_2/img_2.png" class="d-block mx-auto" alt="Research Image 2">
+          <img src="/images/research_2/img_2.png" class="d-block mx-auto" alt="Research Image 2"
+          style="margin-top: 40px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>The time series of NO2 concentration at stations</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_2/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
+          <img src="/images/research_2/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 30px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
             <h5>Monitoring station graphs with different distance thresholds</h5>
@@ -139,11 +141,11 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
       </div>
       <!-- Controls -->
-      <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
+      <a class="carousel-control-prev" href="#researchCarousel_2" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
       </a>
-      <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
+      <a class="carousel-control-next" href="#researchCarousel_2" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
@@ -196,10 +198,10 @@ Compared to research, these projects were more comprehensive efforts completed t
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
     <div id="researchCarousel_3" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
       <ol class="carousel-indicators">
-        <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#researchCarousel" data-slide-to="1"></li>
-        <li data-target="#researchCarousel" data-slide-to="2"></li>
-        <!-- <li data-target="#researchCarousel" data-slide-to="3"></li> -->
+        <li data-target="#researchCarousel_3" data-slide-to="0" class="active"></li>
+        <li data-target="#researchCarousel_3" data-slide-to="1"></li>
+        <li data-target="#researchCarousel_3" data-slide-to="2"></li>
+        <!-- <li data-target="#researchCarousel_3" data-slide-to="3"></li> -->
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -219,7 +221,7 @@ Compared to research, these projects were more comprehensive efforts completed t
             style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="font-size: 12px;">Spatiotemporal evolution of urban low-carbon competitiveness</h5>
+            <h5 style="font-size: 15px;">Spatiotemporal evolution of urban low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -248,11 +250,11 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
       </div>
       <!-- Controls -->
-      <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
+      <a class="carousel-control-prev" href="#researchCarousel_3" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
       </a>
-      <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
+      <a class="carousel-control-next" href="#researchCarousel_3" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
