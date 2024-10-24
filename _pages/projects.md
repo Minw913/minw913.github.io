@@ -265,7 +265,7 @@ Compared to research, these projects were more comprehensive efforts completed t
       <p>During the COVID-19 pandemic, urban residents' subjective well-being (SWB) was at risk, but few studies examined its relationship with neighborhood-level socio-economic and built-environment factors. This study bridges that gap by analyzing over one million geo-tagged social media posts from Shanghai. The main contributions are:</p>
 
       <ul>
-        <li>Utilized the ChatGPT model to analyze social media sentiment indices, combined with BerTopic to extract high-frequency topics, revealing the spatiotemporal dynamics of urban emotions during public disturbances.</li>
+        <li>Utilized the ChatGPT API to analyze social media sentiment indices, combined with BerTopic to extract high-frequency topics, revealing the spatiotemporal dynamics of urban emotions during public disturbances.</li>
 
         <li>Used Regression Discontinuity Design (RDD) to divide the COVID-19 outbreak in Shanghai into six SWB stages, analyzing key events' impact on public sentiment before, during, and after the pandemic.</li>
 
@@ -281,3 +281,5 @@ Compared to research, these projects were more comprehensive efforts completed t
 </div>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
+
+
