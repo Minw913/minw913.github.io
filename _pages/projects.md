@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "1Projects"
+title: "2Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -190,19 +190,48 @@ Compared to research, these projects were more comprehensive efforts completed t
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <iframe src="/files/project_1/Rewards_Information.html" width="100%" height="100%" style="border:none;"></iframe>
+          <img src="/images/project_2/img_1.png" class="d-block mx-auto" alt="Research Image 1">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Iterative optimization of utility by different RL algorithms</h5>
+            <h5>Project framework and workflow</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <iframe src="/files/project_1/DQN_placement_map.html" width="100%" height="100%" style="border:none;"></iframe>
+            <img src="/images/project_2/img_2.png" class="d-block mx-auto" alt="Research Image 1">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>The optimal charging station placement by DQN algorithm</h5>
+            <h5>Spatio-temporal dynamic system of sentiment based on ChatGPT and BERT</h5>
+          </div>
+           <!-- 放大按钮 -->
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
+        <div class="carousel-item">
+          <div class="d-block w-100" style="height: 500px;">
+            <img src="/images/project_2/img_3.png" class="d-block mx-auto" alt="Research Image 1">
+          </div>
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Resilience stage division based on RDD causal inference analysis</h5>
+          </div>
+           <!-- 放大按钮 -->
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
+        </div>
+        <div class="carousel-item">
+          <div class="d-block w-100" style="height: 500px;">
+            <img src="/images/project_2/img_4.png" class="d-block mx-auto" alt="Research Image 1">
+          </div>
+          <div class="carousel-caption d-none d-md-block">
+            <h5>The Global Spatio-temporal impact of Sentiment: Comprehensive Effects</h5>
+          </div>
+           <!-- 放大按钮 -->
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
+        </div>
+        <div class="carousel-item">
+          <div class="d-block w-100" style="height: 500px;">
+            <img src="/images/project_2/img_5.png" class="d-block mx-auto" alt="Research Image 1">
+          </div>
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Spatio-temporal impact of Neighborhood Effects on Sentiment</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -225,15 +254,17 @@ Compared to research, these projects were more comprehensive efforts completed t
     </div> -->
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>During the COVID-19 pandemic, the subjective well-being (SWB) of urban residents was threatened, yet few studies have explored the relationship between SWB and socio-economic as well as built-environment factors at the neighborhood level. This study addresses this gap by analyzing over one million geo-tagged social media posts from Shanghai. The main contributions are as follows:</p>
+      <p>During the COVID-19 pandemic, urban residents' subjective well-being (SWB) was at risk, but few studies examined its relationship with neighborhood-level socio-economic and built-environment factors. This study bridges that gap by analyzing over one million geo-tagged social media posts from Shanghai. The main contributions are:</p>
 
       <ul>
-        <li>Introduced the ChatGPT model to analyze sentiment indices in social media, combined with the BerTopic model to extract high-frequency topics, revealing the spatiotemporal dynamics of urban residents' emotions during public disturbances.</li>
-        <li>Used Regression Discontinuity Design (RDD) to divide the COVID-19 outbreak in Shanghai into six SWB stages, analyzing the significant impact of key events before, during, and after the pandemic on public sentiment.</li>
+        <li>Utilized the ChatGPT model to analyze social media sentiment indices, combined with BerTopic to extract high-frequency topics, revealing the spatiotemporal dynamics of urban emotions during public disturbances.</li>
+
+        <li>Used Regression Discontinuity Design (RDD) to divide the COVID-19 outbreak in Shanghai into six SWB stages, analyzing key events' impact on public sentiment before, during, and after the pandemic.</li>
+
         <li>Applied a Fully Connected Neural Network (FCNN) model to examine the relationship between sentiment scores and socio-economic as well as built-environment factors at the neighborhood level, with the SHAP framework used to explain the model.</li>
       </ul>
 
-      <p>The study found that green and blue spaces in communities contribute to enhancing psychological resilience, while higher road density, accessibility to attractions, and healthcare services can mitigate the association between sentiment, income, and aging. These findings provide valuable insights for urban planning and policy-making to enhance residents' psychological resilience.</p>
+      <p>The study found that green and blue spaces boost psychological resilience, while higher road density, attraction accessibility, and healthcare services reduce the link between sentiment, income, and aging. These insights inform urban planning and policy-making to enhance residents' resilience.</p>
     </div>
   </div>
 
