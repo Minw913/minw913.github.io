@@ -232,7 +232,7 @@ Compared to research, these projects were more comprehensive efforts completed t
             style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>Spatiotemporal evolution types of low-carbon competitiveness</h5>
+            <h5 style="font-size: 15px;">Spatiotemporal evolution types of low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
