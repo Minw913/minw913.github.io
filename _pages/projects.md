@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "4Projects"
+title: "5Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -193,7 +193,7 @@ Compared to research, these projects were more comprehensive efforts completed t
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="/images/project_2/img_1.png" class="d-block mx-auto" alt="Research Image 1"
-          style="margin-top: 50px;">
+          style="margin-top: 70px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>Project framework and workflow</h5>
           </div>
@@ -203,10 +203,10 @@ Compared to research, these projects were more comprehensive efforts completed t
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/project_2/img_2.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 50px;">
+            style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>Spatio-temporal dynamic system of sentiment based on ChatGPT and BERT</h5>
+            <h5>Spatiotemporal SWB extracted by ChatGPT and BERT</h5>
           </div>
         </div>
         <!-- 放大按钮 -->
@@ -214,10 +214,10 @@ Compared to research, these projects were more comprehensive efforts completed t
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/project_2/img_3.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 50px;">
+            style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>Resilience stage division based on RDD causal inference analysis</h5>
+            <h5>Resilience stage division by Regression Discontinuity Design</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -225,10 +225,10 @@ Compared to research, these projects were more comprehensive efforts completed t
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/project_2/img_4.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 50px;">
+            style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>The Global Spatio-temporal impact of Sentiment: Comprehensive Effects</h5>
+            <h5>The Global Spatiotemporal impact of SWB using SHAP</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -236,10 +236,10 @@ Compared to research, these projects were more comprehensive efforts completed t
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/project_2/img_5.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 50px;">
+            style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>Spatio-temporal impact of Neighborhood Effects on Sentiment</h5>
+            <h5>Associations between Socio-Environmental Dynamics and SWB</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
