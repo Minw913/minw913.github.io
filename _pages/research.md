@@ -201,7 +201,7 @@ Compared to research, these projects were more comprehensive efforts completed t
         <li data-target="#researchCarousel_3" data-slide-to="0" class="active"></li>
         <li data-target="#researchCarousel_3" data-slide-to="1"></li>
         <li data-target="#researchCarousel_3" data-slide-to="2"></li>
-        <!-- <li data-target="#researchCarousel_3" data-slide-to="3"></li> -->
+        <li data-target="#researchCarousel_3" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
