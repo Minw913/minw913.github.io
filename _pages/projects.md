@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "3Projects"
+title: "4Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -192,7 +192,8 @@ Compared to research, these projects were more comprehensive efforts completed t
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/images/project_2/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+          <img src="/images/project_2/img_1.png" class="d-block mx-auto" alt="Research Image 1"
+          style="margin-top: 50px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>Project framework and workflow</h5>
           </div>
@@ -201,7 +202,8 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <img src="/images/project_2/img_2.png" class="d-block mx-auto" alt="Research Image 1">
+            <img src="/images/project_2/img_2.png" class="d-block mx-auto" alt="Research Image 1"
+            style="margin-top: 50px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>Spatio-temporal dynamic system of sentiment based on ChatGPT and BERT</h5>
@@ -211,7 +213,8 @@ Compared to research, these projects were more comprehensive efforts completed t
         <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <img src="/images/project_2/img_3.png" class="d-block mx-auto" alt="Research Image 1">
+            <img src="/images/project_2/img_3.png" class="d-block mx-auto" alt="Research Image 1"
+            style="margin-top: 50px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>Resilience stage division based on RDD causal inference analysis</h5>
@@ -221,7 +224,8 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <img src="/images/project_2/img_4.png" class="d-block mx-auto" alt="Research Image 1">
+            <img src="/images/project_2/img_4.png" class="d-block mx-auto" alt="Research Image 1"
+            style="margin-top: 50px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>The Global Spatio-temporal impact of Sentiment: Comprehensive Effects</h5>
@@ -231,7 +235,8 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <img src="/images/project_2/img_5.png" class="d-block mx-auto" alt="Research Image 1">
+            <img src="/images/project_2/img_5.png" class="d-block mx-auto" alt="Research Image 1"
+            style="margin-top: 50px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>Spatio-temporal impact of Neighborhood Effects on Sentiment</h5>
@@ -270,9 +275,9 @@ Compared to research, these projects were more comprehensive efforts completed t
       <p>The study found that green and blue spaces boost psychological resilience, while higher road density, attraction accessibility, and healthcare services reduce the link between sentiment, income, and aging. These insights inform urban planning and policy-making to enhance residents' resilience.</p>
     </div>
   </div>
-</div>
+<!-- </div> -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type\=vote">The First Prize in the 7th Chengyuan Cup</a>; <a href="https://www.isocui.org/icui2023/">Best Presentation Award in GSCS & ICUI 2023</a>; submitted to the journal <i>Computers, Environment and Urban Systems</i>.</p>
-<!-- </div> -->
+</div>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
