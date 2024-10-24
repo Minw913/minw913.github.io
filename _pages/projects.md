@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "7Projects"
+title: "8Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -107,7 +107,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-    <div class="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+    <div class="researchCarousel" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
       <ol class="carousel-indicators">
         <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#researchCarousel" data-slide-to="1"></li>
@@ -181,7 +181,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-    <div class="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+    <div class="researchCarousel" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
       <ol class="carousel-indicators">
         <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#researchCarousel" data-slide-to="1"></li>
