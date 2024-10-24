@@ -107,7 +107,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-    <div class="projectCarousel_1" class ="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+    <div id="projectCarousel_1" class ="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
       <ol class="carousel-indicators">
         <li data-target="#projectCarousel_1" data-slide-to="0" class="active"></li>
         <li data-target="#projectCarousel_1" data-slide-to="1"></li>
