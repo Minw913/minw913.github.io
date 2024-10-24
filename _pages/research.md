@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2Research"
+title: "3Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+## **Overview**
+<p>
+Compared to research, these projects were more comprehensive efforts completed through team collaboration. In most of these projects, I served as the team leader, managing the overall project framework and solving technical challenges. Below is a chronological list of these projects.
+</p>
 
 <!-- 研究项目标题 -->
 <h2 class="toggle-header" style="cursor: pointer;">
@@ -84,13 +89,11 @@ redirect_from:
       <p>Experiments on hourly air pollutant data from London's roadside stations, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>, validate the model. Results show a 12.5% accuracy improvement with the graph attention mechanism and extended forecast horizon to 12 hours using the LSTM encoder-decoder, outperforming baselines, especially in long-term (9-12h) predictions.</p>
     </div>
   </div>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-  <p style="margin-top: 30px; margin-bottom: 0;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 </div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<p style="margin-top: 30px; margin-bottom: 0;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
-
-
 
 
 
@@ -336,13 +339,13 @@ redirect_from:
 </div>
 <!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p>Sample of Work 
+<p>Sample of Work &nbsp;
   <a href="/files/research_4/Sample_of_work_ZH.pdf" target="_blank">
-    <i class="fas fa-file-pdf"></i> ZH
+    <i class="fas fa-file-pdf"></i> (ZH
   </a>
   &nbsp;&nbsp; 
   <a href="/files/research_4/Sample_of_work_EN.pdf" target="_blank">
-    <i class="fas fa-file-pdf"></i> EN
+    <i class="fas fa-file-pdf"></i> EN)
   </a>
 </p>
 <!-- 分隔线 -->
