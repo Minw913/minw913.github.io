@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "5Projects"
+title: "6Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -60,8 +60,8 @@ Compared to research, these projects were more comprehensive efforts completed t
 <h2 class="toggle-header" style="cursor: pointer;">
   <span class="toggle-icon">▶</span><strong> PJ0 Current Work at Spatial Pleasure</strong>
 </h2>
+<p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
 <div class="toggle-content" style="display: none;">
-  <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
   <p style="margin-top: 10px; margin-bottom: 10px;">
   I work remotely at 0.6 FTE per month as a data scientist. My main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
   In many ways, the work here is more akin to research, as the projects require strong knowledge of mathematical statistics and involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
@@ -101,8 +101,8 @@ Compared to research, these projects were more comprehensive efforts completed t
 <h2 class="toggle-header" style="cursor: pointer;">
   <span class="toggle-icon">▶</span><strong> PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning</strong>
 </h2>
+<p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 <div class="toggle-content" style="display: none;">
-  <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
   <!-- 关键词部分 -->
   <p><strong>Keywords:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
 
@@ -166,8 +166,8 @@ Compared to research, these projects were more comprehensive efforts completed t
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> High distinction (96/100) in course <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST455.htm"> ST455 Reinforcement Learning </a></p>
-  <p style="margin-top: 0px; margin-bottom: 0;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 </div>
+<p style="margin-top: 0px; margin-bottom: 0;">Preprint forthcoming on arXiv. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
@@ -175,8 +175,8 @@ Compared to research, these projects were more comprehensive efforts completed t
 <h2 class="toggle-header" style="cursor: pointer;">
   <span class="toggle-icon">▶</span><strong> PJ2 Disentangling Associations between Socio-Environmental Dynamics and Subjective Well-being during and after COVID-19 Using Explainable Machine Learning</strong>
 </h2>
+<p style="color: #757575; font-size: 16px;">Feb 01, 2023 – Aug 25, 2023</p>
 <div class="toggle-content" style="display: none;">
-  <p style="color: #757575; font-size: 16px;">Feb 01, 2023 – Aug 25, 2023</p>
   <!-- 关键词部分 -->
   <p><strong>Keywords:</strong> subjective well-being; neighborhood resilience; COVID-19; explainable machine learning; social media data</p>
 

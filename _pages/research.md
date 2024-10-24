@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "8Research"
+title: "2Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -73,8 +73,8 @@ redirect_from:
     </div>
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations. Key contributions include:</p>
-
+      <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations.</p>
+      <p><strong>Key contributions</strong></p>
       <ul>
         <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics (e.g., road conditions, network structure, traffic volume), providing valuable insights for transportation policy.</li>
         <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
@@ -146,7 +146,7 @@ redirect_from:
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
       <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations.</p>
-      <p>Key contributions</p>
+      <p><strong>Key contributions</strong></p>
       <ul>
         <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics additionally providing valuable insights for transportation policy.</li>
         <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
@@ -219,8 +219,8 @@ redirect_from:
     </div>
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations. Key contributions include:</p>
-
+      <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations.</p>
+      <p><strong>Key contributions</strong></p>
       <ul>
         <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics (e.g., road conditions, network structure, traffic volume), providing valuable insights for transportation policy.</li>
         <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
@@ -257,7 +257,7 @@ redirect_from:
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="/images/research_4/img_1.png" class="d-block mx-auto" alt="Research Image 1"
-          style="margin-top: 70px;">
+          style="margin-top: 20px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>Research framework</h5>
           </div>
@@ -269,7 +269,7 @@ redirect_from:
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/research_4/img_3.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 70px;">
+            style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>Spatiotemporal evolution of urban low-carbon competitiveness</h5>
@@ -280,7 +280,7 @@ redirect_from:
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/research_4/img_4.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 70px;">
+            style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>Spatiotemporal evolution types of low-carbon competitiveness</h5>
@@ -291,7 +291,7 @@ redirect_from:
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/research_4/img_5.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 70px;">
+            style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>Impact mechanism of urban low-carbon competitiveness</h5>
@@ -318,7 +318,7 @@ redirect_from:
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
       <p>To achieve carbon peaking and carbon neutrality goals, it is necessary to analyze the low-carbon competitiveness of cities at a regional scale and recognize the spatiotemporal evolution patterns. This study focuses on the low-carbon competitiveness of 41 cities in the Yangtze River Delta from 2000 to 2020.</p>
-      <p>Key contributions</p>
+      <p><strong>Key contributions</strong></p>
       <ul>
         <li>Developed a comprehensive index system for evaluating urban low-carbon competitiveness, consisting of three dimensions: carbon emissions, socio-economic factors, and low-carbon technologies and policies.</li>
 
@@ -336,7 +336,7 @@ redirect_from:
 </div>
 <!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p>
+<p>Sample of Work
   <a href="/files/research_3/Sample_of_work_ZH.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> ZH
   </a>
