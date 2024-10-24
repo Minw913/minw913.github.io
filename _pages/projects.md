@@ -178,7 +178,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 <div class="toggle-content" style="display: none;">
   <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
   <!-- 关键词部分 -->
-  <p><strong>Keywords:</strong> Subjective well-being; Neighborhood resilience; COVID-19; Explainable machine learning; Social media data</p>
+  <p><strong>Keywords:</strong> subjective well-being; neighborhood resilience; COVID-19; explainable machine learning; social media data</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -194,7 +194,7 @@ Compared to research, these projects were more comprehensive efforts completed t
           <div class="carousel-caption d-none d-md-block">
             <h5>Project framework and workflow</h5>
           </div>
-           <!-- 放大按钮 -->
+          <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
         <div class="carousel-item">
@@ -204,8 +204,9 @@ Compared to research, these projects were more comprehensive efforts completed t
           <div class="carousel-caption d-none d-md-block">
             <h5>Spatio-temporal dynamic system of sentiment based on ChatGPT and BERT</h5>
           </div>
-           <!-- 放大按钮 -->
-          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
+        </div>
+        <!-- 放大按钮 -->
+        <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/project_2/img_3.png" class="d-block mx-auto" alt="Research Image 1">
@@ -269,7 +270,7 @@ Compared to research, these projects were more comprehensive efforts completed t
   </div>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type\=vote">The First Prize in the 7th Chengyuan Cup</a>; <a href="https://www.isocui.org/icui2023/">Best Presentation Award in GSCS & ICUI 2023; submitted to the journal <i>Computers, Environment and Urban Systems</i>.</a></p>
+  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type\=vote">The First Prize in the 7th Chengyuan Cup</a>; <a href="https://www.isocui.org/icui2023/">Best Presentation Award in GSCS & ICUI 2023</a>; submitted to the journal <i>Computers, Environment and Urban Systems</i>.</p>
 </div>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
