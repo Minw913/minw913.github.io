@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "3Research"
+title: "4Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -339,9 +339,9 @@ Compared to research, these projects were more comprehensive efforts completed t
 </div>
 <!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p>Sample of Work &nbsp;
+<p>Sample of Work &nbsp;(
   <a href="/files/research_4/Sample_of_work_ZH.pdf" target="_blank">
-    <i class="fas fa-file-pdf"></i> (ZH
+    <i class="fas fa-file-pdf"></i> ZH
   </a>
   &nbsp;&nbsp; 
   <a href="/files/research_4/Sample_of_work_EN.pdf" target="_blank">

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "3Projects"
+title: "4Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -115,7 +115,7 @@ Compared to research, these projects were more comprehensive efforts completed t
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <iframe src="/files/project_1/Rewards_Information.html" width="100%" height="100%" style="border:none;"></iframe>
+          <iframe src="/files/project_1/graph.html" width="100%" height="100%" style="border:none;"></iframe>
           <div class="carousel-caption d-none d-md-block">
             <h5>Iterative optimization of utility by different RL algorithms</h5>
           </div>
@@ -124,7 +124,7 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <iframe src="/files/project_1/DQN_placement_map.html" width="100%" height="100%" style="border:none;"></iframe>
+            <iframe src="/files/project_1/map.html" width="100%" height="100%" style="border:none;"></iframe>
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>The optimal charging station placement by DQN algorithm</h5>
@@ -165,18 +165,19 @@ Compared to research, these projects were more comprehensive efforts completed t
   <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> High distinction (96/100) in course <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST455.htm"> ST455 Reinforcement Learning </a></p>
 </div>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 0px; margin-bottom: 0;">Preprint forthcoming on arXiv. Notebook. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<p style="margin-top: 0px; margin-bottom: 0;">Preprint forthcoming on arXiv. <a href="/files/project_1/notebook.html" target="_blank">Notebook</a>. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
 
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> PJ2 Disentangling associations between socio-environmental dynamics and subjective well-being during and after COVID-19 using explainable machine learning</strong>
+  <span class="toggle-icon">▶</span><strong> PJ2 Disentangling associations between socio-environmental dynamics and subjective well-being during and after COVID-19</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">Feb 01, 2023 – Aug 25, 2023</p>
 <div class="toggle-content" style="display: none;">
   <!-- 关键词部分 -->
-  <p><strong>Keywords:</strong> subjective well-being; neighborhood resilience; COVID-19; explainable machine learning; social media data</p>
+  <p><strong>Keywords:</strong> subjective well-being, neighborhood resilience, COVID-19, explainable machine learning, social media data</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -287,13 +288,13 @@ Compared to research, these projects were more comprehensive efforts completed t
 <p style="color: #757575; font-size: 16px;">June 01, 2021 – Nov 17, 2022</p>
 <div class="toggle-content" style="display: none;">
   <!-- 关键词部分 -->
-  <p><strong>Keywords:</strong> noise traceability; sound classification and intensity prediction; interactive web app</p>
+  <p><strong>Keywords:</strong> noise traceability, sound classification and intensity prediction, interactive web app</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
     <div id="video-container" style="flex-basis: 50%; max-height: 400px;">
       <!-- 添加MP4视频 -->
-      <video class="d-block mx-auto" controls style="margin-top: 20px; width: 100%; max-height: 400px;">
+      <video class="d-block mx-auto" controls style="margin-top: 50px; width: 100%; max-height: 400px;">
         <source src="/files/project_3/demo_video.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -312,9 +313,9 @@ Compared to research, these projects were more comprehensive efforts completed t
     </div>
   </div>
 <!-- </div> -->
-  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> The Grand Prize in National College Students Spatial Information Technology Competition</p>
+  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> The Grand Prize in the 1st 'Sky Cup' National College Students Spatial Information Technology Competition </p>
 </div>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 0px; margin-bottom: 0;">Public Website <a href="http://public.dupetrc.qiyi.us:31382/app_noise_loc/home" target="_blank"><i class="fas fa-globe"></i> Website</a>.</p>
+<p style="margin-top: 0px; margin-bottom: 0;"><a href="http://public.dupetrc.qiyi.us:31382/app_noise_loc/home" target="_blank"><i class="fas fa-globe"></i> Our Website</a>.</p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
