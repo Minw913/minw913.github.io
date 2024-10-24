@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "5Research"
+title: "8Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -96,136 +96,148 @@ redirect_from:
 
 
 <!-- 研究项目标题 -->
-## **RE2 Investigating the impact of London's Ultra Low Emission Zone on electric vehicle adoption**
+<h2 class="toggle-header" style="cursor: pointer;">
+  <span class="toggle-icon">▶</span><strong> RE2 Investigating the impact of London's Ultra Low Emission Zone on electric vehicle adoption</strong>
+</h2>
 <p style="color: #757575; font-size: 16px;">May 20, 2024 – June 15, 2024</p>
+<div class="toggle-content" style="display: none;">
 <!-- 关键词部分 -->
-<p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
+  <p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
 
-<!-- 父容器 -->
-<div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-  <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
-    <ol class="carousel-indicators">
-      <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#researchCarousel" data-slide-to="1"></li>
-      <li data-target="#researchCarousel" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>The distribution of Monitoring stations in London</h5>
+  <!-- 父容器 -->
+  <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
+    <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+      <ol class="carousel-indicators">
+        <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#researchCarousel" data-slide-to="1"></li>
+        <li data-target="#researchCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>The distribution of Monitoring stations in London</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>The time series of NO2 concentration at stations</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
+          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Monitoring station graphs with different distance thresholds</h5>
+          </div>
         </div>
       </div>
-      <div class="carousel-item">
-        <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>The time series of NO2 concentration at stations</h5>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
-        <!--  style="object-fit: contain; width: 100%; height: auto;" -->
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Monitoring station graphs with different distance thresholds</h5>
-        </div>
-      </div>
+      <!-- Controls -->
+      <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
-    <!-- Controls -->
-    <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-  <!-- 摘要部分 -->
-  <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-    <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations. Key contributions include:</p>
+    <!-- 摘要部分 -->
+    <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
+      <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations.</p>
+      <p>Key contributions</p>
+      <ul>
+        <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics additionally providing valuable insights for transportation policy.</li>
+        <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
+        <li>Developed a hybrid model combining Graph Neural Networks and LSTM, capturing complex spatiotemporal dependencies of road emissions.</li>
+      </ul>
 
-    <ul>
-      <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics additionally providing valuable insights for transportation policy.</li>
-      <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
-      <li>Developed a hybrid model combining Graph Neural Networks and LSTM, capturing complex spatiotemporal dependencies of road emissions.</li>
-    </ul>
-
-    <p>Experiments on hourly air pollutant data from London's roadside stations, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>, validate the model. Results show a 12.5% accuracy improvement with the graph attention mechanism and extended forecast horizon to 12 hours using the LSTM encoder-decoder, outperforming baselines, especially in long-term (9-12h) predictions.</p>
+      <p>Experiments on hourly air pollutant data from London's roadside stations, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>, validate the model. Results show a 12.5% accuracy improvement with the graph attention mechanism and extended forecast horizon to 12 hours using the LSTM encoder-decoder, outperforming baselines, especially in long-term (9-12h) predictions.</p>
+    </div>
   </div>
+  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> Distinction in course <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/GY/2023_GY460.htm"> GY460 Techniques of Spatial Economic Analysis</a></p>
 </div>
-
 <!-- 分隔线 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<p>
+  <a href="/files/research_2/Sample_of_work_EN.pdf" target="_blank">
+    <i class="fas fa-file-pdf"></i> Sample of Work
+  </a>
 <p style="margin-top: 30px; margin-bottom: 0;"></p>
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
 
 
 <!-- 研究项目标题 -->
-## **RE3 Study on multi-scale spatiotemporal impact mechanism in nighttime economy based on explainable deep learning: A case in Nanjing, China**
+<h2 class="toggle-header" style="cursor: pointer;">
+  <span class="toggle-icon">▶</span><strong> RE3 Study on multi-scale spatiotemporal impact mechanism in nighttime economy: A case in Nanjing, China</strong>
+</h2>
 <p style="color: #757575; font-size: 16px;">Jan 20, 2023 – May 15, 2023</p>
-<!-- 关键词部分 -->
-<p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
+<div class="toggle-content" style="display: none;">
+  <!-- 关键词部分 -->
+  <p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
 
-<!-- 父容器 -->
-<div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-  <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
-    <ol class="carousel-indicators">
-      <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#researchCarousel" data-slide-to="1"></li>
-      <li data-target="#researchCarousel" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>The distribution of Monitoring stations in London</h5>
+  <!-- 父容器 -->
+  <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
+    <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+      <ol class="carousel-indicators">
+        <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#researchCarousel" data-slide-to="1"></li>
+        <li data-target="#researchCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>The distribution of Monitoring stations in London</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>The time series of NO2 concentration at stations</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
+          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Monitoring station graphs with different distance thresholds</h5>
+          </div>
         </div>
       </div>
-      <div class="carousel-item">
-        <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>The time series of NO2 concentration at stations</h5>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
-        <!--  style="object-fit: contain; width: 100%; height: auto;" -->
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Monitoring station graphs with different distance thresholds</h5>
-        </div>
-      </div>
+      <!-- Controls -->
+      <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
-    <!-- Controls -->
-    <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-  <!-- 摘要部分 -->
-  <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-    <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations. Key contributions include:</p>
+    <!-- 摘要部分 -->
+    <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
+      <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations. Key contributions include:</p>
 
-    <ul>
-      <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics (e.g., road conditions, network structure, traffic volume), providing valuable insights for transportation policy.</li>
-      <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
-      <li>Developed a hybrid model combining Graph Neural Networks and LSTM, capturing complex spatiotemporal dependencies of road emissions.</li>
-    </ul>
+      <ul>
+        <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics (e.g., road conditions, network structure, traffic volume), providing valuable insights for transportation policy.</li>
+        <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
+        <li>Developed a hybrid model combining Graph Neural Networks and LSTM, capturing complex spatiotemporal dependencies of road emissions.</li>
+      </ul>
 
-    <p>Experiments on hourly air pollutant data from London's roadside stations, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>, validate the model. Results show a 12.5% accuracy improvement with the graph attention mechanism and extended forecast horizon to 12 hours using the LSTM encoder-decoder, outperforming baselines, especially in long-term (9-12h) predictions.</p>
+      <p>Experiments on hourly air pollutant data from London's roadside stations, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>, validate the model. Results show a 12.5% accuracy improvement with the graph attention mechanism and extended forecast horizon to 12 hours using the LSTM encoder-decoder, outperforming baselines, especially in long-term (9-12h) predictions.</p>
+    </div>
   </div>
 </div>
-
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
 
 
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> RE3 Spatio-temporal evolution of urban low-carbon competitiveness in the Yangtze River Delta from 2000 to 2020</strong>
+  <span class="toggle-icon">▶</span><strong> RE4 Spatio-temporal evolution of urban low-carbon competitiveness in the Yangtze River Delta from 2000 to 2020</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">Oct 01, 2021 – Nov 15, 2022</p>
 <div class="toggle-content" style="display: none;">
@@ -241,58 +253,48 @@ redirect_from:
         <li data-target="#researchCarouse2" data-slide-to="1"></li>
         <li data-target="#researchCarouse2" data-slide-to="2"></li>
         <li data-target="#researchCarouse2" data-slide-to="3"></li>
-        <li data-target="#researchCarouse2" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/images/project_2/img_1.png" class="d-block mx-auto" alt="Research Image 1"
+          <img src="/images/research_4/img_1.png" class="d-block mx-auto" alt="Research Image 1"
           style="margin-top: 70px;">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Project framework and workflow</h5>
+            <h5>Research framework</h5>
           </div>
           <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
-        </div>
-        <div class="carousel-item">
-          <div class="d-block w-100" style="height: 500px;">
-            <img src="/images/project_2/img_2.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 70px;">
-          </div>
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Spatiotemporal SWB extracted by ChatGPT and BERT</h5>
-          </div>
         </div>
         <!-- 放大按钮 -->
         <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <img src="/images/project_2/img_3.png" class="d-block mx-auto" alt="Research Image 1"
+            <img src="/images/research_4/img_3.png" class="d-block mx-auto" alt="Research Image 1"
             style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>Resilience stage division by Regression Discontinuity Design</h5>
+            <h5>Spatiotemporal evolution of urban low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <img src="/images/project_2/img_4.png" class="d-block mx-auto" alt="Research Image 1"
+            <img src="/images/research_4/img_4.png" class="d-block mx-auto" alt="Research Image 1"
             style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>The Global Spatiotemporal impact of SWB using SHAP</h5>
+            <h5>Spatiotemporal evolution types of low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
         </div>
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
-            <img src="/images/project_2/img_5.png" class="d-block mx-auto" alt="Research Image 1"
+            <img src="/images/research_4/img_5.png" class="d-block mx-auto" alt="Research Image 1"
             style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5>Associations between Socio-Environmental Dynamics and SWB</h5>
+            <h5>Impact mechanism of urban low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -316,7 +318,7 @@ redirect_from:
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
       <p>To achieve carbon peaking and carbon neutrality goals, it is necessary to analyze the low-carbon competitiveness of cities at a regional scale and recognize the spatiotemporal evolution patterns. This study focuses on the low-carbon competitiveness of 41 cities in the Yangtze River Delta from 2000 to 2020.</p>
-      <p>Main Research Points</p>
+      <p>Key contributions</p>
       <ul>
         <li>Developed a comprehensive index system for evaluating urban low-carbon competitiveness, consisting of three dimensions: carbon emissions, socio-economic factors, and low-carbon technologies and policies.</li>
 
@@ -330,7 +332,18 @@ redirect_from:
   </div>
 <!-- </div> -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type\=vote">The First Prize in the 7th Chengyuan Cup</a>; <a href="https://www.isocui.org/icui2023/">Best Presentation Award in GSCS & ICUI 2023</a>; submitted to the journal <i>Computers, Environment and Urban Systems</i>.</p>
+  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> Excellent Reporting Award in the 3rd National Symposium on Regional Ecology; Accepted by the journal <i>Geographical Research</i>.</p>
 </div>
+<!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<p>
+  <a href="/files/research_3/Sample_of_work_ZH.pdf" target="_blank">
+    <i class="fas fa-file-pdf"></i> ZH
+  </a>
+  &nbsp;&nbsp; 
+  <a href="/files/research_3/Sample_of_work_EN.pdf" target="_blank">
+    <i class="fas fa-file-pdf"></i> EN
+  </a>
+</p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
