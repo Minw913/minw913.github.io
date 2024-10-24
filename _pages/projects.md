@@ -293,33 +293,16 @@ Compared to research, these projects were more comprehensive efforts completed t
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-    <div id="researchCarouse2" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
-      <!-- <ol class="carousel-indicators">
-        <li data-target="#researchCarouse2" data-slide-to="0" class="active"></li>
-        <li data-target="#researchCarouse2" data-slide-to="1"></li>
-        <li data-target="#researchCarouse2" data-slide-to="2"></li>
-        <li data-target="#researchCarouse2" data-slide-to="3"></li>
-        <li data-target="#researchCarouse2" data-slide-to="4"></li>
-      </ol> -->
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-            <!-- 添加MP4视频 -->
-          <video class="d-block mx-auto" controls style="margin-top: 70px;">
-            <source src="/files/project_3/video_1.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Project framework and workflow</h5>
-          </div>
-          <!-- 放大按钮 -->
-          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
-        </div>
+    <div id="video-container" style="flex-basis: 50%; max-height: 400px;">
+      <!-- 添加MP4视频 -->
+      <video class="d-block mx-auto" controls style="margin-top: 70px; width: 100%; max-height: 400px;">
+        <source src="/files/project_3/video_1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption" style="text-align: center; margin-top: 10px;">
+        <h5>Project framework and workflow</h5>
+      </div>
     </div>
-    <!-- 轮播图放大模态框 HTML -->
-    <!-- <div id="imageModal" class="modal">
-      <span class="close" onclick="closeModal()">&times;</span>
-      <img class="modal-content" id="modalImg">
-    </div> -->
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
       <p>Campus noise affects students and staff, and the noise tracing system provides precise analysis and decision-making support. This project uses GIS technology to create a multi-dimensional noise map, incorporating user feedback to identify noise sources. The interactive website features noise info, scenario distribution, event simulation, and source tracking. Outdoor experiments validated the model's accuracy.</p>
