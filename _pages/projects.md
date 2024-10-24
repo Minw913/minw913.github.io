@@ -176,7 +176,7 @@ Compared to research, these projects were more comprehensive efforts completed t
   <span class="toggle-icon">▶</span><strong> PJ2 Disentangling Associations between Socio-Environmental Dynamics and Subjective Well-being during and after COVID-19 Using Explainable Machine Learning</strong>
 </h2>
 <div class="toggle-content" style="display: none;">
-  <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
+  <p style="color: #757575; font-size: 16px;">Feb 01, 2023 – Aug 25, 2023</p>
   <!-- 关键词部分 -->
   <p><strong>Keywords:</strong> subjective well-being; neighborhood resilience; COVID-19; explainable machine learning; social media data</p>
 
