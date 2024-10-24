@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "4Research"
+title: "5Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -315,17 +315,17 @@ redirect_from:
     </div> -->
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>During the COVID-19 pandemic, urban residents' subjective well-being (SWB) was at risk, but few studies examined its relationship with neighborhood-level socio-economic and built-environment factors. This study bridges that gap by analyzing over one million geo-tagged social media posts from Shanghai. The main contributions are:</p>
-
+      <p>To achieve carbon peaking and carbon neutrality goals, it is necessary to analyze the low-carbon competitiveness of cities at a regional scale and recognize the spatiotemporal evolution patterns. This study focuses on the low-carbon competitiveness of 41 cities in the Yangtze River Delta from 2000 to 2020.</p>
+      <p>Main Research Points</p>
       <ul>
-        <li>Utilized the ChatGPT API to analyze social media sentiment indices, combined with BerTopic to extract high-frequency topics, revealing the spatiotemporal dynamics of urban emotions during public disturbances.</li>
+        <li>Developed a comprehensive index system for evaluating urban low-carbon competitiveness, consisting of three dimensions: carbon emissions, socio-economic factors, and low-carbon technologies and policies.</li>
 
-        <li>Used Regression Discontinuity Design (RDD) to divide the COVID-19 outbreak in Shanghai into six SWB stages, analyzing key events' impact on public sentiment before, during, and after the pandemic.</li>
+        <li>Analyzed the time-series evolution of low-carbon competitiveness using the TOPSIS grey relational analysis method and identified spatial patterns with LISA time path and space-time transition models.</li>
 
-        <li>Applied a Fully Connected Neural Network (FCNN) model to examine the relationship between sentiment scores and socio-economic as well as built-environment factors at the neighborhood level, with the SHAP framework used to explain the model.</li>
+        <li>Classified the 41 cities into 7 spatiotemporal evolution types to reveal different spatial characteristics of low-carbon competitiveness.</li>
       </ul>
 
-      <p>The study found that green and blue spaces boost psychological resilience, while higher road density, attraction accessibility, and healthcare services reduce the link between sentiment, income, and aging. These insights inform urban planning and policy-making to enhance residents' resilience.</p>
+      <p>The study shows significant changes in low-carbon competitiveness in the Yangtze River Delta over 20 years, with Shanghai ranking highest and Anhui Province lowest. The spatial correlation of carbon emissions varied greatly, while socio-economic factors were weaker. 81.1% of cities exhibited path dependence in their spatiotemporal evolution.</p>
     </div>
   </div>
 <!-- </div> -->
