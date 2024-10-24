@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "5Projects"
+title: "6Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -107,7 +107,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-    <div id="researchCarousel" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+    <div id="researchCarousel_1" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
       <ol class="carousel-indicators">
         <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#researchCarousel" data-slide-to="1"></li>
@@ -181,13 +181,13 @@ Compared to research, these projects were more comprehensive efforts completed t
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
-    <div id="researchCarouse2" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
+    <div id="researchCarousel_2" class="carousel slide" data-ride="carousel" style="flex-basis: 50%; max-height: 400px">
       <ol class="carousel-indicators">
-        <li data-target="#researchCarouse2" data-slide-to="0" class="active"></li>
-        <li data-target="#researchCarouse2" data-slide-to="1"></li>
-        <li data-target="#researchCarouse2" data-slide-to="2"></li>
-        <li data-target="#researchCarouse2" data-slide-to="3"></li>
-        <li data-target="#researchCarouse2" data-slide-to="4"></li>
+        <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#researchCarousel" data-slide-to="1"></li>
+        <li data-target="#researchCarousel" data-slide-to="2"></li>
+        <li data-target="#researchCarousel" data-slide-to="3"></li>
+        <li data-target="#researchCarousel" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -245,11 +245,11 @@ Compared to research, these projects were more comprehensive efforts completed t
         </div>
       </div>
       <!-- Controls -->
-      <a class="carousel-control-prev" href="#researchCarouse2" role="button" data-slide="prev">
+      <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
       </a>
-      <a class="carousel-control-next" href="#researchCarouse2" role="button" data-slide="next">
+      <a class="carousel-control-next" href="#researchCarousel" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
