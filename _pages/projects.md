@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2Projects"
+title: "3Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -53,7 +53,7 @@ redirect_from:
 
 ## **Overview**
 <p>
-Compared to research, these projects were more comprehensive efforts completed through team collaboration. In most of these projects, I served as the team leader, managing the overall project framework and solving technical challenges. Below is a chronological list of these projects.
+Unlike research, these projects were comprehensive team efforts, where I was often the team leader.These projects focus on urban transportation and environmental issues, employing methods such as multi-agent systems, deep learning and reinforcement learning to achieve prediction, simulation, and optimization, providing insights for urban planning and policy.
 </p>
 
 <h2 class="toggle-header" style="cursor: pointer;">
@@ -98,7 +98,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 
 <!-- {% include base_path %} -->
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> PJ1 Optimizing electric vehicle charging station pacement using reinforcement learning</strong>
+  <span class="toggle-icon">▶</span><strong> PJ1 Optimizing electric vehicle charging station placement using reinforcement learning</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 <div class="toggle-content" style="display: none;">

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2Research"
+title: "3Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 ## **Overview**
 <p>
-Compared to research, these projects were more comprehensive efforts completed through team collaboration. In most of these projects, I served as the team leader, managing the overall project framework and solving technical challenges. Below is a chronological list of these projects.
+These studies were primarily conducted by myself. I have a strong interest in exploring spatiotemporal patterns and impact mechanisms, with a keen focus on urban and regional sustainability.
 </p>
 
 <!-- 研究项目标题 -->
@@ -98,8 +98,6 @@ Compared to research, these projects were more comprehensive efforts completed t
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
 
-
-
 <!-- 研究项目标题 -->
 <h2 class="toggle-header" style="cursor: pointer;">
   <span class="toggle-icon">▶</span><strong> RE2 Investigating the impact of London's Ultra Low Emission Zone on electric vehicle adoption</strong>
@@ -167,7 +165,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 </div>
 <!-- 分隔线 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p>
+<p style="margin-top: 30px; margin-bottom: 0;">
   <a href="/files/research_2/Sample_of_work_EN.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> Sample of Work
   </a>
@@ -285,7 +283,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 </div>
 <!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p><a href="https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCCZRR-vWduYhaPMAtrNnPj_aSgmzReI_zpsX_16GYabBRi2jPuvPh4qs8EDZxZmEe8_v-hx2eZPs8K4wp4FrumfzFzYL_DXCztzBW_7_uTGG3RGvZRKOb-mbEWaXOl66TnhyiedikYK04CUd7XMRjMI8wgibcLl3LDAJzjcAcy9ZEehUVwA_xip&uniplatform=NZKPT&language=CHS">Paper Link</a>. Sample of Work &nbsp;(
+<p style="margin-top: 30px; margin-bottom: 0;"><a href="https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCCZRR-vWduYhaPMAtrNnPj_aSgmzReI_zpsX_16GYabBRi2jPuvPh4qs8EDZxZmEe8_v-hx2eZPs8K4wp4FrumfzFzYL_DXCztzBW_7_uTGG3RGvZRKOb-mbEWaXOl66TnhyiedikYK04CUd7XMRjMI8wgibcLl3LDAJzjcAcy9ZEehUVwA_xip&uniplatform=NZKPT&language=CHS">Paper Link</a>. Sample of Work &nbsp;(
   <a href="/files/research_4/Sample_of_work_ZH.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> ZH
   </a>
