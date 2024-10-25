@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "4Research"
+title: "6Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -150,15 +150,11 @@ These studies were primarily conducted by myself. I have a strong interest in ex
     </div>
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>London's heavy traffic with road emissions significantly impacts air quality, which becomes being a major concern. This study predicts future NO<sub>2</sub> concentrations based on spatiotemporal data around citywide monitoring stations.</p>
-      <p><strong>Key contributions</strong></p>
-      <ul>
-        <li>Compiled a comprehensive spatiotemporal feature set with traffic characteristics additionally providing valuable insights for transportation policy.</li>
-        <li>Incorporated pollutant dispersion knowledge to build a spatiotemporal dynamic graph of monitoring stations, enhancing accuracy.</li>
-        <li>Developed a hybrid model combining Graph Neural Networks and LSTM, capturing complex spatiotemporal dependencies of road emissions.</li>
-      </ul>
+      <p>A large body of literature provides strong evidence for the efficacy of ULEZ and similar policies in reducing emissions and promoting green transportation.This study examines the impact of London's Ultra Low Emission Zone (ULEZ) on electric vehicle (EV) adoption, using the 2021 Inner London Boundary to define treatment and control groups.</p>
+      <p>Given the rapid growth of EV adoption in Greater London, potentially due to spatial spillover effects from the ULEZ policy, additional variables accounting for <strong>distance decay<strong>, <strong>spatial interaction</strong> and <strong>spatial autocorrelation</strong> were included to capture spatial patterns. Moreover, <strong>wedge-shaped urban partitions</strong> were constructed to address radial and directional heterogeneity within similar geographic regions.</p>
 
-      <p>Experiments on hourly air pollutant data from London's roadside stations, sourced from the <a href="https://www.londonair.org.uk/london/asp/publicdetails.asp" target="_blank" style="color: #757575;">London Air Quality Network (LAQN)</a>, validate the model. Results show a 12.5% accuracy improvement with the graph attention mechanism and extended forecast horizon to 12 hours using the LSTM encoder-decoder, outperforming baselines, especially in long-term (9-12h) predictions.</p>
+      <p>Regression results show that after accounting for spatial and temporal heterogeneity, the ULEZ policy's impact on EV adoption is not consistently significant within Greater London. This suggests that EV adoption growth rates within and outside the boundary are synchronized for reasons beyond simple spatial effects, likely influenced by complex socio-economic factors and urban transportation infrastructure.Additionally, anticipatory effects may explain the limited impact observed, as individuals likely adapted to future standards ahead of ULEZ enforcement, slowing EV adoption growth before the policy took effect.</p>
+      <P>Future research will employ Staggered DID for multi-period data and Propensity Score Matching to balance samples and control for confounding variables.</P>
     </div>
   </div>
   <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> Distinction in course <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/GY/2023_GY460.htm"> GY460 Techniques of Spatial Economic Analysis</a></p>
@@ -282,7 +278,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
 </div>
 <!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p><a href="https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCCZRR-vWduYhaPMAtrNnPj_aSgmzReI_zpsX_16GYabBRi2jPuvPh4qs8EDZxZmEe8_v-hx2eZPs8K4wp4FrumfzFzYL_DXCztzBW_7_uTGG3RGvZRKOb-mbEWaXOl66TnhyiedikYK04CUd7XMRjMI8wgibcLl3LDAJzjcAcy9ZEehUVwA_xip&uniplatform=NZKPT&language=CHS">Paper Link</a>. Sample of Work &nbsp;(
+<p style="margin-bottom: 0;"><a href="https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCCZRR-vWduYhaPMAtrNnPj_aSgmzReI_zpsX_16GYabBRi2jPuvPh4qs8EDZxZmEe8_v-hx2eZPs8K4wp4FrumfzFzYL_DXCztzBW_7_uTGG3RGvZRKOb-mbEWaXOl66TnhyiedikYK04CUd7XMRjMI8wgibcLl3LDAJzjcAcy9ZEehUVwA_xip&uniplatform=NZKPT&language=CHS">Paper Link</a>. Sample of Work &nbsp;(
   <a href="/files/research_4/Sample_of_work_ZH.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> ZH
   </a>
