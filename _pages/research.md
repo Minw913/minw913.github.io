@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "3Research"
+title: "4Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -165,11 +165,10 @@ These studies were primarily conducted by myself. I have a strong interest in ex
 </div>
 <!-- 分隔线 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 30px; margin-bottom: 0;">
+<p style="margin-bottom: 0;">
   <a href="/files/research_2/Sample_of_work_EN.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> Sample of Work
   </a>
-<p style="margin-top: 30px; margin-bottom: 0;"></p>
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
 
 
@@ -283,7 +282,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
 </div>
 <!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 30px; margin-bottom: 0;"><a href="https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCCZRR-vWduYhaPMAtrNnPj_aSgmzReI_zpsX_16GYabBRi2jPuvPh4qs8EDZxZmEe8_v-hx2eZPs8K4wp4FrumfzFzYL_DXCztzBW_7_uTGG3RGvZRKOb-mbEWaXOl66TnhyiedikYK04CUd7XMRjMI8wgibcLl3LDAJzjcAcy9ZEehUVwA_xip&uniplatform=NZKPT&language=CHS">Paper Link</a>. Sample of Work &nbsp;(
+<p><a href="https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCCZRR-vWduYhaPMAtrNnPj_aSgmzReI_zpsX_16GYabBRi2jPuvPh4qs8EDZxZmEe8_v-hx2eZPs8K4wp4FrumfzFzYL_DXCztzBW_7_uTGG3RGvZRKOb-mbEWaXOl66TnhyiedikYK04CUd7XMRjMI8wgibcLl3LDAJzjcAcy9ZEehUVwA_xip&uniplatform=NZKPT&language=CHS">Paper Link</a>. Sample of Work &nbsp;(
   <a href="/files/research_4/Sample_of_work_ZH.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> ZH
   </a>
