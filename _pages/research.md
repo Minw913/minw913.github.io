@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "8Research"
+title: "1Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -105,7 +105,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
 <p style="color: #757575; font-size: 16px;">May 20, 2024 – June 15, 2024</p>
 <div class="toggle-content" style="display: none;">
 <!-- 关键词部分 -->
-  <p><strong>Keywords:</strong> electric vehicle adoption, Ultra Low Emission Zone (ULEZ), spatiotemporal data modeling, graph attention network</p>
+  <p><strong>Keywords:</strong> electric vehicle adoption, Ultra Low Emission Zone (ULEZ), spatial DID, Region-pair fixed effect</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
