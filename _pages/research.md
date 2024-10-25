@@ -100,12 +100,12 @@ These studies were primarily conducted by myself. I have a strong interest in ex
 
 <!-- 研究项目标题 -->
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> RE2 Investigating the impact of London's Ultra Low Emission Zone on electric vehicle adoption</strong>
+  <span class="toggle-icon">▶</span><strong> RE2 Investigating the impact of London's Ultra Low Emission Zone (ULEZ) on electric vehicle adoption</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">May 20, 2024 – June 15, 2024</p>
 <div class="toggle-content" style="display: none;">
 <!-- 关键词部分 -->
-  <p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p>
+  <p><strong>Keywords:</strong> electric vehicle adoption, Ultra Low Emission Zone (ULEZ), spatiotemporal data modeling, graph attention network</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -150,9 +150,9 @@ These studies were primarily conducted by myself. I have a strong interest in ex
     </div>
     <!-- 摘要部分 -->
     <div class="research-summary" style="flex-basis: 50%; max-height: 400px; overflow-y: auto; padding: 10px; margin-left: 20px;">
-      <p>A large body of literature provides strong evidence for the efficacy of ULEZ and similar policies in reducing emissions and promoting green transportation.This study examines the impact of London's Ultra Low Emission Zone (ULEZ) on electric vehicle (EV) adoption, using the 2021 Inner London Boundary to define treatment and control groups.</p>
+      <p>Extensive literature supports the efficacy of zonal control policies in reducing emissions and promoting green transport. This study examines the impact of London’s ULEZ on electric vehicle (EV) adoption, using the 2021 Inner London Boundary to set treatment and control groups.</p>
       <p>Given the rapid growth of EV adoption in Greater London, potentially due to spatial spillover effects from the ULEZ policy, additional variables accounting for <strong>distance decay</strong>, <strong>spatial interaction</strong> and <strong>spatial autocorrelation</strong> were included to capture spatial patterns. Moreover, <strong>wedge-shaped urban partitions</strong> were constructed to address radial and directional heterogeneity within similar geographic regions.</p>
-      <p>Regression results show that after accounting for spatial and temporal heterogeneity, the ULEZ policy's impact on EV adoption is not consistently significant within Greater London. This suggests that EV adoption growth rates within and outside the boundary are synchronized for reasons beyond simple spatial effects, likely influenced by complex socio-economic factors and urban transportation infrastructure.Additionally, anticipatory effects may explain the limited impact observed, as individuals likely adapted to future standards ahead of ULEZ enforcement, slowing EV adoption growth before the policy took effect.</p>
+      <p>Regression results indicate that, after controlling for spatial and temporal heterogeneity, the ULEZ policy's effect on EV adoption is not consistently significant within Greater London. This suggests synchronized EV adoption growth inside and outside the boundary due to complex socio-economic factors and transport infrastructure, beyond simple spatial effects. Anticipatory effects may further explain this limited impact, as people likely adapted to future standards ahead of ULEZ enforcement.</p>
       <P>Future research will employ Staggered DID for multi-period data and Propensity Score Matching to balance samples and control for confounding variables.</P>
     </div>
   </div>
