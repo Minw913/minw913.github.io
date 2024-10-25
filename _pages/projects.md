@@ -103,7 +103,7 @@ Compared to research, these projects were more comprehensive efforts completed t
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 <div class="toggle-content" style="display: none;">
   <!-- 关键词部分 -->
-  <p><strong>Keywords:</strong> electric vehicle charging station, location selection, reinforcement learning, road network</p>
+  <p><strong>Keywords:</strong> electric vehicle charging station, location selection, reinforcement learning, spatial optimization</p>
 
   <!-- 父容器 -->
   <div class="content-wrapper" style="display: flex; max-height: 400px; align-items: flex-start;">
@@ -165,7 +165,7 @@ Compared to research, these projects were more comprehensive efforts completed t
   <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> High distinction (96/100) in course <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST455.htm"> ST455 Reinforcement Learning </a></p>
 </div>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 0px; margin-bottom: 0;">Preprint forthcoming on arXiv. <a href="/files/project_1/notebook.html" target="_blank">Notebook</a>. Code available on <a href="https://github.com/your-repo-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
+<p style="margin-top: 0px; margin-bottom: 0;">Preprint forthcoming on arXiv. <a href="/files/project_1/notebook.html" target="_blank">Notebook</a>. Code available on <a href="https://github.com/Minw913/ReinEV-Charging-Station-Optimization" target="_blank"><i class="fab fa-github"></i> GitHub</a>.</p>
 
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
