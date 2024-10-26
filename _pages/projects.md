@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "1Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -57,7 +57,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
 </p>
 
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> PJ0 Current work at Spatial Pleasure</strong>
+  <span class="toggle-icon">▶</span><strong> Current work at Spatial Pleasure</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
 <div class="toggle-content" style="display: none;">
@@ -98,7 +98,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
 
 <!-- {% include base_path %} -->
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> PJ1 Optimizing electric vehicle charging station placement using reinforcement learning</strong>
+  <span class="toggle-icon">▶</span><strong> Optimizing electric vehicle charging station placement using reinforcement learning</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 <div class="toggle-content" style="display: none;">
@@ -172,7 +172,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
 
 
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> PJ2 Disentangling associations between socio-environmental dynamics and subjective well-being during and after COVID-19</strong>
+  <span class="toggle-icon">▶</span><strong> Disentangling associations between socio-environmental dynamics and subjective well-being during and after COVID-19</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">Feb 01, 2023 – Aug 25, 2023</p>
 <div class="toggle-content" style="display: none;">
@@ -283,7 +283,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
 
 
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> PJ3 NoiseLoc: campus noise monitoring and traceability system</strong>
+  <span class="toggle-icon">▶</span><strong> NoiseLoc: campus noise monitoring and traceability system</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">June 01, 2021 – Nov 17, 2022</p>
 <div class="toggle-content" style="display: none;">

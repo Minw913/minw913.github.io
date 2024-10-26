@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2Research"
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
 
 <!-- 研究项目标题 -->
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> RE1 Predicting roadside emissions using spatiotemporal neural networks: A case study in London</strong>
+  <span class="toggle-icon">▶</span><strong> Predicting roadside emissions using spatiotemporal neural networks: A case study in London</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">June 20, 2024 – Aug 15, 2024</p>
 <div class="toggle-content" style="display: none;">
@@ -36,7 +36,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1"
-          style="margin-top: 30px;">
+          style="margin-top: 40px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>The air pollutant monitoring stations in London</h5>
           </div>
@@ -49,14 +49,14 @@ These studies were primarily conducted by myself. I have a strong interest in ex
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 60px;">
+          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 70px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
             <h5>Monitoring station graphs with different distance thresholds</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_1/img_4.png" class="d-block mx-auto" alt="Research Image 4" style="margin-top: 20px;">
+          <img src="/images/research_1/img_4.png" class="d-block mx-auto" alt="Research Image 4" style="margin-top: 30px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
             <h5>Performance metrics in terms of time granularities</h5>
@@ -102,7 +102,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
 
 <!-- 研究项目标题 -->
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> RE2 Investigating the impact of London's Ultra Low Emission Zone (ULEZ) on electric vehicle adoption</strong>
+  <span class="toggle-icon">▶</span><strong> Investigating the impact of London's Ultra Low Emission Zone (ULEZ) on electric vehicle adoption</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">May 20, 2024 – June 15, 2024</p>
 <div class="toggle-content" style="display: none;">
@@ -188,7 +188,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
   <!-- <p><strong>Keywords:</strong> road emission prediction, spatiotemporal data modeling, graph attention network</p> -->
 
 <h2 class="toggle-header" style="cursor: pointer;">
-  <span class="toggle-icon">▶</span><strong> RE4 Spatio-temporal evolution of urban low-carbon competitiveness in the Yangtze River Delta from 2000 to 2020</strong>
+  <span class="toggle-icon">▶</span><strong> Spatio-temporal evolution of urban low-carbon competitiveness in the Yangtze River Delta from 2000 to 2020</strong>
 </h2>
 <p style="color: #757575; font-size: 16px;">Oct 01, 2021 – Nov 15, 2022</p>
 <div class="toggle-content" style="display: none;">
@@ -242,7 +242,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/research_4/img_5.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 5px;">
+            style="margin-top: 10px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>Impact mechanism of urban low-carbon competitiveness</h5>
