@@ -35,33 +35,35 @@ These studies were primarily conducted by myself. I have a strong interest in ex
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1">
+          <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1"
+          style="margin-top: 30px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>The air pollutant monitoring stations in London</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2">
+          <img src="/images/research_1/img_2.png" class="d-block mx-auto" alt="Research Image 2"
+          style="margin-top: 80px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>The time series of NO2 concentration at stations</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 50px;">
+          <img src="/images/research_1/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 60px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
             <h5>Monitoring station graphs with different distance thresholds</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_1/img_4.png" class="d-block mx-auto" alt="Research Image 4" style="margin-top: 50px;">
+          <img src="/images/research_1/img_4.png" class="d-block mx-auto" alt="Research Image 4" style="margin-top: 20px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
             <h5>Performance metrics in terms of time granularities</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_1/img_5.png" class="d-block mx-auto" alt="Research Image 5" style="margin-top: 50px;">
+          <img src="/images/research_1/img_5.png" class="d-block mx-auto" alt="Research Image 5" style="margin-top: 80px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
             <h5>Emission prediction fit curves and the actual time series</h5>
@@ -114,27 +116,35 @@ These studies were primarily conducted by myself. I have a strong interest in ex
         <li data-target="#researchCarousel_2" data-slide-to="0" class="active"></li>
         <li data-target="#researchCarousel_2" data-slide-to="1"></li>
         <li data-target="#researchCarousel_2" data-slide-to="2"></li>
+        <li data-target="#researchCarousel_2" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="/images/research_2/img_1.png" class="d-block mx-auto" alt="Research Image 1"
           style="margin-top: 50px;">
           <div class="carousel-caption d-none d-md-block">
-            <h5>The distribution of Monitoring stations in London</h5>
+            <h5>Introduction of policy boundary, timeline and regulation</h5>
           </div>
         </div>
         <div class="carousel-item">
           <img src="/images/research_2/img_2.png" class="d-block mx-auto" alt="Research Image 2"
           style="margin-top: 40px;">
           <div class="carousel-caption d-none d-md-block">
-            <h5>The time series of NO2 concentration at stations</h5>
+            <h5>temporal trend of vehicles adoption of different types</h5>
           </div>
         </div>
         <div class="carousel-item">
           <img src="/images/research_2/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 30px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
-            <h5>Monitoring station graphs with different distance thresholds</h5>
+            <h5>Region-pair sectors divided by buffers and wedge lines</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="/images/research_2/img_4.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 0px;">
+          <!--  style="object-fit: contain; width: 100%; height: auto;" -->
+          <div class="carousel-caption d-none d-md-block">
+            <h5> Effects of ULEZ policy across different DID models</h5>
           </div>
         </div>
       </div>
@@ -213,7 +223,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
             style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="font-size: 15px;">Spatiotemporal evolution of urban low-carbon competitiveness</h5>
+            <h5 style="font-size: 13px;">Spatiotemporal evolution of urban low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -224,7 +234,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
             style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="font-size: 15px;">Spatiotemporal evolution types of low-carbon competitiveness</h5>
+            <h5 style="font-size: 13px;">Spatiotemporal evolution types of low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
