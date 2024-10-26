@@ -114,7 +114,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <iframe src="/files/project_1/graph.html" width="100%" height="100%" style="border:none;"></iframe>
+          <iframe src="/files/project_1/graph.html" width="100%" height="100%" style="border:none;margin-top: 30px;" ></iframe>
           <div class="carousel-caption d-none d-md-block">
             <h5>Iterative optimization of utility by different RL algorithms</h5>
           </div>
