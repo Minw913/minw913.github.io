@@ -121,27 +121,27 @@ These studies were primarily conducted by myself. I have a strong interest in ex
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="/images/research_2/img_1.png" class="d-block mx-auto" alt="Research Image 1"
-          style="margin-top: 50px;">
+          style="margin-top: 80px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>Introduction of policy boundary, timeline and regulation</h5>
           </div>
         </div>
         <div class="carousel-item">
           <img src="/images/research_2/img_2.png" class="d-block mx-auto" alt="Research Image 2"
-          style="margin-top: 40px;">
+          style="margin-top: 60px;">
           <div class="carousel-caption d-none d-md-block">
-            <h5>temporal trend of vehicles adoption of different types</h5>
+            <h5>Temporal trend of vehicles adoption of different types</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_2/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 30px;">
+          <img src="/images/research_2/img_3.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 40px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
             <h5>Region-pair sectors divided by buffers and wedge lines</h5>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/images/research_2/img_4.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 0px;">
+          <img src="/images/research_2/img_4.png" class="d-block mx-auto" alt="Research Image 3" style="margin-top: 20px;">
           <!--  style="object-fit: contain; width: 100%; height: auto;" -->
           <div class="carousel-caption d-none d-md-block">
             <h5> Effects of ULEZ policy across different DID models</h5>
@@ -220,10 +220,10 @@ These studies were primarily conducted by myself. I have a strong interest in ex
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/research_4/img_3.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 20px;">
+            style="margin-top: 0px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="font-size: 13px;">Spatiotemporal evolution of urban low-carbon competitiveness</h5>
+            <h5 style="font-size: 14px;">Spatiotemporal evolution of urban low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -234,7 +234,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
             style="margin-top: 20px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="font-size: 13px;">Spatiotemporal evolution types of low-carbon competitiveness</h5>
+            <h5 style="font-size: 14px;">Spatiotemporal evolution types of low-carbon competitiveness</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -242,7 +242,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
         <div class="carousel-item">
           <div class="d-block w-100" style="height: 500px;">
             <img src="/images/research_4/img_5.png" class="d-block mx-auto" alt="Research Image 1"
-            style="margin-top: 20px;">
+            style="margin-top: 5px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
             <h5>Impact mechanism of urban low-carbon competitiveness</h5>

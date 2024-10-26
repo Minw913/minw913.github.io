@@ -216,7 +216,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
             style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="font-size: 13px;">Resilience stage division by Regression Discontinuity Design</h5>
+            <h5 style="font-size: 14px;">Resilience stage division by Regression Discontinuity Design</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
@@ -238,7 +238,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
             style="margin-top: 70px;">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="font-size: 13px;">Associations between Socio-Environmental Dynamics and SWB</h5>
+            <h5 style="font-size: 14px;">Associations between Socio-Environmental Dynamics and SWB</h5>
           </div>
            <!-- 放大按钮 -->
           <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
