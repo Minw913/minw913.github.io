@@ -283,7 +283,7 @@ These studies were primarily conducted by myself. I have a strong interest in ex
   </div>
 <!-- </div> -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> Excellent Reporting Award in the 3rd National Symposium on Regional Ecology; Accepted by the journal <i>Geographical Research</i>.</p>
+  <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> Excellent National Undergraduate Training Program for Innovation and Entrepreneurship; Excellent Reporting Award in the 3rd National Symposium on Regional Ecology; Accepted by the journal <i>Geographical Research</i>.</p>
 </div>
 <!-- 引入 Font Awesome 的 CDN，用于加载 PDF 图标 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
