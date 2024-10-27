@@ -62,7 +62,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
 <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
 <div class="toggle-content" style="display: none;">
   <p style="margin-top: 10px; margin-bottom: 10px;">
-  I work remotely at 0.6 FTE per month as a data scientist. My main responsibilities include processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
+  I work remotely at 0.6 FTE per month as a data scientist with main responsibilities regarding processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
   In many ways, the work here is more akin to research, as the projects require strong knowledge of mathematical statistics and involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
   Currently, I am primarily responsible for two projects:
   </p>
@@ -70,11 +70,11 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
     <!-- 注意间距是调整padding-top: 10px -->
     <div style="padding-top: 10px; padding-left: 20px; padding-right: 20px; ">
       <h3 style="margin-top: 15px;">1 Origin-Destination Estimation in Sapporo</h3>
-      <p>We use the four-step model of trip generation, trip distribution, mode choice and route assignment to predict traffic demand and identify key factors and patterns, offering insights on public transit capacity allocation.</p>
+      <p>We use the four-step model of trip generation, trip distribution, mode choice and route assignment to predict traffic demand and identify key factors, offering insights on public transit capacity allocation.</p>
 
       <ul>
-        <li>Fully leverage GTFS, IC card, and socioeconomic data to perform spatiotemporal clustering of O-D trips</li>
-        <li>Incorporate environmental factors (e.g., carbon emissions, noise pollution) into the model to enhance the sustainability of public transportation?</li>
+        <li>Leverage GTFS, IC card, and socioeconomic data to perform spatiotemporal clustering of O-D trips</li>
+        <li>Incorporate environmental factors (e.g., carbon emissions, noise pollution) into the model to enhance the sustainability of public transportation</li>
         <li>Utilize machine learning algorithms to perform data-driven modeling without predefined assumptions and</li>
         <li>......</li>
       </ul>
@@ -85,7 +85,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
       <p>The four-step model relies on aggregated data, limiting its ability to reflect individual travel decisions while agent-based models can compensate for this.</p>
 
       <ul>
-        <li>Introduce new transport modes (e.g., autonomous driving, shared mobility) into the traffic simulation?</li>
+        <li>Introduce new transport modes (e.g., autonomous driving, shared mobility) into the traffic simulation</li>
         <li>Model heterogeneity in agent behavior (e.g., income and age) by differentiating utility functions</li>
         <li>Integrate the influence of behavioral psychology on the rational agent (e.g., acceptability of autonomous vehicles) </li>
         <li>......</li>
@@ -275,7 +275,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
   </div>
 <!-- </div> -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type=work&entry=14153">The First Prize in the 7th Chengyuan Cup</a>; <a href="https://www.isocui.org/icui2023/">Best Presentation Award in GSCS & ICUI 2023</a>; Submitted to the journal <i>Computers, Environment and Urban Systems</i>.</p>
+<p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type=work&entry=14153">The First Prize in the 7th Chengyuan Cup</a>; Best Presentation Award in <a href="https://www.isocui.org/icui2023/">GSCS & ICUI 2023</a>; Submitted to the journal <i>Computers, Environment and Urban Systems</i>.</p>
 </div>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
