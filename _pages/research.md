@@ -11,7 +11,7 @@ redirect_from:
 
 ## **Overview**
 <p>
-These studies were primarily conducted by myself. I have a strong interest in exploring spatiotemporal patterns and impact mechanisms, with a keen focus on urban and regional sustainability.
+These studies were primarily conducted by myself. I have a strong interest in exploring spatiotemporal patterns and impact mechanisms, with a keen focus on urban environmental sustainability.
 </p>
 
 <!-- 研究项目标题 -->

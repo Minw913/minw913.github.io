@@ -73,9 +73,9 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
       <p>We use the four-step model of trip generation, trip distribution, mode choice and route assignment to predict traffic demand and identify key factors and patterns, offering insights on public transit capacity allocation.</p>
 
       <ul>
-        <li>How can we fully leverage GTFS, IC card, and socioeconomic data to achieve spatiotemporal clustering of OD trips?</li>
-        <li>How can environmental factors (e.g., carbon emissions, noise pollution) be considered into the model for the sustainability of public transportation?</li>
-        <li>How can machine learning algorithms be utilized to perform data-driven modeling without predefined assumptions, enhancing the model's flexibility?</li>
+        <li>Fully leverage GTFS, IC card, and socioeconomic data to perform spatiotemporal clustering of O-D trips</li>
+        <li>Incorporate environmental factors (e.g., carbon emissions, noise pollution) into the model to enhance the sustainability of public transportation?</li>
+        <li>Utilize machine learning algorithms to perform data-driven modeling without predefined assumptions and</li>
         <li>......</li>
       </ul>
     </div>
@@ -85,9 +85,9 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
       <p>The four-step model relies on aggregated data, limiting its ability to reflect individual travel decisions while agent-based models can compensate for this.</p>
 
       <ul>
-        <li>How can we incorporate new travel modes (e.g., autonomous driving, shared mobility) into the traffic simulation?</li>
-        <li>How can we model heterogeneity in agent behavior (e.g., income and age) by differentiating parameters in utility functions?</li>
-        <li>How can we integrate the influence of behavioral psychology on the rational agent, such as acceptability of autonomous vehicles? </li>
+        <li>Introduce new transport modes (e.g., autonomous driving, shared mobility) into the traffic simulation?</li>
+        <li>Model heterogeneity in agent behavior (e.g., income and age) by differentiating utility functions</li>
+        <li>Integrate the influence of behavioral psychology on the rational agent (e.g., acceptability of autonomous vehicles) </li>
         <li>......</li>
       </ul>
     </div>
@@ -275,7 +275,7 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
   </div>
 <!-- </div> -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type\=vote">The First Prize in the 7th Chengyuan Cup</a>; <a href="https://www.isocui.org/icui2023/">Best Presentation Award in GSCS & ICUI 2023</a>; Submitted to the journal <i>Computers, Environment and Urban Systems</i>.</p>
+<p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> <a href="http://wupen.org/competitions/68?type=work&entry=14153">The First Prize in the 7th Chengyuan Cup</a>; <a href="https://www.isocui.org/icui2023/">Best Presentation Award in GSCS & ICUI 2023</a>; Submitted to the journal <i>Computers, Environment and Urban Systems</i>.</p>
 </div>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
@@ -315,6 +315,6 @@ Unlike research, these projects were comprehensive team efforts, where I was oft
   <p style="margin-top: 35px; margin-bottom: 0;"><strong>Honor:</strong> The Grand Prize in the 1st 'Sky Cup' National College Students Spatial Information Technology Competition </p>
 </div>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<p style="margin-top: 0px; margin-bottom: 0;"><a href="http://public.dupetrc.qiyi.us:31382/app_noise_loc/home" target="_blank"><i class="fas fa-globe"></i> Our Website</a></p>
+<p style="margin-top: 0px; margin-bottom: 0;"><a href="http://public.dupetrc.qiyi.us:31382/app_noise_loc/home" target="_blank"><i class="fas fa-globe"></i> Web App</a></p>
 <!-- 分隔线 -->
 <hr style="border: none; height: 0.5px; background-color: #757575; margin-top: 10px; margin-bottom: 10px;">
