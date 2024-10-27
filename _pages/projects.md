@@ -62,7 +62,7 @@ These projects were comprehensive team efforts, where I was often the team leade
 <p style="color: #757575; font-size: 16px;">Sep 02, 2024 – Present</p>
 <div class="toggle-content" style="display: none;">
   <p style="margin-top: 10px; margin-bottom: 10px;">
-  I work remotely at 0.6 FTE per month as a data scientist with main responsibilities regarding processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
+  I work remotely at 0.6 FTE per month as a data scientist with main work regarding processing and integrating traffic data, developing traffic simulation models and optimization systems.<br>
   In many ways, the work here is more akin to research, as the projects require strong knowledge of mathematical statistics and involve exploratory methods. I look forward to collaborating with the company's lab to publish the outcomes of our projects if the opportunity arises.<br>
   Currently, I am primarily responsible for two projects:
   </p>
