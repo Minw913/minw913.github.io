@@ -53,7 +53,7 @@ redirect_from:
 
 ## **Overview**
 <p>
-Unlike research, these projects were comprehensive team efforts, where I was often the team leader.These projects focus on urban transportation and environmental issues, employing methods such as multi-agent systems, deep learning and reinforcement learning to achieve prediction, simulation, and optimization, providing insights for urban planning and policy.
+Unlike research, these projects were comprehensive team efforts, where I was often the team leader.These projects focus on urban transportation and environmental issues, employing methods such as multi-agent systems, deep learning and reinforcement learning to achieve prediction, simulation and optimization, providing insights for urban planning and policy.
 </p>
 
 <h2 class="toggle-header" style="cursor: pointer;">
