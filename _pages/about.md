@@ -13,7 +13,7 @@ My background combines urban planning, GIScience and data science:
 <span>Data Scientist</span><span style="float: right;">_2024/09 - Present_</span>  
 
 **The London School of Economics and Political Science**  
-<span>M.S. Geographic Data Science</span><span style="float: right;">_2023/09 – 2024/11 (Expected)_</span>  
+<span>M.S. Geographic Data Science</span><span style="float: right;">_2023/09 – 2024/11_</span>  
 
 **Nanjing University**
 <br>
