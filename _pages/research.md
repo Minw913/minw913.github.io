@@ -33,7 +33,6 @@ These studies were primarily conducted by myself. I have a strong interest in ex
         <li data-target="#researchCarousel_1" data-slide-to="3"></li>
         <li data-target="#researchCarousel_1" data-slide-to="4"></li>
         <li data-target="#researchCarousel_1" data-slide-to="5"></li>
-        <li data-target="#researchCarousel_1" data-slide-to="6"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
