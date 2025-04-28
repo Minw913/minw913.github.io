@@ -116,7 +116,7 @@ These projects were comprehensive team efforts, where I was often the team leade
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="/images/project_1/Framework.png" class="d-block mx-auto" alt="Project Image 1"
-          style="margin-top: 120px;">
+          style="margin-top: 100px;">
           <div class="carousel-caption d-none d-md-block">
             <h5>Project framework</h5>
           </div>
