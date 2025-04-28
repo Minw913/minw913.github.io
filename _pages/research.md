@@ -35,6 +35,13 @@ These studies were primarily conducted by myself. I have a strong interest in ex
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
+          <img src="/images/research_1/framework.png" class="d-block mx-auto" alt="Research Image 0"
+          style="margin-top: 40px;">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>The method framework of proposed problem</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
           <img src="/images/research_1/img_1.png" class="d-block mx-auto" alt="Research Image 1"
           style="margin-top: 40px;">
           <div class="carousel-caption d-none d-md-block">
