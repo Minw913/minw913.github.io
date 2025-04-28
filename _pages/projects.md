@@ -114,6 +114,15 @@ These projects were comprehensive team efforts, where I was often the team leade
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
+          <img src="/images/project_1/Framework.png" class="d-block mx-auto" alt="Project Image 1"
+          style="margin-top: 70px;">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Project framework</h5>
+          </div>
+          <!-- 放大按钮 -->
+          <!-- <button class="enlarge-btn" onclick="openModal('/images/research_1/img_1.png')">🔍</button> -->
+        </div>
+        <div class="carousel-item">
           <iframe src="/files/project_1/graph.html" width="100%" height="100%" style="border:none;margin-top: 30px;" ></iframe>
           <div class="carousel-caption d-none d-md-block">
             <h5>Iterative optimization of utility by different RL algorithms</h5>
